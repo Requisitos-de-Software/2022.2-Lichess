@@ -1,11 +1,18 @@
 site_name: Grupo 2
 site_url: https://requisitos-de-software.github.io/2022.2-Grupo2/
 
+theme:
+  name: material
+  features:
+    - tabs
+    - navigation.section
+
 nav:
   - Home: index.md
   - Equipe: equipe.md
   - Atas:
-    - Primeiro Encontro - 01/11/2022: atas/ata_01_11.md
+    - 01/11/2022: atas/ata_01_11.md
+    - 10/11/2022: atas/ata_10_11.md
   # - "Nova navegação": "nome do arquivo relativo a docs"
   # - "Nova navegação":
   #   - "Navegação com filhos": "nome do arquivo relativo a docs"
