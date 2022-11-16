@@ -6,6 +6,8 @@ nav:
   - Equipe: equipe.md
   - Atas:
     - Primeiro Encontro - 01/11/2022: atas/ata_01_11.md
+  - Planejamento:
+    - Ferramentas: ferramentas.md
   # - "Nova navegação": "nome do arquivo relativo a docs"
   # - "Nova navegação":
   #   - "Navegação com filhos": "nome do arquivo relativo a docs"
