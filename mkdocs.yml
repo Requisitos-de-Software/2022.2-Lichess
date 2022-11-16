@@ -1,11 +1,6 @@
 site_name: Grupo 2
 site_url: https://requisitos-de-software.github.io/2022.2-Grupo2/
 
-theme:
-  name: material
-  features:
-    - tabs
-    - navigation.section
 
 nav:
   - Home: index.md
