@@ -28,7 +28,7 @@ Depois da seleção individual, as propostas foram discutidas pela equipe basean
 
 ### Lichess
 
-Dentre os aplicativos analisados de forma individual, o aplicativo escolhido foi o "__Lichess__". Pois, esse foi o que melhor se adequou aos critérios apresentados anteriormente, principalmente com relação à facilidade de contato com os usuários devido aos grupos de xadrez existentes na Universidade de Brasília. Esse é um aplicativo gratuito, disponível para Android, na plataforma da Play Store, o qual teve seu projeto inicial realizado como um hobby que com a ajuda da iniciativa de software livre se tornou um dos maiores referências em xadrez online no mundo, mesmo sem fins lucrativos. Segue, na imagem 1, a página do aplicativo na Play Store.
+Dentre os aplicativos analisados de forma individual, o aplicativo escolhido foi o "[__Lichess__](https://lichess.org/)". Pois, esse foi o que melhor se adequou aos critérios apresentados anteriormente, principalmente com relação à facilidade de contato com os usuários devido aos grupos de xadrez existentes na Universidade de Brasília. Esse é um aplicativo gratuito, disponível para Android, na plataforma da Play Store, o qual teve seu projeto inicial realizado como um hobby que com a ajuda da iniciativa de software livre se tornou um dos maiores referências em xadrez online no mundo, mesmo sem fins lucrativos. Segue, na imagem 1, a página do aplicativo na Play Store.
 
 ![image](images/img-lichess.jpg)
 
