@@ -14,6 +14,7 @@ nav:
     - 01/11/2022: atas/ata_01_11.md
     - 10/11/2022: atas/ata_10_11.md
   - "Planejamento":
+    - "Aplicativo Selecionado": "planejamento/aplicativoSelecionado.md"
     - "Cronograma": "planejamento/cronograma.md"
   - "Pré-Rastreabilidade":
     - "Rich-Picture": "prerastreabilidade/richpicture.md"
