@@ -6,14 +6,14 @@ Durante a primeira etapa do projeto, os estudantes realizaram escolhas de aplica
 
 <p>Tabela 1 - Tabela dos aplicativos analisados<p/>
 
-| Nome             | Aplicativo            | Rich Picture                                           |
-| ---------------- | --------------------- | ------------------------------------------------------ |
-| Lucas Macedo     | Mobills               | [Rich Picture]()                                       |
-| Mauricio Machado | Medium                | [Rich Picture](images/rich-picture-mauricio.jpeg)      |
-| Lucas Gabriel    | Lichess               | [Rich Picture](images/rich-picture-lucas-gabriel.jpeg) |
-| Nicolas Chagas   | Resultados (eleições) | [Rich Picture](images/rich-picture-nicolas.jpeg)       |
-| Davi Silva       | SescApp               | [Rich Picture](images/rich-picture-davi.jpeg)          |
-| Renan Rodrigues  | Spc Consumidor        | [Rich Picture]()                                       |
+| Nome             | Aplicativo     | Rich Picture                                           |
+| ---------------- | -------------- | ------------------------------------------------------ |
+| Lucas Macedo     | Cadastro Único | [Rich Picture](images/rich-picture-lucas-macedo.jpeg)  |
+| Maurício Machado | Medium         | [Rich Picture](images/rich-picture-mauricio.jpeg)      |
+| Lucas Gabriel    | Lichess        | [Rich Picture](images/rich-picture-lucas-gabriel.jpeg) |
+| Nicolas Chagas   | Resultados     | [Rich Picture](images/rich-picture-nicolas.jpeg)       |
+| Davi Silva       | Sesc DF        | [Rich Picture](images/rich-picture-davi.jpeg)          |
+| Renan Rodrigues  | Spc Brasil     | [Rich Picture](images/rich-picture-renan.jpeg)         |
 ## Aplicativo definido pela equipe
 
 Depois da seleção individual, as propostas foram discutidas pela equipe baseando-se nos seguintes critérios:
@@ -22,7 +22,8 @@ Depois da seleção individual, as propostas foram discutidas pela equipe basean
 - Aplicativo pertencente ao governo ou a uma comunidade de software livre.
 - Facilidade de acesso aos usuários do aplicativo.
 
-Dentre os aplicativos analisados de forma individual, o aplicativo escolhido foi o "Lichess". Pois, esse foi o que melhor se adequou aos critérios apresentados anteriormente, principalmente com relação à facilidade de contato com os usuários. Segue, na imagem 1, a página do aplicativo na App Store.
+### Lichess
+Dentre os aplicativos analisados de forma individual, o aplicativo escolhido foi o "__Lichess__". Pois, esse foi o que melhor se adequou aos critérios apresentados anteriormente, principalmente com relação à facilidade de contato com os usuários devido aos grupos de xadrez existentes na Universidade de Brasília. Esse é um aplicativo gratuito, disponível para IOS, na plataforma da App Store, o qual teve seu projeto inicial realizado como um hobby que com a ajuda da iniciativa de software livre e se tornou um dos maiores sítios eletrônicos de xadrez do mundo mesmo sem fins lucrativos. Segue, na imagem 1, a página do aplicativo na App Store.
 
 <p>Imagem 1 - Imagem do aplicativo na App Store<p/>
 
@@ -32,4 +33,4 @@ Dentre os aplicativos analisados de forma individual, o aplicativo escolhido foi
 
 | Versão | Data       | Descrição            | Autor         | Revisor  |
 | ------ | ---------- | -------------------- | ------------- | -------- |
-| 0.1    | 17/11/2022 | Criação do documento | Lucas Gabriel | Mauricio |
+| 0.1    | 17/11/2022 | Criação do documento | Lucas Gabriel | Maurício |
