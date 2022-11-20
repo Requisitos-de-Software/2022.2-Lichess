@@ -21,6 +21,9 @@ Nossa equipe de trabalho é composta pelos seguintes estudantes de Engenharia de
     <img src="https://github.com/lucasgabriel-2.png" alt="Lucas Gabriel" style="width: 10vw">    |  Lucas Gabriel   |    [lucasgabriel-2](https://github.com/lucasgabriel-2)    |
 |        <img src="https://github.com/Luckx98.png" alt="Lucas Macedo" style="width: 10vw">         |   Lucas Macedo   |            [Luckx98](https://github.com/Luckx98)            |
 |         <img src="https://github.com/nszchagas.png" alt="Nicolas Souza" style="width: 10vw">          |     Nicolas Souza     |         [nszchagas](https://github.com/nszchagas)         |
+|         <img src="https://github.com/LacerdaRenan.png" alt="Renan Lacerda" style="width: 10vw">          |     Renan Lacerda     |         [LacerdaRenan](https://github.com/LacerdaRenan)         |
+
+
 
 ## Histórico de versão do arquivo
 
