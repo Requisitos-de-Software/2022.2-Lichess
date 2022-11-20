@@ -19,9 +19,10 @@ Foram utilizados os seguintes componentes para a elaboração do Rich Picture:.
 
 ## 4. Histórico de Versões
 
-| Versão | Data       | Descrição                          | Autor                |
-| ------ | ---------- | ---------------------------------- | -------------------- |
-| 0.1    | 20/11/2022 | Criação do Rich Picture Versão 1   | Renan Lacerda        |
+| Versão | Data | Descrição | Autor | Revisor |
+| :------: | :--------: |:----------------------------: | :-----------: | :--------------: |
+| `0.1` | 20/11/2022 | Criação do Rich Picture Versão 1 | Renan Lacerda | Davi Silva |
+
 
 ## 5. Referências
 
