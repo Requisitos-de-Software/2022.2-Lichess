@@ -4,13 +4,15 @@ site_url: https://requisitos-de-software.github.io/2022.2-Grupo2/
 theme:
   name: material
   favicon: img/logo.png
+  icon: img/logo.png
+  palette:
+    primary: grey
   features:
     - tabs
     - navigation.section
 
 nav:
-  - Home: index.md
-  - Equipe: equipe.md
+  - Sobre o Projeto: index.md
   - Atas:
       - 01/11/2022: atas/ata_01_11.md
       - 10/11/2022: atas/ata_10_11.md
@@ -19,6 +21,7 @@ nav:
       - Aplicativo Selecionado: "planejamento/aplicativo_selecionado.md"
       - Ferramentas: "planejamento/ferramentas.md"
       - Cronograma: "planejamento/cronograma.md"
+      - Metodologias: "planejamento/metodologias.md"
   - Pré-Rastreabilidade:
       - Rich-Picture: "prerastreabilidade/richpicture.md"
 
