@@ -24,6 +24,7 @@ nav:
       - Metodologias: "planejamento/metodologias.md"
   - Pré-Rastreabilidade:
       - Rich-Picture: "prerastreabilidade/richpicture.md"
+  - Apresentações: apresentacoes.md
 
   # - Nova navegação: "nome do arquivo relativo a docs"
   # - Nova navegação:
