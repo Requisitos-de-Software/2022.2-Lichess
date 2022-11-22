@@ -6,6 +6,8 @@ Apresentação de itens feitos para cada ponto de controle do cronograma.
 
 ## 2. Ponto de Controle 1
 
+Na tabela 1 podemos ver o que foi realizado no Ponto de Controle 1.
+
 |        Atividade         |  Entrega   |  Revisão   |      Autor(es)       |          Revisor(es)          |
 | :----------------------: | :--------: | :--------: | :------------------: | :---------------------------: |
 |       Metodologias       | 18/11/2022 | 20/11/2022 |       Nicolas        | Lucas Macedo, Mauricio e Davi |
@@ -17,7 +19,7 @@ Apresentação de itens feitos para cada ponto de controle do cronograma.
 | Gravação da apresentação | 20/11/2022 |     -      | Todos os integrantes |               -               |
 |  Edição da apresentação  | 20/11/2022 |     -      |       Mauricio       |               -               |
 
-**Tabela 1: Itens realizados Ponto de Controle 1**
+**Tabela 1: Itens realizados Ponto de Controle 1. Fonte: Criado pelo autor.**
 
 ## 9. Referências
 
