@@ -18,25 +18,18 @@ Todas as técnicas de elicitação englobam uma fase de preparação, durante a 
 <p> Figura 1: Protocolo do Garçom. Fonte: <a href="#referencias-bibliograficas">[2]</a> </p>
 </div>
 
+## Definição das técnicas
+
 É importante utilizar mais de uma técnica de elicitação, pois estas podem apresentar resultados e engajamento diferentes em diferentes grupos de _stakeholders_. Trabalhar diretamente com usuários é necessário, já que os requisitos estão intimamente relacionados às atividades que serão desempenhadas por eles.
 
-### Entrevistas
+Após estudar as técnicas, e levando em consideração o acesso aos usuários, disponibilidade de tempo e afinidade de cada membro, foram definidas as técnicas de elicitação de requisitos para o projeto. Abaixo estão elencadas as técnicas escolhidas.
 
-### Workshop
-
-### Grupo de foco
-
-### Observação (etnografia)
-
-### Questionários
-
-### Análise da Interface do Sistema
-
-### Análise da Interface de Usuário
-
-### Análise de Documentos
-
-### Glossário
+- [Brainstorming](./brainstorming.md)
+- [Storytelling](./storytelling.md)
+- [Personas](./personas.md)
+- [Questionário](./questionario.md)
+- [Glossário](./glossario.md)
+- [Introspecção](./instrospeccao.md)
 
 ## Referências Bibliográficas
 
@@ -48,4 +41,4 @@ Todas as técnicas de elicitação englobam uma fase de preparação, durante a 
 
 |    Data     | Versão | Descrição              | Autor     | Revisor |
 |  :-------:  | :----: | :------------------:   | :-----------: | :-: |
-|  22/11/2022 |  `0.1` | Criação do documento | Nicolas Souza  | Mauricio |
+|  22/11/2022 |  `0.1` | Criação do documento | Nicolas Souza  |  |
