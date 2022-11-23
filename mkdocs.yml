@@ -26,8 +26,14 @@ nav:
       - Rich-Picture: "prerastreabilidade/richpicture.md"
   - Elicitacao:
       - Técnicas Planejadas: "elicitacao/tecnicas_planejadas.md"
+      - Brainstorming: "elicitacao/brainstorming.md"
+      - Glossário: "elicitacao/glossario.md"
+      - Instropecção: "elicitacao/instrospeccao.md"
+      - Personas: "elicitacao/personas.md"
+      - Storytelling: "elicitacao/storytelling.md"
   - Apresentações: apresentacoes.md
 
   # - Nova navegação: "nome do arquivo relativo a docs"
   # - Nova navegação:
   #   - Navegação com filhos: "nome do arquivo relativo a docs"
+
