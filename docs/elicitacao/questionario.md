@@ -201,6 +201,9 @@ A interface do LiChess possui alta densidade de itens sem reforço ou incetivo p
 | Q08 |           Usuários devem ser pareados em partidas online com usuários de mesma ou similar habilidade           | RF05  |
 | Q09 |                           Usuários não precisam de conta para jogar partidas online                            | RF06  |
 | Q10 |                 Usuário deve ter acesso a onboarding quando usa o aplicativo pela primeira vez                 | RF07  |
+| Q11 |                                  Aplicativo deve estimular a competitividade                                   | RNF06 |
+| Q12 |                                        O aplicativo deve funcionar 24/7                                        | RNF07 |
+| Q13 |                                   Aplicativo deve ensinar xadrez ao usuário                                    | RF08  |
 
 ## Referências
 
