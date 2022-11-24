@@ -22,6 +22,7 @@ nav:
       - Aplicativo Selecionado: "planejamento/aplicativo_selecionado.md"
       - Ferramentas: "planejamento/ferramentas.md"
       - Cronograma: "planejamento/cronograma.md"
+      - Cronograma Realizado: "planejamento/cronograma_realizado.md"
       - Metodologias: "planejamento/metodologias.md"
   - Pré-Rastreabilidade:
       - Rich-Picture: "prerastreabilidade/richpicture.md"
