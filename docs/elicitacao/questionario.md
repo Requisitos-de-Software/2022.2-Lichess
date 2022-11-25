@@ -29,13 +29,13 @@ Respostas foram coletadas entre as datas **20/11/2022** e **24/11/2022**.
 
 ### Questão 1
 
-<img src="./imgs/perguntas_questionario/pergunta-1.png" alt="Imagem do resultado da questão 1" width="650"/>
+![Image do resultado da questão 1](./imgs/perguntas_questionario/pergunta-1.png)
 
 **Imagem Pergunta 1. Fonte: Mauricio Machado**
 
 ### Questão 2
 
-<img src="./imgs/perguntas_questionario/pergunta-2.png" alt="Imagem do resultado da questão 2" width="650"/>
+![Image do resultado da questão 2](./imgs/perguntas_questionario/pergunta-2.png)
 
 **Imagem Pergunta 2. Fonte: Mauricio Machado**
 
@@ -87,13 +87,13 @@ Na Tabela Respostas Pergunta 4, estão listadas as resposta diretas do nosso usu
 
 ### Questão 5
 
-<img src="./imgs/perguntas_questionario/pergunta-5.png" alt="Imagem do resultado da questão 5" width="650"/>
+![Image do resultado da questão 5](./imgs/perguntas_questionario/pergunta-5.png)
 
 **Imagem Pergunta 5. Fonte: Mauricio Machado**
 
 ### Questão 6
 
-<img src="./imgs/perguntas_questionario/pergunta-6.png" alt="Imagem do resultado da questão 6" width="650"/>
+![Image do resultado da questão 6](./imgs/perguntas_questionario/pergunta-6.png)
 
 **Imagem Pergunta 6. Fonte: Mauricio Machado**
 
@@ -114,7 +114,7 @@ Na Tabela Respostas Pergunta 4, estão listadas as resposta diretas do nosso usu
 
 ### Questão 8
 
-<img src="./imgs/perguntas_questionario/pergunta-8.png" alt="Imagem do resultado da questão 8" width="650"/>
+![Image do resultado da questão 8](./imgs/perguntas_questionario/pergunta-8.png)
 
 **Imagem Pergunta 8. Fonte: Mauricio Machado**
 
@@ -132,19 +132,19 @@ Na Tabela Respostas Pergunta 4, estão listadas as resposta diretas do nosso usu
 
 ### Questão 10
 
-<img src="./imgs/perguntas_questionario/pergunta-10.png" alt="Imagem do resultado da questão 10" width="650"/>
+![Image do resultado da questão 10](./imgs/perguntas_questionario/pergunta-10.png)
 
 **Imagem Pergunta 10. Fonte: Mauricio Machado**
 
 ### Questão 11
 
-<img src="./imgs/perguntas_questionario/pergunta-11.png" alt="Imagem do resultado da questão 11" width="650"/>
+![Image do resultado da questão 11](./imgs/perguntas_questionario/pergunta-11.png)
 
 **Imagem Pergunta 11. Fonte: Mauricio Machado**
 
 ### Questão 12
 
-<img src="./imgs/perguntas_questionario/pergunta-12.png" alt="Imagem do resultado da questão 12" width="650"/>
+![Image do resultado da questão 12](./imgs/perguntas_questionario/pergunta-12.png)
 
 **Imagem Pergunta 12. Fonte: Mauricio Machado**
 
