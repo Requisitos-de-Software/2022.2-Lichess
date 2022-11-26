@@ -59,23 +59,16 @@ Foi utilizada a técnica da entrevista com intuito de verificar as funcionalidad
 
 - **O que poderia melhorar no aplicativo ?** 
 **Resposta:**  No momento não consigo lembrar de nada. Mas algo bom que ele possui é a análise e poder jogar com um computador a partir de uma posição selecionada na análise.
-
-
-## Dados da entrevista 2
-
-- Entrevistador : Lucas Gabriel Sousa Camargo Paiva
-- Duração: 10 minutos
-- Local: Microsoft Teams 
-
 ## Resultados
 
 Como resultado da técnica de Entrevista, foram levantados os seguintes requisitos:
 
-| Identificador |                                   Requisitos                                   |
-| :-----------: | :----------------------------------------------------------------------------: |
-|     RNF1      |             O software deve ter uma interface simples e intuitiva              |
-|     RNF2      | O software deve possuir ícones condensando neles as principais funcionalidades |
-
+| Identificador |                                                                     Requisitos                                                                      |
+| :-----------: | :-------------------------------------------------------------------------------------------------------------------------------------------------: |
+|      RF1      |                 Ao clicar em "Criar partida" deverá aprensentar para o usuário de forma simples e detalhada a duração das partidas                  |
+|      RF2      | Deve ser possível jogar contra um bot que represente um jogador famoso (tenha em sua configuração movimentos similares aos utilizados pelo jogador) |
+|     RNF1      |                                                O software deve ter uma interface simples e intuitiva                                                |
+|     RNF2      |                                   O software deve possuir ícones condensando neles as principais funcionalidades                                    |
 
 Tabela 1: Requisitos elicitados por meio da entrevista
 
@@ -84,9 +77,9 @@ Tabela 1: Requisitos elicitados por meio da entrevista
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição            | Autor         | Revisor |
-| ------ | ---------- | -------------------- | ------------- | ------- |
-| 1.0    | 25/11/2022 | Criação do documento | Lucas Gabriel | -       |
+| Versão | Data       | Descrição            | Autor         | Revisor          |
+| ------ | ---------- | -------------------- | ------------- | ---------------- |
+| 1.0    | 25/11/2022 | Criação do documento | Lucas Gabriel | Mauricio Machado |
 
 
 
