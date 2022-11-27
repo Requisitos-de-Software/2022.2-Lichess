@@ -59,7 +59,8 @@ Foi utilizada a técnica da entrevista com intuito de verificar as funcionalidad
 
 - **O que poderia melhorar no aplicativo ?** 
 **Resposta:**  No momento não consigo lembrar de nada. Mas algo bom que ele possui é a análise e poder jogar com um computador a partir de uma posição selecionada na análise.
-## Resultados
+
+## Resultados 
 
 Como resultado da técnica de Entrevista, foram levantados os seguintes requisitos:
 
