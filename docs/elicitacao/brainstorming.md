@@ -20,18 +20,47 @@ De maneira geral, o brainstorm é uma técnica utilizada para levantar requisito
 
 ### Resultados
 
+Como resultado das reuniões e pesquisas, nós obtivemos os seguintes temas de requisitos funcionais e não funcionais:
+| Número | Requisitos Funcionais |
+| :---: | :--------------------------: |
+| 1   | O adversário deve poder filtrar os adversários |
+| 2   | O usuário deve poder jogar offline |
+| 3   | O usuário deve poder pesquisar um usuário específico |
+| 4   | O usuário deve poder realizar diferentes tipos de jogadas |
+| 5   | O usuário deve poder pausar o jogo |
+| 6   | O usuário deve poder continuar jogando de onde parou(quando offline) |
+| 7   | O usuário deve conseguir criar grupos de colegas para jogar |
+| 8   | O usuário deve poder controlar a dificuldade do bot quando jogar offline |
+| 9   | O usuário deve poder realizar login na conta |
+| 10  | O usuário deve poder criar um perfil |
+| 11  | O usuário deve poder recuperar a senha |
+| 12  | O usuário deve poder sair da conta |
+| 13  | O usuário deve poder ver informçãoes da conta |
+| 14  |  |
 <div style="text-align: center">
 <p>Tabela 1: Requisitos Funcionais</p>
 </div>
-
 <div style="text-align: center">
 <p>Fonte: Grupo 2</p>
 </div>
 
+
+| Número | Requisitos Não Funcionais |
+| :---: | :--------------------------: |
+| 1   | O sistema deve ter a opção de criação de partidas rápidas |
+| 2   | O usuário deve poder assistir e jogar partida de qualquer dispositivo |
+| 3   | O aplicativo deve ser fácil de ser utilizado |
+| 4   | O usuário é recompensado cada vez que termina uma partida ou assiste uma aula ou participa de um torneio |
+| 5   | O sistema deve ser acessível para diversas plataformas como mobile ou web  |
+| 6   | O usuário deve poder continuar jogando de onde parou(quando offline) |
+| 7   | O usuário deve conseguir criar grupos de colegas para jogar |
+| 8   | O usuário deve poder controlar a dificuldade do bot quando jogar offline |
+| 9   | O sistema deve ter a opção de criação rápidas de partidas |
+| 10  | O aplicativo deve ser produzido de maneira que mantenha o usuário engajado e motivado |
+
 <div style="text-align: center">
 <p>Tabela 2: Requisitos Não Funcionais</p>
 </div>
-
 <div style="text-align: center">
 <p>Fonte: Grupo 2</p>
 </div>
