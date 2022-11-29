@@ -8,7 +8,7 @@ Essas descrições seguem o princípio circular e o princípio do vocabulário m
 
 ## Metodologia
 
-Os léxicos do LiChess foram identificados a partir do uso do aplicativo e dos requisitos elicitados na etapa anterior. Abaixo temos o exemplo de como o léxico será apresentado:
+Os léxicos do Lichess foram identificados a partir do uso do aplicativo e dos requisitos elicitados na etapa anterior. Abaixo temos o exemplo de como o léxico será apresentado:
 
 |     Léxico     | Sinônimo |  Noção  |       Impacto       |    Classificação    |
 | :------------: | :------: | :-----: | :-----------------: | :-----------------: |
@@ -20,27 +20,27 @@ Os léxicos do LiChess foram identificados a partir do uso do aplicativo e dos r
 
 ### L01 - Inteligência artificial
 
-|        Léxico         |    Sinônimo     |              Noção              |                                               Impacto                                                | Classificação |
-| :-------------------: | :-------------: | :-----------------------------: | :--------------------------------------------------------------------------------------------------: | :-----------: |
-| Inteligência Articial | Computador, Bot | Jogador inimigo em modo offline | Ao jogar partidas sem ter de fato alguém para jogar uma inteligência artificial assumirá esse papel. |    Objeto     |
+|         Léxico          |    Sinônimo     |              Noção              |                                               Impacto                                                | Classificação |
+| :---------------------: | :-------------: | :-----------------------------: | :--------------------------------------------------------------------------------------------------: | :-----------: |
+| Inteligência Artificial | Computador, Bot | Jogador inimigo em modo offline | Ao jogar partidas sem ter de fato alguém para jogar uma inteligência artificial assumirá esse papel. |    Objeto     |
 
 ### L02 - Usuário
 
 | Léxico  | Sinônimo |                Noção                |                          Impacto                           | Classificação |
 | :-----: | :------: | :---------------------------------: | :--------------------------------------------------------: | :-----------: |
-| Usuário | Jogador  | Classe padrão de usuário do LiChess | Usuários possuem acesso máximo aos elementos do aplicativo |    Estado     |
+| Usuário | Jogador  | Classe padrão de usuário do Lichess | Usuários possuem acesso máximo aos elementos do aplicativo |    Estado     |
 
 ### L03 - Tabuleiro
 
 |  Léxico   | Sinônimo |                                Noção                                 |                                                           Impacto                                                            | Classificação |
 | :-------: | :------: | :------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------: | :-----------: |
-| Tabuleiro |   Mapa   | Artefato que guarda informações sobre peças de xadrez em uma partida | Identifica posições das peças, possíveis futuros movimentos e alerta sobre colisões entre peças para ser correto tratamento. |    Objeto     |
+| Tabuleiro |   Mapa   | Artefato que guarda informações sobre peças de xadrez em uma partida | Identifica as posições das peças, possíveis futuros movimentos e estado de jogo, e responde conforme esses estados atualizam |    Objeto     |
 
 ### L04 - Partida
 
 | Léxico  |  Sinônimo   |                     Noção                     |                                  Impacto                                  | Classificação |
 | :-----: | :---------: | :-------------------------------------------: | :-----------------------------------------------------------------------: | :-----------: |
-| Partida | Match, jogo | Instância em LiChess de uma partida de xadrez | Conecta os jogadores para permitir que competim em uma partida de xadrez. |    Objeto     |
+| Partida | Match, jogo | Instância em Lichess de uma partida de xadrez | Conecta os jogadores para permitir que compitam em uma partida de xadrez. |    Objeto     |
 
 ### L05 - Jogar
 
@@ -56,15 +56,15 @@ Os léxicos do LiChess foram identificados a partir do uso do aplicativo e dos r
 
 ### L07 - Partida com computador
 
-|         Léxico         |                       Sinônimo                        |                                              Noção                                               |                 Impacto                 | Classificação |
-| :--------------------: | :---------------------------------------------------: | :----------------------------------------------------------------------------------------------: | :-------------------------------------: | :-----------: |
-| Partida com computador | Partida offline, Jogar contra inteligência artificial | Partida em que o adversário é uma inteligência artifical simulando as jogadas de uma pessoa real | Usuário consegue jogar partidas sozinho |    Estado     |
+|         Léxico         |                       Sinônimo                        |                                                             Noção                                                              | Impacto | Classificação |
+| :--------------------: | :---------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------: | :-----: | :-----------: |
+| Partida com computador | Partida offline, Jogar contra inteligência artificial | Partida em que o adversário é uma inteligência artificial realizando jogadas de acordo com um nível de dificuldade selecionado | Estado  |
 
 ### L08 - Buscar partida
 
-|     Léxico     | Sinônimo |                     Noção                     |                                     Impacto                                      | Classificação |
-| :------------: | :------: | :-------------------------------------------: | :------------------------------------------------------------------------------: | :-----------: |
-| Buscar partida |    -     | Ato de procurar partida de xadrez dispon;ivel | Apresenta ao usuário uma partida de xadrez compatível com seu nível de expertise |     Verbo     |
+|     Léxico     | Sinônimo |                    Noção                     |                                     Impacto                                      | Classificação |
+| :------------: | :------: | :------------------------------------------: | :------------------------------------------------------------------------------: | :-----------: |
+| Buscar partida |    -     | Ato de procurar partida de xadrez disponível | Apresenta ao usuário uma partida de xadrez compatível com seu nível de expertise |     Verbo     |
 
 ### L09 - Torneio
 
@@ -76,7 +76,7 @@ Os léxicos do LiChess foram identificados a partir do uso do aplicativo e dos r
 
 |      Léxico       |  Sinônimo   |                                           Noção                                            |                             Impacto                             | Classificação |
 | :---------------: | :---------: | :----------------------------------------------------------------------------------------: | :-------------------------------------------------------------: | :-----------: |
-| Placar de líderes | Leaderboard | Lista de usuários com base na sua pontuação e modo de jogo. Ordenado de forma decrescente. | Permite o usuário identificar os melhores jogadores de LiChess. |    Objeto     |
+| Placar de líderes | Leaderboard | Lista de usuários com base na sua pontuação e modo de jogo. Ordenado de forma decrescente. | Permite o usuário identificar os melhores jogadores de Lichess. |    Objeto     |
 
 ### L11 - Modo de jogo
 
@@ -94,13 +94,13 @@ Os léxicos do LiChess foram identificados a partir do uso do aplicativo e dos r
 
 | Léxico |   Sinônimo   |                              Noção                              |                               Impacto                                | Classificação |
 | :----: | :----------: | :-------------------------------------------------------------: | :------------------------------------------------------------------: | :-----------: |
-|  Ping  | Sinal, delay | Atraso de internet entre ações do usuário e resposta do LiChess | Modifica a experiência do usuário em acessar os elementos de LiCHess |    Objeto     |
+|  Ping  | Sinal, delay | Atraso de internet entre ações do usuário e resposta do Lichess | Modifica a experiência do usuário em acessar os elementos de Lichess |    Objeto     |
 
 ### L14 - Aulas de xadrez
 
 |     Léxico      |       Sinônimo        |                                  Noção                                  |                     Impacto                      | Classificação |
 | :-------------: | :-------------------: | :---------------------------------------------------------------------: | :----------------------------------------------: | :-----------: |
-| Aulas de xadrez | Classes, aprendizados | Artigos junto de gravações sobre determinado movimento/teoria do xadrez | Permite usuário aumentar sua expertise no xadrez |    Objeto     |
+| Aulas de xadrez | Classes, aprendizados | Artigos juntos de análises sobre determinado movimento/teoria do xadrez | Permite usuário aumentar sua expertise no xadrez |    Objeto     |
 
 ### L15 - Estudar aulas de xadrez
 
@@ -116,9 +116,9 @@ Os léxicos do LiChess foram identificados a partir do uso do aplicativo e dos r
 
 ### L17 - Assitir partidas
 
-|      Léxico      |            Sinônimo             |                                  Noção                                   |                                                                Impacto                                                                | Classificação |
-| :--------------: | :-----------------------------: | :----------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: | :-----------: |
-| Assitir partidas | Visualizar jogos, Assitir jogos | Usuário se torna espectador de uma partida de xadrex entre dois usuários | Usuário descobre novas jogadas de forma inconsciente e pode acabar querendo seguir os padrões de movimento de dos usuários da partida |     Verbo     |
+|      Léxico      |            Sinônimo             |                                                        Noção                                                         |                                                                Impacto                                                                | Classificação |
+| :--------------: | :-----------------------------: | :------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: | :-----------: |
+| Assitir partidas | Visualizar jogos, Assitir jogos | Usuário descobre formas diferentes de jogar e pode acabar querendo seguir os padrões de jogo dos usuários da partida | Usuário descobre novas jogadas de forma inconsciente e pode acabar querendo seguir os padrões de movimento de dos usuários da partida |     Verbo     |
 
 ### L18 - Treinamento
 
