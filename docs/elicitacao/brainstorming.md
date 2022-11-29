@@ -18,32 +18,32 @@ De maneira geral, o brainstorm é uma técnica utilizada para levantar requisito
 |Vitor Rocha|
 |Gabriel Carneiro|
 
-### Resultados
+### Requisitos Elicitados
+
+O identificador de cada requisito é formado por 'B' + um número, sendo 'B' uma abreviação de Brainstorm, e o tipo de requisito refere-se à classificação entre requisitos funcionais (RF) e não funcionais (RNF).
 
 <div style="text-align: center">
 <p>Tabela 1: Requisitos Funcionais</p>
 </div>
 Como resultado das reuniões e pesquisas, nós obtivemos os seguintes temas de requisitos funcionais e não funcionais:
-| Número | Requisitos Funcionais |
-| :---: | :--------------------------: |
-| 1   | O adversário deve poder filtrar os adversários |
-| 2   | O usuário deve poder jogar offline |
-| 3   | O usuário deve poder pesquisar um usuário específico |
-| 4   | O usuário deve poder realizar diferentes tipos de jogadas |
-| 5   | O usuário deve poder pausar o jogo |
-| 6   | O usuário deve poder continuar jogando de onde parou(quando offline) |
-| 7   | O usuário deve conseguir criar grupos de colegas para jogar |
-| 8   | O usuário deve poder controlar a dificuldade do bot quando jogar offline |
-| 9   | O usuário deve poder realizar login na conta |
-| 10  | O usuário deve poder criar um perfil |
-| 11  | O usuário deve poder recuperar a senha |
-| 12  | O usuário deve poder sair da conta |
-| 13  | O usuário deve poder ver informações da conta |
-| 14  | O usuário deve poder editar o seu perfil |
-| 15  | O usuário deve poder trocar de perfil |
-| 16  | O usuário deve poder pesquisar um jogador específico |
-
-
+| Identificador | Requisito | Tipo |
+| :---: | - | ;-; |
+| B1   | O usuário deve poder filtrar os adversários | RF |
+| B2   | O usuário deve poder jogar offline | RF |
+| B3   | O usuário deve poder pesquisar um usuário específico | RF |
+| B4   | O usuário deve poder realizar diferentes tipos de jogadas | RF |
+| B5   | O usuário deve poder pausar o jogo | RF |
+| B6   | O usuário deve poder continuar jogando de onde parou(quando offline) | RF |
+| B7   | O usuário deve conseguir criar grupos de colegas para jogar | RF |
+| B8   | O usuário deve poder controlar a dificuldade do bot quando jogar offline | RF |
+| B9   | O usuário deve poder realizar login na conta | RF |
+| B10  | O usuário deve poder criar um perfil | RF |
+| B11  | O usuário deve poder recuperar a senha | RF |
+| B12  | O usuário deve poder sair da conta | RF |
+| B13  | O usuário deve poder ver informações da conta | RF |
+| B14  | O usuário deve poder editar o seu perfil | RF |
+| B15  | O usuário deve poder trocar de perfil | RF |
+| B16  | O usuário deve poder pesquisar um jogador específico | RF |
 <div style="text-align: center">
 <p>Fonte: Grupo 2</p>
 </div>
@@ -51,32 +51,31 @@ Como resultado das reuniões e pesquisas, nós obtivemos os seguintes temas de r
 <div style="text-align: center">
 <p>Tabela 2: Requisitos Não Funcionais</p>
 </div>
-| Número | Requisitos Não Funcionais |
-| :---: | :--------------------------: |
-| 1   | O sistema deve ter a opção de criação de partidas rápidas |
-| 2   | O usuário deve poder assistir e jogar partida de qualquer dispositivo |
-| 3   | O aplicativo deve ser fácil de ser utilizado |
-| 4   | O usuário é recompensado cada vez que termina uma partida ou assiste uma aula ou participa de um torneio |
-| 5   | O sistema deve ser acessível para diversas plataformas como mobile ou web  |
-| 6   | O usuário deve poder continuar jogando de onde parou(quando offline) |
-| 7   | O usuário deve conseguir criar grupos de colegas para jogar |
-| 8   | O usuário deve poder controlar a dificuldade do bot quando jogar offline |
-| 9   | O sistema deve ter a opção de criação rápidas de partidas |
-| 10  | O aplicativo deve ser produzido de maneira que mantenha o usuário engajado e motivado |
+| Identificador | Requisito | Tipo |
+| :---: | - | ;-; |
+| B17   | O sistema deve ter a opção de criação de partidas rápidas | RNF |
+| B18   | O usuário deve poder assistir e jogar partida de qualquer dispositivo | RNF |
+| B19   | O aplicativo deve ser fácil de ser utilizado | RNF |
+| B18   | O usuário é recompensado cada vez que termina uma partida ou assiste uma aula ou participa de um torneio | RNF |
+| B19   | O sistema deve ser acessível para diversas plataformas como mobile ou web  | RNF |
+| B20   | O usuário deve poder continuar jogando de onde parou(quando offline) | RNF |
+| B21   | O usuário deve conseguir criar grupos de colegas para jogar | RNF |
+| B22   | O usuário deve poder controlar a dificuldade do bot quando jogar offline | RNF |
+| B23   | O sistema deve ter a opção de criação rápidas de partidas | RNF |
+| B24  | O aplicativo deve ser produzido de maneira que mantenha o usuário engajado e motivado | RNF |
 
 <div style="text-align: center">
 <p>Fonte: Grupo 2</p>
 </div>
 
-## Referências 
-> - Simone Diniz, Interação Humano-Computador. São Paulo, 1a Edição, Elsevier, 2010.
-> - Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
+[1] - Simone Diniz, Interação Humano-Computador. São Paulo, 1a Edição, Elsevier, 2010.
+[2] - Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
 
 ## Histórico de Versão
 
 | Versão | Data       | Descrição            | Autor         | Revisor          |
 | ------ | ---------- | -------------------- | ------------- | ---------------- |
-| `1.0`  | 27/11/2022 | Criação do documento | Davi Silva | -- |
+| `1.0`  | 27/11/2022 | Criação do documento | Davi Silva | Lucas Gabriel |
 
 
 
