@@ -2,7 +2,7 @@
 
 ## Introdução
 
-De maneira geral, o brainstorm é uma técnica utilizada para levantar requisitos e aprender sobre novas características que os usuários apreciariam em um produto. Essa técnica tem como objetivo incentivar a criatividade do usuário a partir da filosofia de que cada um é livre para opinar e apresentar suas ideias acerca do que deve ser melhorado, sem julgamentos nem cobranças. Buscando assim levantar o máximo de opiniões em torno de um tema.
+De maneira geral, o brainstorm é uma técnica utilizada para levantar requisitos e aprender sobre novas características que os usuários apreciariam em um produto. Essa técnica tem como objetivo incentivar a criatividade do usuário a partir da filosofia de que cada um é livre para opinar e apresentar suas ideias acerca do que deve ser melhorado, sem julgamentos nem cobranças. Buscando assim, levantar o máximo de opiniões em torno de um tema.
 
 
 | Local | Data | Hora |
@@ -15,11 +15,14 @@ De maneira geral, o brainstorm é uma técnica utilizada para levantar requisito
 |Eduardo Meirelles|
 |Maria Regina Mouta|
 |Yan Judah|
-|Vitor|
+|Vitor Rocha|
 |Gabriel Carneiro|
 
 ### Resultados
 
+<div style="text-align: center">
+<p>Tabela 1: Requisitos Funcionais</p>
+</div>
 Como resultado das reuniões e pesquisas, nós obtivemos os seguintes temas de requisitos funcionais e não funcionais:
 | Número | Requisitos Funcionais |
 | :---: | :--------------------------: |
@@ -35,16 +38,19 @@ Como resultado das reuniões e pesquisas, nós obtivemos os seguintes temas de r
 | 10  | O usuário deve poder criar um perfil |
 | 11  | O usuário deve poder recuperar a senha |
 | 12  | O usuário deve poder sair da conta |
-| 13  | O usuário deve poder ver informçãoes da conta |
-| 14  |  |
-<div style="text-align: center">
-<p>Tabela 1: Requisitos Funcionais</p>
-</div>
+| 13  | O usuário deve poder ver informações da conta |
+| 14  | O usuário deve poder editar o seu perfil |
+| 15  | O usuário deve poder trocar de perfil |
+| 16  | O usuário deve poder pesquisar um jogador específico |
+
+
 <div style="text-align: center">
 <p>Fonte: Grupo 2</p>
 </div>
 
-
+<div style="text-align: center">
+<p>Tabela 2: Requisitos Não Funcionais</p>
+</div>
 | Número | Requisitos Não Funcionais |
 | :---: | :--------------------------: |
 | 1   | O sistema deve ter a opção de criação de partidas rápidas |
@@ -59,13 +65,12 @@ Como resultado das reuniões e pesquisas, nós obtivemos os seguintes temas de r
 | 10  | O aplicativo deve ser produzido de maneira que mantenha o usuário engajado e motivado |
 
 <div style="text-align: center">
-<p>Tabela 2: Requisitos Não Funcionais</p>
-</div>
-<div style="text-align: center">
 <p>Fonte: Grupo 2</p>
 </div>
 
-
+## Referências 
+> - Simone Diniz, Interação Humano-Computador. São Paulo, 1a Edição, Elsevier, 2010.
+> - Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
 
 ## Histórico de Versão
 
