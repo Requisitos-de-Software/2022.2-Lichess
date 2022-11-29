@@ -75,7 +75,7 @@ Como resultado das reuniões e pesquisas, nós obtivemos os seguintes temas de r
 
 | Versão | Data       | Descrição            | Autor         | Revisor          |
 | ------ | ---------- | -------------------- | ------------- | ---------------- |
-| `1.0`  | 27/11/2022 | Criação do documento | Davi Silva | Lucas Gabriel |
+| `1.0`  | 27/11/2022 | Criação do documento | Davi Silva | Lucas Macedo, Maurício e Nicolas |
 
 
 
