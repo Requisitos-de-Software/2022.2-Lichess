@@ -72,4 +72,4 @@ Após um estudo sobre os conceitos relativos ao domínio do xadrez, foi possíve
 
 | Versão | Data       | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ---------- | ---------------------------------- | ------------- | ------------- |
-| `1.0`  | 27/11/2022 | Criação do documento.              | Nicolas Souza |               |
+| `1.0`  | 27/11/2022 | Criação do documento.              | Nicolas Souza |       Mauricio Machado        |
