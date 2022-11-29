@@ -1,10 +1,9 @@
 site_name: Lichess
-site_url: https://requisitos-de-software.github.io/2022.2-Grupo2/
 
 theme:
   name: material
+  logo: img/logo.png
   favicon: img/logo.png
-  icon: img/logo.png
   palette:
     primary: grey
   features:
@@ -26,11 +25,11 @@ nav:
       - Metodologias: "planejamento/metodologias.md"
   - Pré-Rastreabilidade:
       - Rich-Picture: "prerastreabilidade/richpicture.md"
-  - Elicitacao:
+  - Elicitacão:
       - Técnicas Planejadas: "elicitacao/tecnicas_planejadas.md"
       - Brainstorming: "elicitacao/brainstorming.md"
       - Glossário: "elicitacao/glossario.md"
-      - Instropecção: "elicitacao/instrospeccao.md"
+      - Introspecção: "elicitacao/introspeccao.md"
       - Questionário: "elicitacao/questionario.md"
       - Personas: "elicitacao/personas.md"
       - Storytelling: "elicitacao/storytelling.md"
@@ -40,4 +39,3 @@ nav:
   # - Nova navegação: "nome do arquivo relativo a docs"
   # - Nova navegação:
   #   - Navegação com filhos: "nome do arquivo relativo a docs"
-
