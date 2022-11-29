@@ -30,5 +30,5 @@ Nossa equipe de trabalho é composta pelos seguintes estudantes de Engenharia de
 |    Data    | Versão |                      Descrição                      | Autor             | Revisor |
 | :--------: | :----: | :-------------------------------------------------: | :---------------- | - |
 | 06/11/2022 |  1.0   | Versão inicial de documento de descrição do projeto | MauricioMachadoFF | Nicolas |
-| 11/11/2022 |  1.1   | Remoção de um integrante da tabela da equipe.       | Nicolas           | - |
-| 18/11/2022 |  1.2   | Inclusão da descrição do projeto.                   | Nicolas           | |
+| 11/11/2022 |  1.1   | Remoção de um integrante da tabela da equipe.       | Nicolas           | Lucas Macedo |
+| 18/11/2022 |  1.2   | Inclusão da descrição do projeto.                   | Nicolas           | Lucas MAcedo s|
