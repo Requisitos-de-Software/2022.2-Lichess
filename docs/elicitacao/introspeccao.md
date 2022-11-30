@@ -1,13 +1,13 @@
 # Introspecção
 
-## 1. Introdução
+## Introdução
 
 O presente documento apresenta os requisitos elicitados por meio da técnica de introspecção. De acordo com o dicionário Michaelis de Língua Portuguesa [1], a palavra **introspecção** possui dois significados, descritos abaixo, que são as premissas da técnica de elicitação por meio da introspecção.
 
 > 1. Observação e descrição por determinada pessoa de suas experiências e seus padrões de comportamento.
 > 2. `Psicologia` Método de observação e descrição objetiva dos fatos psíquicos e do conteúdo da consciência do próprio observador em termos de seus elementos e atributos. O objetivo da elicitação de requisitos por meio da introspecção é elencar os principais requisitos do sistema a partir do ponto de vista dos participantes da sessão de introspecção. A elicitação foi feita pelo membro Nicolas Souza. Essa técnica foi escolhida
 
-## 2. Elicitação de requisitos
+## Elicitação de requisitos
 
 A elicitação de requisitos por meio da introspecção consiste em entender as propriedades fundamentais para o sucesso de um sistema, durante essa técnica o Engenheiro de Requisitos explora os cenários de realização de tarefas dentro do sistema e elenca as funcionalidades desejadas nesses cenários. Os resultados obtidos para o aplicativo Lichess estão registrados na Tabela 1, que apresenta os cenários de utilização do sistema e o comportamento esperado, avaliados por meio da introspecção, pelo estudante Nicolas Souza.
 
@@ -42,7 +42,7 @@ A partir das observações representadas na Tabela 1, foram elicitados os requis
 <p> Tabela 2: Requisitos elicitados (Fonte: autor, 2022).</p>
 </div>
 
-## 3. Bibliografia
+## Bibliografia
 
 [1] Dicionário Michaelis de Língua Portuguesa, disponível no [link](https://michaelis.uol.com.br/moderno-portugues/busca/portugues-brasileiro/), acesso em novembro de 2022.
 
@@ -50,8 +50,8 @@ A partir das observações representadas na Tabela 1, foram elicitados os requis
 
 [3] Response Times: The 3 Important Limits, disponível no [link](https://www.nngroup.com/articles/response-times-3-important-limits/), acesso em novembro de 2022.
 
-## 4. Histórico de Versão
+## Histórico de Versão
 
 | Versão | Data       | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ---------- | ---------------------------------- | ------------- | ------------- |
-| `1.0`  | 27/11/2022 | Criação do documento.              | Nicolas Souza |               |
+| `1.0`  | 27/11/2022 | Criação do documento.              | Nicolas Souza |  Lucas Macedo |

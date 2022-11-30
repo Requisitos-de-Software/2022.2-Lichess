@@ -1,6 +1,6 @@
 # Glossário
 
-## 1. Introdução
+## Introdução
 
 O glossário é, simultaneamente, um processo e um produto. Esse instrumento identifica e define palavras presentes no domínio do problema, e durante o processo de sua construção é possível elicitar requisitos. A escolha dessa metodologia de elicitação deve-se ao vocabulário específico de xadrez utilizado no aplicativo Lichess.
 
@@ -14,7 +14,7 @@ De acordo com Vazquez [1], para identificar os termos candidatos ao glossário, 
 - Abreviações e siglas;
 - Sinônimos e antônimos.
 
-## 2. Glossário
+## Glossário
 
 Para uma maior compreensão do aplicativo, foram elencados termos relativos ao domínio do xadrez e as suas definições, representados na Tabela 1. A maioria dos termos possui nomenclatura em inglês, e para os que possuem tradução, esta encontra-se representada entre parênteses.
 
@@ -44,7 +44,7 @@ Para uma maior compreensão do aplicativo, foram elencados termos relativos ao d
 <p> Tabela 1: Glossário dos termos de xadrez (Fonte: autor, 2022).</p>
 </div>
 
-## 3. Requisitos Elicitados
+## Requisitos Elicitados
 
 Após um estudo sobre os conceitos relativos ao domínio do xadrez, foi possível elicitar os requisitos representados na Tabela 2. O identificador de cada requisito é formado por GLO + um número, sendo GLO uma abreviação de glossário, e o tipo de requisito refere-se à classificação entre requisitos funcionais (RF) e não funcionais (RNF).
 
@@ -58,7 +58,7 @@ Após um estudo sobre os conceitos relativos ao domínio do xadrez, foi possíve
 <p> Tabela 2: Requisitos elicitados a partir do Glossário (Fonte: autor, 2022).</p>
 </div>
 
-## 4. Bibliografia
+## Bibliografia
 
 [1] VAZQUEZ C., SIMÕES G. Engenharia de Requisitos, 1ª edição.
 
@@ -68,7 +68,7 @@ Após um estudo sobre os conceitos relativos ao domínio do xadrez, foi possíve
 
 [4] Xadrez forte, disponível no [link](https://www.xadrezforte.com.br), acesso em novembro de 2022.
 
-## 5. Histórico de Versão
+## Histórico de Versão
 
 | Versão | Data       | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ---------- | ---------------------------------- | ------------- | ------------- |

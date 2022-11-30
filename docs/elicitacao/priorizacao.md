@@ -1,17 +1,17 @@
 # Priorização
 
+## Introdução
+
 O principal objetivo das técnicas de priorização de requisitos é auxiliar na escolha das funções ou funcionalidade mais essenciais em um sistema em desenvolvimento, definindo estratégias e parâmetros capazes de fornecer um resultado mais apropriado para cada tipo de problema. Essa prática é de relevante importância em um cenário em que as expectativas do cliente são altas, os prazos são curtos e os recursos são limitados.
 
-## 1. MoSCoW
-
-### 1.1 Introdução
+## MoSCoW
 
 O método MoSCoW é uma técnica priorização de requisitos que pode ajudar o time de desenvolvimento no processo de tomada de decisão. Alguns dos objetivos dessa estrutura são:
 
 >1. Identificar o grau de prioridade das tarefas em um projeto.
 >2. Alinhar stakeholders sobre o que deve ser feito, de acordo com a ordem de importância dos elementos considerados.
 
-### 1.2 Metodologia
+### Metodologia - MoSCoW
 
 Suas iniciais representam:
 
@@ -20,19 +20,19 @@ Suas iniciais representam:
 - **Co**uld-Have
 - **W**ould/Want/Won't-Have
 
-#### 1.2.1 Must-Have
+### Must-Have
 
 Correspondem às tarefas indispensáveis para a realização do projeto e que precisam ser priorizadas. Tudo que for considerado Must-Have é fundamental para o Produto. São iniciativas de alto impacto, que agregam valor ao produto e que, caso não sejam feitas, prejudicam a experiência do cliente. Essas demandas são as mais urgentes, e o time deve concentrar esforços para resolvê-las primeiro.
 
-#### 1.2.2 Should-Have
+### Should-Have
 
 Devem ser incluidos aqueles que são importante para a realização do projeto, mas não fundamentais, como as atividades Must-Have.
 
-#### 1.2.3 Could-Have
+### Could-Have
 
 São menos importantes que requisitos should-have. Agregam valor ao projeto, mas sua ausência não impacta significantemente
 
-#### 1.2.4 Would/Want/Won't-Have
+### Would/Want/Won't-Have
 
 São aqueles que não tem importância significativa para o projeto. A presença ou ausência desses requisitos não tem impacto na conclusão satisfatória do projeto.
 
@@ -107,13 +107,11 @@ Na *tabela 1* estão identificados os requisitos elicitados respectivamente prio
 <figcaption>Tabela 1: Tabela de priorização MoSCoW.</figcaption>
 </br>
 
-## 2. Fist Things First
-
-### 2.1 Introdução
+## First Things First (FTF)
 
 First Things First é uma técnica de priorização em que um levantamento de dados de benefícios, custos e riscos relacionados a cada requisito são levantados. Assim como a técnica MoSCoW, ela é utilizada para criar uma ordem de prioridades dos requisitos a serem implementados.
 
-### 2.2 Metodologia
+### Metodologia - FTF
 
 Para a respectiva técnica de priorização é apresentada, em forma de tabela, os riscos, custos, benefícios e a penalidade relativa de cada requisito elicitado para o projeto, além de equilibrar os posicionamentos do cliente e do desenvolvedor.  
 
@@ -138,7 +136,7 @@ Na *tabela 2* é possível validar o esquema construído pelo grupo:
 
 [1] WIEGERS Karl E. First Things First: Prioritizing Requirements. Setembro de 1999. Disponível no [link](https://www.processimpact.com/articles/prioritizing.pdf)
 
-## 4. Histórico de Versão
+## Histórico de Versão
 
 | Versão | Data       | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ---------- | ---------------------------------- | ------------- | ------------- |
