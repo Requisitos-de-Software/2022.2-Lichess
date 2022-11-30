@@ -56,5 +56,5 @@ Segue o esquema:
 ## 4. Histórico de versões
 
 |    Data    | Versão |                  Descrição                        | Autor | Revisor |
-| :--------: | :----: | :-----------------------------------------------: | :---: | :-----: |
-| 29/11/2022 | `1.0`  | Criação do documento de priorização de requisitos | Renan |   --    |
+| :--------: | :----: | :-----------------------------------------------: | :---: | :----------: |
+| 29/11/2022 | `1.0`  | Criação do documento de priorização de requisitos | Renan | Lucas Macedo |
