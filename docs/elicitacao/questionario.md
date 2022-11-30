@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Formulário com o objetivo de colher informações soobre o usuário e sua experiência em determinado contexto do seu cliente. Sua distinção de uma entrevista, é a redução de custo e possibilidade de realização para diversas regiões simultaneamente.
+Formulário com o objetivo de colher informações sobre o usuário e sua experiência em determinado contexto do seu cliente. Sua distinção de uma entrevista, é a redução de custo e possibilidade de realização para diversas regiões simultaneamente.
 
 Durante a construção do formulário deve-se ter a noção do público-alvo, caso não esteja bem definido generalize. Evite restrições de público-alvo sem um bom porquê.
 
@@ -18,7 +18,7 @@ Durante a construção do formulário deve-se ter a noção do público-alvo, ca
 ### Desvantagens
 
 - Se a taxa de resposta for baixa, o resultado pode não ser estatisticamente significativo.
-- Uma falha na elaboração do questionário pode levar a respostas em branco ou incorretas, ou também gerar interpretações distintas da mesma pergun-ta, o que pode levar a erros nos requisitos.
+- Uma falha na elaboração do questionário pode levar a respostas em branco ou incorretas, ou também gerar interpretações distintas da mesma pergunta, o que pode levar a erros nos requisitos.
 - O uso de questões com respostas ilimitadas demanda mais esforço de análise das respostas, se o público for numeroso.
 
 ## Resultados coletados
@@ -71,7 +71,7 @@ Na Tabela Respostas Pergunta 4, estão listadas as resposta diretas do nosso usu
 | :-----------------------------------------------------------------: |
 |                               Xadrez                                |
 |            Gosto de xadrez, war e interpol. Entre outros            |
-|                 Xadrez, Puerto rico, the resistence                 |
+|                 Xadrez, Puerto rico, the resistance                 |
 |                   Xadrez, perfil, war, monopoly,                    |
 | Dungeons&Dragons, Xadrez, Munchkin, Catan/War, e alguns de baralho. |
 |                           xadrez e damas                            |
@@ -110,7 +110,7 @@ Na Tabela Respostas Pergunta 4, estão listadas as resposta diretas do nosso usu
 |           1 vez a cada 2 meses           |   2   |    7,1%     |
 |                  Outros                  |   4   |    14,3%    |
 
-**Tabela Respsotas Pergunta 7. Fonte: Mauricio Machado**
+**Tabela Respostas Pergunta 7. Fonte: Mauricio Machado**
 
 ### Questão 8
 
@@ -128,7 +128,7 @@ Na Tabela Respostas Pergunta 4, estão listadas as resposta diretas do nosso usu
 |                       Entre 2 e 3 horas                        |   2   |   10,55%    |
 |                        Mais de 3 horas                         |   4   |   21,05%    |
 
-**Tabela Respsotas Pergunta 9. Fonte: Mauricio Machado**
+**Tabela Respostas Pergunta 9. Fonte: Mauricio Machado**
 
 ### Questão 10
 
@@ -170,12 +170,12 @@ Na Tabela Respostas Pergunta 4, estão listadas as resposta diretas do nosso usu
 |                                                                           A única coisa que me frustra um pouco no Lichess é o matchmaking, que às vezes falha e coloca adversários muito fáceis ou muito difíceis.                                                                           |
 |                                                                                                                        Aperfeiçoamento de anticheats para a plataforma                                                                                                                        |
 
-**Tabela Respsotas Pergunta 13. Fonte: Mauricio Machado**
+**Tabela Respostas Pergunta 13. Fonte: Mauricio Machado**
 
 ## Análise dos resultados
 
 Através do questionário é possível identificar os perfis de usuário do LiChess.
-Na pesquisa executada mais da metade de usuários são jovens na faixa inicial dos vinte. Além disso, possuem um alto engajamento em dispositvos eletrônicos e tem um comportamento mais introspectivo.
+Na pesquisa executada mais da metade de usuários são jovens na faixa inicial dos vinte. Além disso, possuem um alto engajamento em dispositivos eletrônicos e tem um comportamento mais introspectivo.
 
 Foi possível perceber que os usuários em sua maioria jogam de forma online e tem pouco senso de comunidade, dessa forma elementos como Comunidade e possibilidade de assistir jogos é pouco utilizada.
 
@@ -205,9 +205,9 @@ A interface do LiChess possui alta densidade de itens sem reforço ou incetivo p
 | Q12 |                                        O aplicativo deve funcionar 24/7                                        | RNF07 |
 | Q13 |                                   Aplicativo deve ensinar xadrez ao usuário                                    | RF08  |
 
-## Referências
+## Bibliografia
 
-> VASQUEZ, Carlos E; SIVOES, Guilherme S. Engenharia de Requisitos - Software orientado ao negócio.
+[1] VASQUEZ, Carlos E; SIVOES, Guilherme S. Engenharia de Requisitos - Software orientado ao negócio.
 
 ## Histórico de Versão
 

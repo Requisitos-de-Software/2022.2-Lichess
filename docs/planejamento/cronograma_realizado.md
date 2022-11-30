@@ -1,10 +1,10 @@
 # Cronograma Realizado
 
-## 1. Introdução
+## Introdução
 
 Apresentação de itens feitos para cada ponto de controle do cronograma.
 
-## 2. Ponto de Controle 1
+## Ponto de Controle 1
 
 Na tabela 1 podemos ver o que foi realizado no Ponto de Controle 1.
 
@@ -21,9 +21,9 @@ Na tabela 1 podemos ver o que foi realizado no Ponto de Controle 1.
 
 **Tabela 1: Itens realizados Ponto de Controle 1. Fonte: Criado pelo autor.**
 
-## 9. Referências
+## Bibliografia
 
-SALES, André Barros. Plano de ensino da disciplina. Disponível em: <https://aprender3.unb.br/pluginfile.php/2307416/mod_resource/content/22/Plano_de_Ensino%20RE%20202202%20Turma%202.pdf>. Acesso em: 16 de novembro de 2022;
+[1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: <https://aprender3.unb.br/pluginfile.php/2307416/mod_resource/content/22/Plano_de_Ensino%20RE%20202202%20Turma%202.pdf>. Acesso em: 16 de novembro de 2022;
 
 ## Histórico de Versão
 

@@ -25,7 +25,7 @@ As ferramentas serão softwares utilizados pela equipe para facilitar o gerencia
 <p>Fonte: Grupo 2</p>
 </div>
 
-## Referências
+## Bibliografia
 
 [1] Wiki Requisitos - Planejamento - Ferramentas. Disponível em: <https://requisitos-de-software.github.io/2022.1-TikTok/ferramentas/>. Acesso em: 16 de novembro de 2022.
 
