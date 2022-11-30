@@ -99,10 +99,10 @@ Abaixo temos listadas as principais personas identificadas para o aplicativo LiC
 
 ## Referências
 
-> This Person Doest Not Exist. Acesso em: 23 de nov. de 2022.Disponível em: https://thispersondoesnotexist.com <br>
+> This Person Doest Not Exist. Acesso em: 23 de nov. de 2022.Disponível em: <https://thispersondoesnotexist.com> <br>
 
-## Histórico de versões
+## Histórico de Versão
 
-|    Data    | Versão |                  Descrição                  |  Autor   |   Revisor    |
-| :--------: | :----: | :-----------------------------------------: | :------: | :----------: |
-| 24/11/2022 | `1.0`  | Criação do documento e adição das perssonas | Mauricio | Lucas Macedo |
+| Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
+| ------ | ------------- | ---------------------------------- | ------------- | ------------- |
+| `1.0`  | 24/11/2022 | Criação do documento e adição das perssonas | Mauricio | Lucas Macedo |

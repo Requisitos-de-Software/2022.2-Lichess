@@ -25,8 +25,8 @@ Na tabela 1 podemos ver o que foi realizado no Ponto de Controle 1.
 
 SALES, André Barros. Plano de ensino da disciplina. Disponível em: <https://aprender3.unb.br/pluginfile.php/2307416/mod_resource/content/22/Plano_de_Ensino%20RE%20202202%20Turma%202.pdf>. Acesso em: 16 de novembro de 2022;
 
-## Histórico de versão do arquivo
+## Histórico de Versão
 
-|    Data    | Versão |                Descrição                | Autor            | Revisor(es) |
-| :--------: | :----: | :-------------------------------------: | :--------------- | :---------: |
-| 22/11/2022 |  1.0   | Versão inicial do cronograma do projeto | Mauricio Machado |      -      |
+| Versão | Data       | Descrição                          | Autor(es)     |  Revisor(es)  |
+| ------ | ---------- | ---------------------------------- | ------------- | ------------- |
+| `1.0`  | 22/11/2022 |  Versão inicial do cronograma do projeto | Mauricio Machado |      -      |

@@ -74,10 +74,10 @@ Os requisitos identificados com o storytelling seguem a seguir:
 [2] Santos, V. G., Daher N., UTILIZAÇÃO DE STORYTELLING COMO FERRAMENTA DE AQUISIÇÃO DE REQUISITOS EM PROCESSO DE DESENVOLVIMENTO DE SOFTWARE APOIADOS EM MODELOS ÁGEIS: O USO APOIADO NO EXTREME PROGRAMMING, Belo Horizonte, 2008. 14 p., Artigo (Análise de Sistemas), e-tec UNI-BH
 <br>
 
-[3] Storytelling do Grupo MedSUS de 2021/2. Disponível em: https://requisitos-de-software.github.io/2021.2-MedSUS/. Acesso em: 23 de novembro de 2022.
+[3] Storytelling do Grupo MedSUS de 2021/2. Disponível em: <https://requisitos-de-software.github.io/2021.2-MedSUS/>. Acesso em: 23 de novembro de 2022.
 
-## 6. Histórico de versao do arquivo
+## 6. Histórico de Versão
 
-|    Data    | Versão |          Descrição           | Autor        |    Revisor    |
-| :--------: | :----: | :--------------------------: | :----------- | :-----------: |
-| 23/11/2022 | `1.0`  | Criação do documento inicial | Lucas Macedo | Nicolas Souza |
+| Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
+| ------ | ------------- | ---------------------------------- | ------------- | ------------- |
+| `1.0`  | 23/11/2022 | Criação do documento inicial | Lucas Macedo | Nicolas Souza |

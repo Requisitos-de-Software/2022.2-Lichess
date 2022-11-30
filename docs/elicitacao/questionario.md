@@ -23,7 +23,7 @@ Durante a construção do formulário deve-se ter a noção do público-alvo, ca
 
 ## Resultados coletados
 
-A seguir iremos mostrar os resultados coletados para cada questão do formulário. O formulário conta com 52 respostas, antes da coleta os usuários aceitaram o nosso (termo consentimento)[https://docs.google.com/document/d/1mpv84VxXb-ld8qBgqgDsLqtA2fs2hG_L8Ta4iR4A4lI/edit?usp=sharing]
+A seguir iremos mostrar os resultados coletados para cada questão do formulário. O formulário conta com 52 respostas, antes da coleta os usuários aceitaram o nosso [termo consentimento](https://docs.google.com/document/d/1mpv84VxXb-ld8qBgqgDsLqtA2fs2hG_L8Ta4iR4A4lI/edit?usp=sharing)
 A fim de conhecer apenas o público que já utiliza o aplicativo foi estabelecida uma pesquisa de filtragem. Assim das 52 respostas coletadas apenas 28 usam o LiChess seja via site ou aplicativo.
 Respostas foram coletadas entre as datas **20/11/2022** e **24/11/2022**.
 
@@ -209,9 +209,9 @@ A interface do LiChess possui alta densidade de itens sem reforço ou incetivo p
 
 > VASQUEZ, Carlos E; SIVOES, Guilherme S. Engenharia de Requisitos - Software orientado ao negócio.
 
-## Histórico de versões
+## Histórico de Versão
 
-|    Data    | Versão |                  Descrição                  |  Autor   | Revisor |
-| :--------: | :----: | :-----------------------------------------: | :------: | :-----: |
-| 22/11/2022 | `1.0`  | Criação do documento e adição da introdução | Mauricio |   --    |
-| 24/11/2022 | `2.0`  |     Adição do resultado do questionário     | Mauricio |   --    |
+| Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
+| ------ | ------------- | ---------------------------------- | ------------- | ------------- |
+| `1.0`  | 22/11/2022 |  Criação do documento e adição da introdução | Mauricio |   --    |
+| `1.1`  | 24/11/2022 |     Adição do resultado do questionário     | Mauricio |   --    |

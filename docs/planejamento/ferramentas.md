@@ -1,16 +1,10 @@
 # Ferramentas
 
-## 1. Versionamento
+## Introdução
 
-| Versão | Data       |            Modificação            |        Autor         | Revisor                 |
-| ------ | ---------- | :-------------------------------: | :------------------: | ----------------------- |
-| 1.0    | 16/11/2022 | Adição das ferramentas do projeto | Lucas Macedo Barboza | Nicolas e Lucas Gabriel |
+As ferramentas serão softwares utilizados pela equipe para facilitar o gerenciamento, comunicação e desenvolvimento da documentação necessária para a realização do projeto da disciplina. Projeto esse que o foco será a análise de requisitos do aplicativo Lichess.
 
-## 2. Introdução
-
-<p> As ferramentas serão softwares utilizados pela equipe para facilitar o gerenciamento, comunicação e desenvolvimento da documentação necessária para a realização do projeto da disciplina. Projeto esse que o foco será a análise de requisitos do aplicativo Lichess. </p>
-
-## 3. Ferramentas utilizadas
+## Ferramentas utilizadas
 
 <div style="text-align: center">
 <p>Tabela 1: Ferramentas utilizadas no projeto</p>
@@ -31,6 +25,12 @@
 <p>Fonte: Grupo 2</p>
 </div>
 
-## 4. Referências
+## Referências
 
-> Wiki Requisitos - Planejamento - Ferramentas. Disponível em: https://requisitos-de-software.github.io/2022.1-TikTok/ferramentas/. Acesso em: 16 de novembro de 2022.
+[1] Wiki Requisitos - Planejamento - Ferramentas. Disponível em: <https://requisitos-de-software.github.io/2022.1-TikTok/ferramentas/>. Acesso em: 16 de novembro de 2022.
+
+## Histórico de Versão
+
+| Versão | Data       |            Modificação            |        Autor         | Revisor                 |
+| ------ | ---------- | :-------------------------------: | :------------------: | ----------------------- |
+| 1.0    | 16/11/2022 | Adição das ferramentas do projeto | Lucas Macedo Barboza | Nicolas e Lucas Gabriel |

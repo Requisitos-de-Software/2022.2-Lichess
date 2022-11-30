@@ -23,12 +23,10 @@ Nossa equipe de trabalho é composta pelos seguintes estudantes de Engenharia de
 |         <img src="https://github.com/nszchagas.png" alt="Nicolas Souza" style="width: 10vw">          |     Nicolas Souza     |         [nszchagas](https://github.com/nszchagas)         |
 |         <img src="https://github.com/LacerdaRenan.png" alt="Renan Lacerda" style="width: 10vw">          |     Renan Lacerda     |         [LacerdaRenan](https://github.com/LacerdaRenan)         |
 
+## Histórico de Versão
 
-
-## Histórico de versão do arquivo
-
-|    Data    | Versão |                      Descrição                      | Autor             | Revisor |
-| :--------: | :----: | :-------------------------------------------------: | :---------------- | - |
-| 06/11/2022 |  1.0   | Versão inicial de documento de descrição do projeto | MauricioMachadoFF | Nicolas |
-| 11/11/2022 |  1.1   | Remoção de um integrante da tabela da equipe.       | Nicolas           | Lucas Macedo |
-| 18/11/2022 |  1.2   | Inclusão da descrição do projeto.                   | Nicolas           | Lucas MAcedo s|
+| Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
+| ------ | ------------- | ---------------------------------- | ------------- | ------------- |
+| `1.0`  |  06/11/2022 |  Versão inicial de documento de descrição do projeto | Maurício  | Nicolas |
+| `1.1`  | 11/11/2022 |  Remoção de um integrante da tabela da equipe.       | Nicolas           | Lucas Macedo |
+| `1.2`  |  18/11/2022 |  Inclusão da descrição do projeto.                   | Nicolas           | Lucas Macedo|

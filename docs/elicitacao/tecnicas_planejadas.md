@@ -29,7 +29,7 @@ Após estudar as técnicas, e levando em consideração o acesso aos usuários, 
 - [Personas](./personas.md)
 - [Questionário](./questionario.md)
 - [Glossário](./glossario.md)
-- [Introspecção](./instrospeccao.md)
+- [Introspecção](./introspeccao.md)
 
 ## Referências Bibliográficas
 
@@ -37,8 +37,8 @@ Após estudar as técnicas, e levando em consideração o acesso aos usuários, 
 
 [2] VAZQUEZ C., SIMÕES G. Engenharia de Requisitos, 1ª edição.
 
-## Histórico de versões
+## Histórico de Versão
 
-|    Data     | Versão | Descrição              | Autor     | Revisor |
-|  :-------:  | :----: | :------------------:   | :-----------: | :-: |
-|  22/11/2022 |  `0.1` | Criação do documento | Nicolas Souza  |  |
+| Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
+| ------ | ------------- | ---------------------------------- | ------------- | ------------- |
+| `1.0`  |  22/11/2022 |  Criação do documento | Nicolas Souza  |  |
