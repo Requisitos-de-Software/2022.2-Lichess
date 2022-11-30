@@ -15,7 +15,7 @@ Todas as técnicas de elicitação englobam uma fase de preparação, durante a 
 ![Protocolo do Garçom.](imgs/protocolo-do-garcom.png)
 
 <div style="text-align:center">
-<p> Figura 1: Protocolo do Garçom. Fonte: <a href="#referencias-bibliograficas">[2]</a> </p>
+<p> Figura 1: Protocolo do Garçom. Fonte: <a href="#bibliografia">[2]</a> </p>
 </div>
 
 ## Definição das técnicas
@@ -29,16 +29,16 @@ Após estudar as técnicas, e levando em consideração o acesso aos usuários, 
 - [Personas](./personas.md)
 - [Questionário](./questionario.md)
 - [Glossário](./glossario.md)
-- [Introspecção](./instrospeccao.md)
+- [Introspecção](./introspeccao.md)
 
-## Referências Bibliográficas
+## Bibliografia
 
 [1] WIEGERS K., BEATTY J. Software Requirements, 3ª edição.
 
 [2] VAZQUEZ C., SIMÕES G. Engenharia de Requisitos, 1ª edição.
 
-## Histórico de versões
+## Histórico de Versão
 
-|    Data     | Versão | Descrição              | Autor     | Revisor |
-|  :-------:  | :----: | :------------------:   | :-----------: | :-: |
-|  22/11/2022 |  `0.1` | Criação do documento | Nicolas Souza  |  |
+| Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
+| ------ | ------------- | ---------------------------------- | ------------- | ------------- |
+| `1.0`  |  22/11/2022 |  Criação do documento | Nicolas Souza  | Maurício Machado |

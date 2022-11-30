@@ -40,5 +40,5 @@ Dentre os aplicativos analisados de forma individual, o aplicativo escolhido foi
 
 | Versão | Data       | Descrição            | Autor         | Revisor  |
 | ------ | ---------- | -------------------- | ------------- | :--------: |
-| 0.1    | 17/11/2022 | Criação do documento | Lucas Gabriel | Maurício |
-| 0.2    | 18/11/2022 | Ajustes na tabela e nas legendas | Nicolas Souza | - |
+| `1.0`  | 17/11/2022 | Criação do documento | Lucas Gabriel | Maurício |
+| `1.1`  | 18/11/2022 | Ajustes na tabela e nas legendas | Nicolas Souza | - |

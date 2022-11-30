@@ -1,20 +1,10 @@
 # Ferramentas
 
-## 1. Versionamento
+## Introdução
 
-| Versão | Data       |            Modificação            |        Autor         | Revisor                 |
-| ------ | ---------- | :-------------------------------: | :------------------: | ----------------------- |
-| 1.0    | 16/11/2022 | Adição das ferramentas do projeto | Lucas Macedo Barboza | Nicolas e Lucas Gabriel |
+As ferramentas serão softwares utilizados pela equipe para facilitar o gerenciamento, comunicação e desenvolvimento da documentação necessária para a realização do projeto da disciplina. Projeto esse que o foco será a análise de requisitos do aplicativo Lichess.
 
-## 2. Introdução
-
-<p> As ferramentas serão softwares utilizados pela equipe para facilitar o gerenciamento, comunicação e desenvolvimento da documentação necessária para a realização do projeto da disciplina. Projeto esse que o foco será a análise de requisitos do aplicativo Lichess. </p>
-
-## 3. Ferramentas utilizadas
-
-<div style="text-align: center">
-<p>Tabela 1: Ferramentas utilizadas no projeto</p>
-</div>
+## Ferramentas utilizadas
 
 |                    Logo                    |     Ferramenta     | Finalidade                                                                                                                                                                |
 | :----------------------------------------: | :----------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -26,11 +16,20 @@
 |    ![Youtube](../img/youtube-icon.png)     |      Youtube       | Utilizado para hospedar as gravações do projeto.                                                                                                                          |
 |     ![VsCode](../img/vscode-icon.png)      | Visual Studio Code | Utilizado para manipulação dos arquivos do projeto, devido facilidade de integração de extensões e da experiência da maioria dos integrantes com essa ferramenta.         |
 |       ![Miro](../img/miro-icon.png)        |        Miro        | Utilizado para a criação dos artefatos rich picture                                                                                                                       |
+| ![Lucidchart](../img/lucidchart.png) | Lucidchart | Utilizado para elaboração de diagramas.  |
+| ![This Person Doesn't Exist](../img/this-person-doesnt-exist.png)| This Person Doesn't Exist | Utilizado para geração de imagens para as personas.
 
 <div style="text-align: center">
-<p>Fonte: Grupo 2</p>
+<p>Tabela 1: Ferramentas utilizadas no projeto (Fonte: autor, 2022). </p>
 </div>
 
-## 4. Referências
+## Bibliografia
 
-> Wiki Requisitos - Planejamento - Ferramentas. Disponível em: https://requisitos-de-software.github.io/2022.1-TikTok/ferramentas/. Acesso em: 16 de novembro de 2022.
+[1] Wiki Requisitos - Planejamento - Ferramentas. Disponível em: <https://requisitos-de-software.github.io/2022.1-TikTok/ferramentas/>. Acesso em: 16 de novembro de 2022.
+
+## Histórico de Versão
+
+| Versão | Data   |       Modificação         |       Autor(es)      | Revisor(es)            |
+| ------ | ---------- | :-------------------------------: | :------------------: | ----------------------- |
+| `1.0`  | 16/11/2022 | Adição das ferramentas do projeto | Lucas Macedo Barboza | Nicolas e Lucas Gabriel |
+| `1.1`  | 30/11/2022 | Inclusão das ferramentas lucidchart e this person doesn't exist | Nicolas Souza | - |

@@ -23,11 +23,11 @@ Ao fim, deve-se atribuir um nome e criar histórias e necessidades que ajudem n
 
 ## Metodologias
 
-O responsável por esse artefato, Mauricio Machado, ficou responsável por criar personas que retratariam os usuarios mais comuns do LiChess.
+O responsável por esse artefato, Mauricio Machado, ficou responsável por criar personas que retratariam os usuários mais comuns do LiChess.
 A partir desses requisitos, buscamos as personas básicas que mais utilizariam esses requisitos. As personas foram detalhadas, com suas histórias, necessidades e objetivos.
-Todas as imagens utilizadas nesse artefato foram retiradas do site [This Person Doest Not Exist](https://thispersondoesnotexist.com), um site que utiliza de inteligencia atificial para criar imagens sem copyright.
+Todas as imagens utilizadas nesse artefato foram retiradas do site [This Person Doest Not Exist](https://thispersondoesnotexist.com), um site que utiliza de inteligencia artificial para criar imagens sem copyright.
 
-## Personas
+## Definição das Personas
 
 Abaixo temos listadas as principais personas identificadas para o aplicativo LiChess.
 
@@ -47,7 +47,7 @@ Abaixo temos listadas as principais personas identificadas para o aplicativo LiC
 | **Habilidades**     | Ravi começou a jogar xadrez a partir dos 6 anos. Desde cedo foi instruído por seus pais a desenvolver esse teor técnico. Além de saber a teoria do xadrez, Ravi possui um forte perfil competitivo, manipulando a jogado de seus inimigos.              |
 | **Relacionamentos** | Ravi tem um pequeno grupo de amigos, os quais tem sua confiança máxima. Todos seus problemas e segredos são contados apenas para esse grupo.                                                                                                            |
 | **Requisitos**      | Ravi acredita que o elemento de ranqueamento deve ser mais indicativo e ter algum reforço para fortalecer esse ambiente competitivo. Além disso, Ravi gosta de usar o elemento de torneios para constantemente se desafiar com jogadores de alto nível. |
-| **Expectivativas**  | Ravi quer estar nas melhores posições de ranqueamento do LiChess                                                                                                                                                                                        |
+| **Expectativas**  | Ravi quer estar nas melhores posições de ranqueamento do LiChess                                                                                                                                                                                        |
 
 <div style="text-align: center">
 <p>Fonte: Mauricio Machado</p>
@@ -68,8 +68,8 @@ Abaixo temos listadas as principais personas identificadas para o aplicativo LiC
 | **Objetivos**       | Jorge adora jogos de tabuleiro onde pode conversar e entender o que o jogador está pensando. Após a morte de sua esposa, Jorge tenta formar novas conexões através de hobbies e acabou usando seu gosto de jogos de tabuleiro para tal. Jorge adora conversar.                                                                      |
 | **Habilidades**     | Jorge durante sua vida sempre adorou jogos de tabuleiro. Possui alta capacidade em jogos de estratégia e ensinou seus filhos e seus netos a jogarem xadrez.                                                                                                                                                                         |
 | **Relacionamentos** | Jorge tem se visto cada vez mais isolado da sociedade, adora contato humano mas sente que exige muito esforço para criar novas conexões em sua idade.                                                                                                                                                                               |
-| **Requisitos**      | Para usuarios que não tem como intuito utilizar o app com frequência e que gostam de um contato mais próximo entre jogadores. Jorge revela que a possibilidade de parear com um jogador próximo seria de seu interesse, além disso a possiblidade de se comunicar verbalmente durante uma partida seria algo interessante para ele. |
-| **Expectivativas**  | Jorge quer encontrar novos melhores amigos para aproveitar seus dias e formar novas memórias                                                                                                                                                                                                                                        |
+| **Requisitos**      | Para usuários que não tem como intuito utilizar o app com frequência e que gostam de um contato mais próximo entre jogadores. Jorge revela que a possibilidade de parear com um jogador próximo seria de seu interesse, além disso a possibilidade de se comunicar verbalmente durante uma partida seria algo interessante para ele. |
+| **Expectativas**  | Jorge quer encontrar novos melhores amigos para aproveitar seus dias e formar novas memórias                                                                                                                                                                                                                                        |
 
 <div style="text-align: center">
 <p>Fonte: Mauricio Machado</p>
@@ -88,21 +88,21 @@ Abaixo temos listadas as principais personas identificadas para o aplicativo LiC
 | **Descrição**       | Roberta, idade de 23 anos moradora de Brasília<br> Roberta é estudante e ao mesmo tempo trabalha, usando seu celular para aproveitar momentos livres durante seu dia.<br>Mulher. <br>Solteiro.                                                                                                      |
 | **Status**          | Persona-Primária.                                                                                                                                                                                                                                                                                   |
 | **Objetivos**       | Roberta tem dias corridos e busca pagar as contas enquanto conclui sua graduação. Busca utilizar jogos de celular de forma casual para passar o tempo e se divertir. Roberta é extrovertida e adora sair e conhecer novos cenários.                                                                 |
-| **Habilidades**     | Roberta começou a usar o LiChess via recomendação de amigo. Não sabe sobre estratégias do xadrez, sabendo apenas os movimentos de cada peça e trabalhando em cima disso. Roberta adora assitir outras pessoas jogarem para aprender via exemplo.                                                    |
+| **Habilidades**     | Roberta começou a usar o LiChess via recomendação de amigo. Não sabe sobre estratégias do xadrez, sabendo apenas os movimentos de cada peça e trabalhando em cima disso. Roberta adora assistir outras pessoas jogarem para aprender via exemplo.                                                    |
 | **Relacionamentos** | Roberta tem um grande grupo de amigos, mas poucos usam o LiChess.                                                                                                                                                                                                                                   |
 | **Requisitos**      | Roberta gostaria de saber mais sobre como jogar xadrez. Para ela, lições e exemplos de forma rápida e prática são essenciais para seu desenvolvimento. A função de assistir outras partidas precisa ser melhorada a fim de Roberta entender o que os jogadores estão pensando ao executar as ações. |
-| **Expectivativas**  | Roberta quer se divertir enquanto está se transportando entre casa, faculdade e trabalho.                                                                                                                                                                                                           |
+| **Expectativas**  | Roberta quer se divertir enquanto está se transportando entre casa, faculdade e trabalho.                                                                                                                                                                                                           |
 
 <div style="text-align: center">
 <p>Fonte: Mauricio Machado</p>
 </div>
 
-## Referências
+## Bibliografia
 
-> This Person Doest Not Exist. Acesso em: 23 de nov. de 2022.Disponível em: https://thispersondoesnotexist.com <br>
+[1] This Person Doest Not Exist. Acesso em: 23 de nov. de 2022.Disponível em: <https://thispersondoesnotexist.com> <br>
 
-## Histórico de versões
+## Histórico de Versão
 
-|    Data    | Versão |                  Descrição                  |  Autor   |   Revisor    |
-| :--------: | :----: | :-----------------------------------------: | :------: | :----------: |
-| 24/11/2022 | `1.0`  | Criação do documento e adição das perssonas | Mauricio | Lucas Macedo |
+| Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
+| ------ | ------------- | ---------------------------------- | ------------- | ------------- |
+| `1.0`  | 24/11/2022 | Criação do documento e adição das personas | Mauricio | Lucas Macedo |
