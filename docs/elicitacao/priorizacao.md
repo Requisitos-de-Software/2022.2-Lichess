@@ -78,6 +78,27 @@ Na *tabela 1* estão identificados os requisitos elicitados respectivamente prio
 | ST13 | Eu, como usuário, desejo ter professores para me ensinar a jogar | Could |
 | ST14 | Eu, como usuário, desejo utilizar o aplicativo em dispositivos Android e iOS | Should |
 | ST15 | Eu, como usuário, desejo localizar de forma clara onde cada funcionalidade está | Must |
+| B01   | O usuário deve poder filtrar os adversários | Should |
+| B02   | O usuário deve poder jogar offline | Must |
+| B03   | O usuário deve poder pesquisar um usuário específico | Could |
+| B04   | O usuário deve poder realizar diferentes tipos de jogadas | Must |
+| B05   | O usuário deve poder pausar o jogo | Must |
+| B06   | O usuário deve poder continuar jogando de onde parou(quando offline) | Must |
+| B07   | O usuário deve conseguir criar grupos de colegas para jogar | Could |
+| B08   | O usuário deve poder controlar a dificuldade do bot quando jogar offline | Must |
+| B09   | O usuário deve poder realizar login na conta | Should |
+| B10  | O usuário deve poder criar um perfil | Should |
+| B11  | O usuário deve poder recuperar a senha | Must |
+| B12  | O usuário deve poder sair da conta | Must |
+| B13  | O usuário deve poder ver informações da conta | Should |
+| B14  | O usuário deve poder editar o seu perfil | Should |
+| B15  | O usuário deve poder trocar de perfil | Should |
+| B16  | O sistema deve ter a opção de criação de partidas rápidas | Must |
+| B17  | O usuário deve poder assistir e jogar partida de qualquer dispositivo | Should |
+| B18  | O aplicativo deve ser fácil de ser utilizado | Must |
+| B19  | O usuário é recompensado cada vez que termina uma partida ou assiste uma aula ou participa de um torneio | Could |
+| B20  | O sistema deve ser acessível para diversas plataformas como mobile ou web  | Should |
+| B21  | O aplicativo deve ser produzido de maneira que mantenha o usuário engajado e motivado | Must |
 <figcaption>Tabela 1: Tabela de priorização MoSCoW.</figcaption>
 </br>
 
