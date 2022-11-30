@@ -54,4 +54,4 @@ A partir das observações representadas na Tabela 1, foram elicitados os requis
 
 | Versão | Data       | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ---------- | ---------------------------------- | ------------- | ------------- |
-| `1.0`  | 27/11/2022 | Criação do documento.              | Nicolas Souza |               |
+| `1.0`  | 27/11/2022 | Criação do documento.              | Nicolas Souza |  Lucas Macedo |

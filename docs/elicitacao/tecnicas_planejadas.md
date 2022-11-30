@@ -41,4 +41,4 @@ Após estudar as técnicas, e levando em consideração o acesso aos usuários, 
 
 | Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
-| `1.0`  |  22/11/2022 |  Criação do documento | Nicolas Souza  |  |
+| `1.0`  |  22/11/2022 |  Criação do documento | Nicolas Souza  | Maurício Machado |

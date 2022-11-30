@@ -29,4 +29,4 @@ Na tabela 1 podemos ver o que foi realizado no Ponto de Controle 1.
 
 | Versão | Data       | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ---------- | ---------------------------------- | ------------- | ------------- |
-| `1.0`  | 22/11/2022 |  Versão inicial do cronograma do projeto | Mauricio Machado |      -      |
+| `1.0`  | 22/11/2022 |  Versão inicial do cronograma do projeto | Mauricio Machado |      Nicolas Souza   |

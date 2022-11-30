@@ -88,6 +88,6 @@ Tabela 1: Requisitos elicitados por meio da entrevista (Fonte: autor, 2022).
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição            | Autor         | Revisor          |
+| Versão | Data       | Descrição            | Autor(es)         | Revisor(es)          |
 | ------ | ---------- | -------------------- | ------------- | ---------------- |
 | `1.0`  | 25/11/2022 | Criação do documento | Lucas Gabriel | Mauricio Machado |

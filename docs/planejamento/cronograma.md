@@ -101,4 +101,4 @@ Este documento apresenta o cronograma geral das atividades e o cronograma de cad
 
 | Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
-| `1.0`  | 16/11/2022 | Versão inicial do cronograma do projeto | Mauricio Machado | |
+| `1.0`  | 16/11/2022 | Versão inicial do cronograma do projeto | Mauricio Machado | Nicolas Souza |

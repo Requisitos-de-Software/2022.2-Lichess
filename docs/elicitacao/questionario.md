@@ -213,5 +213,5 @@ A interface do LiChess possui alta densidade de itens sem reforço ou incetivo p
 
 | Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
-| `1.0`  | 22/11/2022 |  Criação do documento e adição da introdução | Mauricio |   --    |
-| `1.1`  | 24/11/2022 |     Adição do resultado do questionário     | Mauricio |   --    |
+| `1.0`  | 22/11/2022 |  Criação do documento e adição da introdução | Mauricio |   Lucas Macedo    |
+| `1.1`  | 24/11/2022 |     Adição do resultado do questionário     | Mauricio |   Lucas Macedo    |
