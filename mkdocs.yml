@@ -35,6 +35,7 @@ nav:
       - Personas: "elicitacao/personas.md"
       - Storytelling: "elicitacao/storytelling.md"
       - Entrevista: "elicitacao/entrevista.md"
+      - Priorização: "elicitacao/priorizacao.md"
   - Apresentações: apresentacoes.md
 
   # - Nova navegação: "nome do arquivo relativo a docs"
