@@ -120,13 +120,19 @@ Segue o esquema:
 >1. Listar todos os requisitos em uma tabela, retirando aqueles dependentes de outro requisito.
 >2. Estimar o benefício relativo que cada recurso fornece ao cliente ou ao negócio de 1 a 9, em que 1 é o menos significativo e 9 o mais significativo.
 >3. Estimar a penalidade que o negócio sofreria, se o recurso não fosse incluído, de 1 a 9, em que 1 é o com menor penalidade e 9 maior penalidade.
->4. A Coluna valor total é a soma do (Benefício Relativo *Peso Relativo + Penalidade Relativa* Peso Relativo), o peso relativo utilizado nesse caso foi de 1.
+>4. A Coluna valor total é a soma do (Benefício Relativo *Peso Relativo + Penalidade Relativa*  * *Peso Relativo*), o peso relativo utilizado nesse caso foi de 1.
 >5. Estimar o custo relativo de implementação de cada requisito, de 1 a 9.
 >6. Estimar o grau relativo ao risco a cada requisito de uma escala de 1 a 9.
 >7. Calcular a prioridade para cada requisito usando: valor % / (custo % *Peso custo + risco %* Peso Risco). O Peso custo e risco aqui utilizados foram iguais a 1.
 >8. Ordenar a lista em ordem decrescente de prioridade.
 
-## Bibliografia
+Na *tabela 2* é possível validar o esquema construído pelo grupo:
+
+![RichPicture Versão 1.0](./imgs/FTF.jpg)
+<figcaption>Tabela 2: Esquema First Things First.</figcaption>
+</br>
+
+## 3. Bibliografia
 
 [1] WIEGERS Karl E. First Things First: Prioritizing Requirements. Setembro de 1999. Disponível no [link](https://www.processimpact.com/articles/prioritizing.pdf)
 
