@@ -31,6 +31,55 @@ São menos importantes que requisitos should-have. Agregam valor ao projeto, mas
 #### 1.2.4 Would/Want/Won't-Have
 São aqueles que não tem importância significativa para o projeto. A presença ou ausência desses requisitos não tem impacto na conclusão satisfatória do projeto.
 
+Na *tabela 1* estão identificados os requisitos elicitados respectivamente priorizados:
+
+| Identificador | Requisito | Priorização |
+| :---: | - | :-: |
+| GLO01 | Deve ser possível personalizar a modalidade de jogo | Could |
+| GLO02 | Deve ser possível personalizar o incremento das partidas | Would |
+| GLO03 | Deve ser possível consultar as regras da modalidade de jogo em andamento | Could |
+| GLO04 | Deve ser possível solucionar quebra cabeças | Could |
+| INT01 | Deve ser possível jogar uma partida de xadrez contra o computador | Must |
+| INT02 | Deve ser possível jogar uma partida de xadrez contra outro jogador | Must |
+| INT03 | Deve ser possível configurar o modelo de jogo contra outro jogador | Should |
+| INT04 | Deve ser possível configurar a dificuldade da partida contra o computador  | Must |
+| INT05 | Deve ser possível pausar uma partida contra o computador | Must |
+| INT06 | Partidas contra outros jogadores devem seguir sem interrupções e pausas | Must |
+| INT07 | Deve ser possível aprender movimentos de xadrez | Should |
+| INT08 | O aplicativo deve fornecer um tutorial de uso do sistema | Should |
+| INT09 | Deve ser possível acessar os modelos de partida a partir da tela inicial | Should |
+| INT10 | O tempo de resposta das requisições ao aplicativo deve ser menor ou igual a 1 segundo | Would |
+| INT11 | Deve ser possível ver quando o outro jogador está pensando na jogada dele  | Would |
+| Q01 | Aspecto visual do aplicativo deve ser mais minimalista | Could |
+| Q02 | Aplicativo deve dar feedbacks sobre sequências de puzzle resolvidos | Would |
+| Q03 | Aplicativo deve enviar notificações push sobre torneios ao vivo para usuários que aceitaram essa opção | Could |
+| Q04 | Usuários novos devem ter um número determinado de partidas com recompensa e dificuldade menores | Would |
+| Q05 | Aplicativo deve ter contra medidas a fim de evitar trapaças e sistemas que forneçam suporte externo ao usuário | Must |
+| Q06 | Tabela de líderes em comunidade deve possuir filtros | Would |
+| Q07 | Aplicativo deve possuir avaliação nas lojas de aplicativo maior que 4 | Could |
+| Q08 | Usuários devem ser pareados em partidas online com usuários de mesma ou similar habilidade | Should |
+| Q09 | Usuários não precisam de conta para jogar partidas online | Could |
+| Q10 | Usuário deve ter acesso a onboarding quando usa o aplicativo pela primeira vez | Must |
+| Q11 | Aplicativo deve estimular a competitividade | Could |
+| Q12 | O aplicativo deve funcionar 24/7 | Must |
+| Q13 | Aplicativo deve ensinar xadrez ao usuário | Must |
+| ST01 | Eu, como usuário, desejo encontrar partidas de xadrez com facilidade | Must |
+| ST02 | Eu, como usuário, quero jogar partidas de forma competitiva entre outros jogadores | Must |
+| ST03 | Eu, como usuário, quero jogar partidas casuais para passar o meu tempo | Must |
+| ST04 | Eu, como usuário, quero criar partidas personalizadas | Must |
+| ST05 | Eu, como usuário, quero jogar partidas com meus amigos | Must |
+| ST06 | Eu, como usuário, desejo assistir partidas de outras pessoas | Should |
+| ST07 | Eu, como usuário, desejo conhecer outras pessoas em partidas | Would |
+| ST08 | Eu, como usuário, quero me comunicar com outros jogadores | Could |
+| ST09 | Eu, como usuário, desejo ter uma analise detalhada de minhas jogadas | Would |
+| ST10 | Eu, como usuário, desejo ver minha classificação em relação aos outros jogadores | Must |
+| ST11 | Eu, como usuário, desejo aprender a jogar xadrez | Should |
+| ST12 | Eu, como usuário, desejo praticar minhas ténicas de xadrez | Could |
+| ST13 | Eu, como usuário, desejo ter professores para me ensinar a jogar | Could |
+| ST14 | Eu, como usuário, desejo utilizar o aplicativo em dispositivos Android e iOS | Should |
+| ST15 | Eu, como usuário, desejo localizar de forma clara onde cada funcionalidade está | Must |
+<figcaption>Tabela 1: Tabela de priorização MoSCoW.</figcaption>
+</br>
 
 ## 2. Fist Things First
 
