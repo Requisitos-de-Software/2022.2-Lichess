@@ -102,6 +102,8 @@ Segue o esquema:
 
 ## 3. Referências
 
+- WIEGERS Karl E. First Things First: Prioritizing Requirements. Setembro de 1999. Disponível em: https://www.processimpact.com/articles/prioritizing.pdf
+
 ## 4. Histórico de versões
 
 |    Data    | Versão |                  Descrição                        | Autor | Revisor |
