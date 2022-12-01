@@ -175,11 +175,11 @@ Na Tabela Respostas Pergunta 4, estão listadas as resposta diretas do nosso usu
 ## Análise dos resultados
 
 Através do questionário é possível identificar os perfis de usuário do LiChess.
-Na pesquisa executada mais da metade de usuários são jovens na faixa inicial dos vinte. Além disso, possuem um alto engajamento em dispositivos eletrônicos e tem um comportamento mais introspectivo.
+Na pesquisa executada mais da metade de usuários são jovens na faixa inicial dos vinte anos. Além disso, possuem um alto engajamento em dispositivos eletrônicos e tem um comportamento mais introspectivo.
 
-Foi possível perceber que os usuários em sua maioria jogam de forma online e tem pouco senso de comunidade, dessa forma elementos como Comunidade e possibilidade de assistir jogos é pouco utilizada.
+Foi possível perceber que os usuários em sua maioria jogam de forma online e tem pouco senso de comunidade, dessa forma elementos como comunidade e possibilidade de assistir jogos é pouco utilizada.
 
-A interface do LiChess possui alta densidade de itens sem reforço ou incetivo para sua utilização. Dessa forma, usuário sente muita informação por acesso o que pode influenciar em menores tempos de sessão.
+A interface do Lichess possui alta densidade de itens sem reforço ou incetivo para sua utilização. Dessa forma, o usuário visualiza muitas informações por acesso o que pode influenciar em menores tempos de sessão.
 
 ## Requisitos Elicitados
 

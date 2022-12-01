@@ -27,14 +27,29 @@ O responsável por esse artefato, Mauricio Machado, ficou responsável por criar
 A partir desses requisitos, buscamos as personas básicas que mais utilizariam esses requisitos. As personas foram detalhadas, com suas histórias, necessidades e objetivos.
 Todas as imagens utilizadas nesse artefato foram retiradas do site [This Person Doest Not Exist](https://thispersondoesnotexist.com), um site que utiliza de inteligencia artificial para criar imagens sem copyright.
 
+## Perfil do Usuário
+
+A elaboração das Personas parte do perfil de usuário, representado na Tabela 1, que foi traçado a partir dos [resultados](questionario.md) do questionário aplicado.
+
+| Característica | Descrição |
+| - | - |
+| Idade | Jovem, com idade média de 23 anos. |
+| Experiência | Especialista |
+| Atitudes | Tecnófilos |
+| Tarefas primárias | Jogar xadrez competitivamente, estudar movimentos e jogar xadrez casualmente |
+
+<div style="text-align: center">
+<p>Tabela 1: Perfil do usuário (fonte: autor, 2022).</p>
+</div>
+
 ## Definição das Personas
 
-Abaixo temos listadas as principais personas identificadas para o aplicativo LiChess.
+A partir do perfil do usuário e das tarefas primárias identificadas, foi elaborado o elenco de personas. O elenco é composto de duas personas primárias e uma antipersona. A quantidade de personas foi definida de forma a torná-las memoráveis, a utilização de um elenco grande de personas pode distanciar a equipe das personas. O elenco de personas está descrito nas seções seguintes.
 
 ### Ravi
 
 <div style="text-align: center">
-<p>Tabela 1: Persona 1</p>
+<p>Tabela 2: Persona 1</p>
 </div>
 
 |                     |                                                                                                                                                                                                                                                         |
@@ -56,7 +71,7 @@ Abaixo temos listadas as principais personas identificadas para o aplicativo LiC
 ### Jorge
 
 <div style="text-align: center">
-<p>Tabela 2: Anti-persona</p>
+<p>Tabela 3: Anti-persona</p>
 </div>
 
 |                     |                                                                                                                                                                                                                                                                                                                                     |
@@ -78,7 +93,7 @@ Abaixo temos listadas as principais personas identificadas para o aplicativo LiC
 ### Roberta
 
 <div style="text-align: center">
-<p>Tabela 3: Persona 2</p>
+<p>Tabela 4: Persona 2</p>
 </div>
 
 |                     |                                                                                                                                                                                                                                                                                                     |
@@ -101,8 +116,11 @@ Abaixo temos listadas as principais personas identificadas para o aplicativo LiC
 
 [1] This Person Doest Not Exist. Acesso em: 23 de nov. de 2022.Disponível em: <https://thispersondoesnotexist.com> <br>
 
+[2] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
+
 ## Histórico de Versão
 
 | Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
 | `1.0`  | 24/11/2022 | Criação do documento e adição das personas | Mauricio | Lucas Macedo |
+| `1.1`  | 30/11/2022 | Inclusão do perfil de usuário e inclusão da justificativa sobre a escolha das personas | Nicolas Souza |  |
