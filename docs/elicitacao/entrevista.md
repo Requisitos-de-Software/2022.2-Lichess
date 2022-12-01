@@ -67,20 +67,26 @@ Foi utilizada a técnica da entrevista com intuito de verificar as funcionalidad
 
 ## Resultados
 
-Como resultado da técnica de Entrevista, foram levantados os seguintes requisitos:
+Como resultado da técnica de Entrevista, foram levantados os seguintes requisitos que podem ser observados, logo abaixo, na Tabela 1:
 
-| Identificador |                                                                     Requisitos                                                                      |
-| :-----------: | :-------------------------------------------------------------------------------------------------------------------------------------------------: |
-|      RF1      |                 Ao clicar em "Criar partida" deverá apresentar para o usuário de forma simples e detalhada a duração das partidas                  |
-|      RF2      | Deve ser possível jogar contra um bot que represente um jogador famoso (tenha em sua configuração movimentos similares aos utilizados pelo jogador) |
-|     RNF1      |                                                O software deve ter uma interface simples e intuitiva                                                |
-|     RNF2      |                                   O software deve possuir ícones condensando neles as principais funcionalidades                                    |
+### Legenda
+
+* ENT: Entrevista
+* RF: Requisito funcional
+* RNF: REquisito não funcional
+
+
+| Identificador | Requisito                                                                                                                                           | Tipo  |
+| :-----------: | --------------------------------------------------------------------------------------------------------------------------------------------------- | :---: |
+|     ENT01     | Ao clicar em "Criar partida" deverá apresentar para o usuário de forma simples e detalhada a duração das partida                                    | RF01  |
+|     ENT02     | Deve ser possível jogar contra um bot que represente um jogador famoso (tenha em sua configuração movimentos similares aos utilizados pelo jogador) | RF02  |
+|     ENT03     | O software deve ter uma interface simples e intuitiva                                                                                               | RNF01 |
+|     ENT04     | O software deve possuir ícones condensando neles as principais funcionalidades                                                                      | RNF02 |
 
 <div style="text-align: center">
-<p>
-Tabela 1: Requisitos elicitados por meio da entrevista (Fonte: autor, 2022).
-</p>
+<p> Tabela 1: Requisitos elicitados por meio da entrevista (Fonte: autor, 2022)..</p>
 </div>
+
 
 ## Bibliografia
 
