@@ -32,4 +32,4 @@ Vídeo 2: Apresentação da etapa 2 do projeto
 | ------ | ---------- | ------------------------ | ---------------- | ------------- |
 | `1.0`  | 20/11/2022 | Adição da apresentação 1 | Mauricio Machado | Nicolas Souza |
 | `1.1`  | 22/11/2022 | Correção link do vídeo   | Mauricio Machado | Lucas Macedo  |
-| `1.2`  | 30/11/2022 | Adição da apresentação 2 | Lucas Macedo     | ---           |
+| `1.2`  | 30/11/2022 | Adição da apresentação 2 | Lucas Macedo     | Nicolas Souza       |
