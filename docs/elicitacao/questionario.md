@@ -31,13 +31,13 @@ Respostas foram coletadas entre as datas **20/11/2022** e **24/11/2022**.
 
 ![Image do resultado da questão 1](./imgs/perguntas_questionario/pergunta-1.png)
 
-**Imagem Pergunta 1. Fonte: Mauricio Machado**
+**Figura 1: Pergunta 1. Fonte: Mauricio Machado**
 
 ### Questão 2
 
 ![Image do resultado da questão 2](./imgs/perguntas_questionario/pergunta-2.png)
 
-**Imagem Pergunta 2. Fonte: Mauricio Machado**
+**Figura 2: Pergunta 2. Fonte: Mauricio Machado**
 
 ### Questão 3
 
@@ -89,13 +89,13 @@ Na Tabela Respostas Pergunta 4, estão listadas as resposta diretas do nosso usu
 
 ![Image do resultado da questão 5](./imgs/perguntas_questionario/pergunta-5.png)
 
-**Imagem Pergunta 5. Fonte: Mauricio Machado**
+**Figura 3: Pergunta 5. Fonte: Mauricio Machado**
 
 ### Questão 6
 
 ![Image do resultado da questão 6](./imgs/perguntas_questionario/pergunta-6.png)
 
-**Imagem Pergunta 6. Fonte: Mauricio Machado**
+**Figura 6: Pergunta 6. Fonte: Mauricio Machado**
 
 ### Questão 7
 
@@ -116,7 +116,7 @@ Na Tabela Respostas Pergunta 4, estão listadas as resposta diretas do nosso usu
 
 ![Image do resultado da questão 8](./imgs/perguntas_questionario/pergunta-8.png)
 
-**Imagem Pergunta 8. Fonte: Mauricio Machado**
+**Figura 4: Pergunta 8. Fonte: Mauricio Machado**
 
 ### Questão 9
 
@@ -134,19 +134,19 @@ Na Tabela Respostas Pergunta 4, estão listadas as resposta diretas do nosso usu
 
 ![Image do resultado da questão 10](./imgs/perguntas_questionario/pergunta-10.png)
 
-**Imagem Pergunta 10. Fonte: Mauricio Machado**
+**Figura 5: Pergunta 10. Fonte: Mauricio Machado**
 
 ### Questão 11
 
 ![Image do resultado da questão 11](./imgs/perguntas_questionario/pergunta-11.png)
 
-**Imagem Pergunta 11. Fonte: Mauricio Machado**
+**Figura 6: Pergunta 11. Fonte: Mauricio Machado**
 
 ### Questão 12
 
 ![Image do resultado da questão 12](./imgs/perguntas_questionario/pergunta-12.png)
 
-**Imagem Pergunta 12. Fonte: Mauricio Machado**
+**Figura 7: Pergunta 12. Fonte: Mauricio Machado**
 
 ### Questão 13
 
@@ -175,11 +175,11 @@ Na Tabela Respostas Pergunta 4, estão listadas as resposta diretas do nosso usu
 ## Análise dos resultados
 
 Através do questionário é possível identificar os perfis de usuário do LiChess.
-Na pesquisa executada mais da metade de usuários são jovens na faixa inicial dos vinte. Além disso, possuem um alto engajamento em dispositivos eletrônicos e tem um comportamento mais introspectivo.
+Na pesquisa executada mais da metade de usuários são jovens na faixa inicial dos vinte anos. Além disso, possuem um alto engajamento em dispositivos eletrônicos e tem um comportamento mais introspectivo.
 
-Foi possível perceber que os usuários em sua maioria jogam de forma online e tem pouco senso de comunidade, dessa forma elementos como Comunidade e possibilidade de assistir jogos é pouco utilizada.
+Foi possível perceber que os usuários em sua maioria jogam de forma online e tem pouco senso de comunidade, dessa forma elementos como comunidade e possibilidade de assistir jogos é pouco utilizada.
 
-A interface do LiChess possui alta densidade de itens sem reforço ou incetivo para sua utilização. Dessa forma, usuário sente muita informação por acesso o que pode influenciar em menores tempos de sessão.
+A interface do Lichess possui alta densidade de itens sem reforço ou incetivo para sua utilização. Dessa forma, o usuário visualiza muitas informações por acesso o que pode influenciar em menores tempos de sessão.
 
 ## Requisitos Elicitados
 

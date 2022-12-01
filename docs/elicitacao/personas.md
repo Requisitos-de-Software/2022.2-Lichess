@@ -27,14 +27,29 @@ O responsável por esse artefato, Mauricio Machado, ficou responsável por criar
 A partir desses requisitos, buscamos as personas básicas que mais utilizariam esses requisitos. As personas foram detalhadas, com suas histórias, necessidades e objetivos.
 Todas as imagens utilizadas nesse artefato foram retiradas do site [This Person Doest Not Exist](https://thispersondoesnotexist.com), um site que utiliza de inteligencia artificial para criar imagens sem copyright.
 
+## Perfil do Usuário
+
+A elaboração das Personas parte do perfil de usuário, representado na Tabela 1, que foi traçado a partir dos [resultados](questionario.md) do questionário aplicado.
+
+| Característica    | Descrição                                                                    |
+| ----------------- | ---------------------------------------------------------------------------- |
+| Idade             | Jovem, com idade média de 23 anos.                                           |
+| Experiência       | Especialista                                                                 |
+| Atitudes          | Tecnófilos                                                                   |
+| Tarefas primárias | Jogar xadrez competitivamente, estudar movimentos e jogar xadrez casualmente |
+
+<div style="text-align: center">
+<p>Tabela 1: Perfil do usuário (fonte: autor, 2022).</p>
+</div>
+
 ## Definição das Personas
 
-Abaixo temos listadas as principais personas identificadas para o aplicativo LiChess.
+A partir do perfil do usuário e das tarefas primárias identificadas, foi elaborado o elenco de personas. O elenco é composto de duas personas primárias e uma antipersona. A quantidade de personas foi definida de forma a torná-las memoráveis, a utilização de um elenco grande de personas pode distanciar a equipe das personas. O elenco de personas está descrito nas seções seguintes.
 
 ### Ravi
 
 <div style="text-align: center">
-<p>Tabela 1: Persona 1</p>
+<p>Tabela 2: Persona 1</p>
 </div>
 
 |                     |                                                                                                                                                                                                                                                         |
@@ -47,7 +62,7 @@ Abaixo temos listadas as principais personas identificadas para o aplicativo LiC
 | **Habilidades**     | Ravi começou a jogar xadrez a partir dos 6 anos. Desde cedo foi instruído por seus pais a desenvolver esse teor técnico. Além de saber a teoria do xadrez, Ravi possui um forte perfil competitivo, manipulando a jogado de seus inimigos.              |
 | **Relacionamentos** | Ravi tem um pequeno grupo de amigos, os quais tem sua confiança máxima. Todos seus problemas e segredos são contados apenas para esse grupo.                                                                                                            |
 | **Requisitos**      | Ravi acredita que o elemento de ranqueamento deve ser mais indicativo e ter algum reforço para fortalecer esse ambiente competitivo. Além disso, Ravi gosta de usar o elemento de torneios para constantemente se desafiar com jogadores de alto nível. |
-| **Expectativas**  | Ravi quer estar nas melhores posições de ranqueamento do LiChess                                                                                                                                                                                        |
+| **Expectativas**    | Ravi quer estar nas melhores posições de ranqueamento do LiChess                                                                                                                                                                                        |
 
 <div style="text-align: center">
 <p>Fonte: Mauricio Machado</p>
@@ -56,20 +71,20 @@ Abaixo temos listadas as principais personas identificadas para o aplicativo LiC
 ### Jorge
 
 <div style="text-align: center">
-<p>Tabela 2: Anti-persona</p>
+<p>Tabela 3: Anti-persona</p>
 </div>
 
-|                     |                                                                                                                                                                                                                                                                                                                                     |
-| :------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Nome**            | Jorge                                                                                                                                                                                                                                                                                                                               |
-| **Foto**            | <img width="200" src="../imgs/personas/jorge.jpeg"><p>Figura 2 Jorge persona</p>                                                                                                                                                                                                                                                    |
-| **Descrição**       | Jorge, idade de 65 anos morador de Brasília<br> Jorge é aposentado e busca novos hobbies para conhecer novas pessoas e formar novas amizades.<br>Homem. <br>Viúvo.                                                                                                                                                                  |
-| **Status**          | Antipersona.                                                                                                                                                                                                                                                                                                                        |
-| **Objetivos**       | Jorge adora jogos de tabuleiro onde pode conversar e entender o que o jogador está pensando. Após a morte de sua esposa, Jorge tenta formar novas conexões através de hobbies e acabou usando seu gosto de jogos de tabuleiro para tal. Jorge adora conversar.                                                                      |
-| **Habilidades**     | Jorge durante sua vida sempre adorou jogos de tabuleiro. Possui alta capacidade em jogos de estratégia e ensinou seus filhos e seus netos a jogarem xadrez.                                                                                                                                                                         |
-| **Relacionamentos** | Jorge tem se visto cada vez mais isolado da sociedade, adora contato humano mas sente que exige muito esforço para criar novas conexões em sua idade.                                                                                                                                                                               |
+|                     |                                                                                                                                                                                                                                                                                                                                      |
+| :------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Nome**            | Jorge                                                                                                                                                                                                                                                                                                                                |
+| **Foto**            | <img width="200" src="../imgs/personas/jorge.jpeg"><p>Figura 2 Jorge persona</p>                                                                                                                                                                                                                                                     |
+| **Descrição**       | Jorge, idade de 65 anos morador de Brasília<br> Jorge é aposentado e busca novos hobbies para conhecer novas pessoas e formar novas amizades.<br>Homem. <br>Viúvo.                                                                                                                                                                   |
+| **Status**          | Antipersona.                                                                                                                                                                                                                                                                                                                         |
+| **Objetivos**       | Jorge adora jogos de tabuleiro onde pode conversar e entender o que o jogador está pensando. Após a morte de sua esposa, Jorge tenta formar novas conexões através de hobbies e acabou usando seu gosto de jogos de tabuleiro para tal. Jorge adora conversar.                                                                       |
+| **Habilidades**     | Jorge durante sua vida sempre adorou jogos de tabuleiro. Possui alta capacidade em jogos de estratégia e ensinou seus filhos e seus netos a jogarem xadrez.                                                                                                                                                                          |
+| **Relacionamentos** | Jorge tem se visto cada vez mais isolado da sociedade, adora contato humano mas sente que exige muito esforço para criar novas conexões em sua idade.                                                                                                                                                                                |
 | **Requisitos**      | Para usuários que não tem como intuito utilizar o app com frequência e que gostam de um contato mais próximo entre jogadores. Jorge revela que a possibilidade de parear com um jogador próximo seria de seu interesse, além disso a possibilidade de se comunicar verbalmente durante uma partida seria algo interessante para ele. |
-| **Expectativas**  | Jorge quer encontrar novos melhores amigos para aproveitar seus dias e formar novas memórias                                                                                                                                                                                                                                        |
+| **Expectativas**    | Jorge quer encontrar novos melhores amigos para aproveitar seus dias e formar novas memórias                                                                                                                                                                                                                                         |
 
 <div style="text-align: center">
 <p>Fonte: Mauricio Machado</p>
@@ -78,7 +93,7 @@ Abaixo temos listadas as principais personas identificadas para o aplicativo LiC
 ### Roberta
 
 <div style="text-align: center">
-<p>Tabela 3: Persona 2</p>
+<p>Tabela 4: Persona 2</p>
 </div>
 
 |                     |                                                                                                                                                                                                                                                                                                     |
@@ -88,10 +103,10 @@ Abaixo temos listadas as principais personas identificadas para o aplicativo LiC
 | **Descrição**       | Roberta, idade de 23 anos moradora de Brasília<br> Roberta é estudante e ao mesmo tempo trabalha, usando seu celular para aproveitar momentos livres durante seu dia.<br>Mulher. <br>Solteiro.                                                                                                      |
 | **Status**          | Persona-Primária.                                                                                                                                                                                                                                                                                   |
 | **Objetivos**       | Roberta tem dias corridos e busca pagar as contas enquanto conclui sua graduação. Busca utilizar jogos de celular de forma casual para passar o tempo e se divertir. Roberta é extrovertida e adora sair e conhecer novos cenários.                                                                 |
-| **Habilidades**     | Roberta começou a usar o LiChess via recomendação de amigo. Não sabe sobre estratégias do xadrez, sabendo apenas os movimentos de cada peça e trabalhando em cima disso. Roberta adora assistir outras pessoas jogarem para aprender via exemplo.                                                    |
+| **Habilidades**     | Roberta começou a usar o LiChess via recomendação de amigo. Não sabe sobre estratégias do xadrez, sabendo apenas os movimentos de cada peça e trabalhando em cima disso. Roberta adora assistir outras pessoas jogarem para aprender via exemplo.                                                   |
 | **Relacionamentos** | Roberta tem um grande grupo de amigos, mas poucos usam o LiChess.                                                                                                                                                                                                                                   |
 | **Requisitos**      | Roberta gostaria de saber mais sobre como jogar xadrez. Para ela, lições e exemplos de forma rápida e prática são essenciais para seu desenvolvimento. A função de assistir outras partidas precisa ser melhorada a fim de Roberta entender o que os jogadores estão pensando ao executar as ações. |
-| **Expectativas**  | Roberta quer se divertir enquanto está se transportando entre casa, faculdade e trabalho.                                                                                                                                                                                                           |
+| **Expectativas**    | Roberta quer se divertir enquanto está se transportando entre casa, faculdade e trabalho.                                                                                                                                                                                                           |
 
 <div style="text-align: center">
 <p>Fonte: Mauricio Machado</p>
@@ -101,8 +116,11 @@ Abaixo temos listadas as principais personas identificadas para o aplicativo LiC
 
 [1] This Person Doest Not Exist. Acesso em: 23 de nov. de 2022.Disponível em: <https://thispersondoesnotexist.com> <br>
 
+[2] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
+
 ## Histórico de Versão
 
-| Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
-| ------ | ------------- | ---------------------------------- | ------------- | ------------- |
-| `1.0`  | 24/11/2022 | Criação do documento e adição das personas | Mauricio | Lucas Macedo |
+| Versão | Data       | Descrição                                                                              | Autor(es)     | Revisor(es)  |
+| ------ | ---------- | -------------------------------------------------------------------------------------- | ------------- | ------------ |
+| `1.0`  | 24/11/2022 | Criação do documento e adição das personas                                             | Mauricio      | Lucas Macedo |
+| `1.1`  | 30/11/2022 | Inclusão do perfil de usuário e inclusão da justificativa sobre a escolha das personas | Nicolas Souza | Lucas Macedo |
