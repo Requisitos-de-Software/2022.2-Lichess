@@ -1,32 +1,57 @@
 # Cronograma Realizado
 
-## 1. Introdução
+## Introdução
 
 Apresentação de itens feitos para cada ponto de controle do cronograma.
 
-## 2. Ponto de Controle 1
+## Ponto de Controle 1
 
 Na tabela 1 podemos ver o que foi realizado no Ponto de Controle 1.
 
-|        Atividade         |  Entrega   |  Revisão   |      Autor(es)       |          Revisor(es)          |
-| :----------------------: | :--------: | :--------: | :------------------: | :---------------------------: |
-|       Metodologias       | 18/11/2022 | 20/11/2022 |       Nicolas        | Lucas Macedo, Mauricio e Davi |
-|  Ferramentas do projeto  | 16/11/2022 | 18/11/2022 |     Lucas Macedo     |    Lucas Gabriel e Nicolas    |
-| Cronograma de atividades | 16/11/2022 | 16/11/2022 |       Mauricio       |            Nicolas            |
-|          Equipe          | 07/11/2022 | 07/11/2022 |     Lucas Macedo     |            Nicolas            |
-|     App selecionado      | 17/11/2022 | 18/11/2022 |    Lucas Gabriel     |           Mauricio            |
-|       Rich Picture       | 20/11/2022 | 20/11/2022 |        Renan         |             Davi              |
-| Gravação da apresentação | 20/11/2022 |     -      | Todos os integrantes |               -               |
-|  Edição da apresentação  | 20/11/2022 |     -      |       Mauricio       |               -               |
+|Atividade |  Entrega   |  Revisão   |  Autor(es)   |  Revisor(es)  |
+| :-: | :-: | :-: | :----: | :------: |
+|   Metodologias   | 18/11/2022 | 20/11/2022 |   Nicolas| Lucas Macedo, Mauricio e Davi |
+|  Ferramentas do projeto  | 16/11/2022 | 18/11/2022 | Lucas Macedo |Lucas Gabriel e Nicolas|
+| Cronograma de atividades | 16/11/2022 | 16/11/2022 |   Mauricio   |Nicolas|
+|  Equipe  | 07/11/2022 | 07/11/2022 | Lucas Macedo |Nicolas|
+| App selecionado  | 17/11/2022 | 18/11/2022 |Lucas Gabriel |   Mauricio|
+|   Rich Picture   | 20/11/2022 | 20/11/2022 |Renan | Davi  |
+| Gravação da apresentação | 20/11/2022 | -  | Todos os integrantes |-|
+|  Edição da apresentação  | 20/11/2022 | -  |   Mauricio   |-|
 
-**Tabela 1: Itens realizados Ponto de Controle 1. Fonte: Criado pelo autor.**
+<div style="text-align: center">
+<p> Tabela 1: Itens realizados Ponto de Controle 1. (Fonte: autor, 2022).</p>
+</div>
 
-## 9. Referências
+## Ponto de Controle 2
 
-SALES, André Barros. Plano de ensino da disciplina. Disponível em: <https://aprender3.unb.br/pluginfile.php/2307416/mod_resource/content/22/Plano_de_Ensino%20RE%20202202%20Turma%202.pdf>. Acesso em: 16 de novembro de 2022;
+Na tabela 2 podemos ver o que foi realizado no Ponto de Controle 2.
 
-## Histórico de versão do arquivo
+| Atividade |  Entrega   |  Revisão   |  Autor(es)   |  Revisor(es)  |
+| :-: | :-: | :-: | :----: | :------: |
+| Técnicas planejadas      | Nicolas              | Mauricio      | 22/11/2022 | 22/11/2022  |
+| StoryTelling             | Lucas Macedo         | Nicolas       | 25/11/2022 | 26/11/2022 |
+| Personas                 | Mauricio             | Lucas Macedo  | 24/11/2022 | 24/11/2022 |
+| Questionário             | Mauricio             | Lucas Macedo  | 24/11/2022 | 24/11/2022 |
+| Introspecção             | Nicolas              | Davi          | 27/11/2022 | 27/11/2022 |
+| Glossário                | Nicolas              | Lucas Gabriel | 27/11/2022 | 27/11/2022 |
+| Entrevista               | Lucas Gabriel        | Mauricio      | 25/11/2022 | 25/11/2022 |
+| Brainstorming            | Davi Silva           | Lucas Gabriel | 27/11/2022 | 27/11/2022 |
+| Priorização              | Renan                | Lucas Macedo  | 29/11/2022 | 29/11/2022 |
+| Gravação da apresentação | Todos os integrantes |  -            | 30/11/2022 |  -  |
+| Edição da apresentação   | Mauricio             |  -            | 30/11/2022 |  -  |
 
-|    Data    | Versão |                Descrição                | Autor            | Revisor(es) |
-| :--------: | :----: | :-------------------------------------: | :--------------- | :---------: |
-| 22/11/2022 |  1.0   | Versão inicial do cronograma do projeto | Mauricio Machado |      -      |
+<div style="text-align: center">
+<p> Tabela 2: Itens realizados Ponto de Controle 2. (Fonte: autor, 2022).</p>
+</div>
+
+## Bibliografia
+
+[1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: <https://aprender3.unb.br/pluginfile.php/2307416/mod_resource/content/22/Plano_de_Ensino%20RE%20202202%20Turma%202.pdf>. Acesso em: 16 de novembro de 2022;
+
+## Histórico de Versão
+
+| Versão | Data   | Descrição   | Autor(es) |  Revisor(es)  |
+| ------ | --- | ------ | ------ | ------ |
+| `1.0`  | 22/11/2022 | Versão inicial do cronograma do projeto | Mauricio Machado |  Nicolas Souza   |
+| `1.1`  | 30/11/2022 | Inclusão do cronograma realizado para o ponto de controle 2 | Nicolas Souza | Lucas Macedo |

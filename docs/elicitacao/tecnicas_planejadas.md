@@ -15,7 +15,7 @@ Todas as técnicas de elicitação englobam uma fase de preparação, durante a 
 ![Protocolo do Garçom.](imgs/protocolo-do-garcom.png)
 
 <div style="text-align:center">
-<p> Figura 1: Protocolo do Garçom. Fonte: <a href="#referencias-bibliograficas">[2]</a> </p>
+<p> Figura 1: Protocolo do Garçom. Fonte: <a href="#bibliografia">[2]</a> </p>
 </div>
 
 ## Definição das técnicas
@@ -29,16 +29,36 @@ Após estudar as técnicas, e levando em consideração o acesso aos usuários, 
 - [Personas](./personas.md)
 - [Questionário](./questionario.md)
 - [Glossário](./glossario.md)
-- [Introspecção](./instrospeccao.md)
+- [Introspecção](./introspeccao.md)
 
-## Referências Bibliográficas
+## Planejamento
+
+Para fazer a elicitação e priorização dos requisitos, apoiando-se nos usuários, personas e estudos sobre as técnicas, foi elaborado o cronograma representado na Tabela 1.
+
+| Técnica | Autor | Revisor | Data limite  | Data limite da revisão |
+| - | - | - | - | - |
+| StoryTelling | Lucas Macedo | Nicolas | 25/11/2022 | 26/11/2022 |
+| Personas | Mauricio | Lucas Macedo | 24/11/2022 | 25/11/2022 |
+| Questionário | Mauricio | Lucas Macedo | 24/11/2022 | 25/11/2022 |
+| Introspecção | Nicolas | Davi | 27/11/2022 | 28/11/2022 |
+| Glossário | Nicolas | Lucas Gabriel | 27/11/2022 | 28/11/2022 |
+| Entrevista | Lucas Gabriel | Mauricio | 25/11/2022 | 26/11/2022 |
+| Brainstorming | Davi Silva | Lucas Gabriel | 25/11/2022 | 26/11/2022 |
+| Priorização  | Renan | Lucas Macedo | 28/11/2022 | 29/11/2022 |
+
+<div style="text-align:center">
+<p> Tabela 1: Planejamento da elicitação e priorização de requisitos (fonte: autor, 2022). </p>
+</div>
+
+## Bibliografia
 
 [1] WIEGERS K., BEATTY J. Software Requirements, 3ª edição.
 
 [2] VAZQUEZ C., SIMÕES G. Engenharia de Requisitos, 1ª edição.
 
-## Histórico de versões
+## Histórico de Versão
 
-|    Data     | Versão | Descrição              | Autor     | Revisor |
-|  :-------:  | :----: | :------------------:   | :-----------: | :-: |
-|  22/11/2022 |  `0.1` | Criação do documento | Nicolas Souza  |  |
+| Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
+| ------ | ------------- | ---------------------------------- | ------------- | ------------- |
+| `1.0`  |  22/11/2022 |  Criação do documento | Nicolas Souza  | Maurício Machado |
+| `1.1`  |  30/11/2022 |  Inclusão do cronograma de elicitação e priorização | Nicolas Souza  | Lucas Macedo |

@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Formulário com o objetivo de colher informações soobre o usuário e sua experiência em determinado contexto do seu cliente. Sua distinção de uma entrevista, é a redução de custo e possibilidade de realização para diversas regiões simultaneamente.
+Formulário com o objetivo de colher informações sobre o usuário e sua experiência em determinado contexto do seu cliente. Sua distinção de uma entrevista, é a redução de custo e possibilidade de realização para diversas regiões simultaneamente.
 
 Durante a construção do formulário deve-se ter a noção do público-alvo, caso não esteja bem definido generalize. Evite restrições de público-alvo sem um bom porquê.
 
@@ -18,12 +18,12 @@ Durante a construção do formulário deve-se ter a noção do público-alvo, ca
 ### Desvantagens
 
 - Se a taxa de resposta for baixa, o resultado pode não ser estatisticamente significativo.
-- Uma falha na elaboração do questionário pode levar a respostas em branco ou incorretas, ou também gerar interpretações distintas da mesma pergun-ta, o que pode levar a erros nos requisitos.
+- Uma falha na elaboração do questionário pode levar a respostas em branco ou incorretas, ou também gerar interpretações distintas da mesma pergunta, o que pode levar a erros nos requisitos.
 - O uso de questões com respostas ilimitadas demanda mais esforço de análise das respostas, se o público for numeroso.
 
 ## Resultados coletados
 
-A seguir iremos mostrar os resultados coletados para cada questão do formulário. O formulário conta com 52 respostas, antes da coleta os usuários aceitaram o nosso (termo consentimento)[https://docs.google.com/document/d/1mpv84VxXb-ld8qBgqgDsLqtA2fs2hG_L8Ta4iR4A4lI/edit?usp=sharing]
+A seguir iremos mostrar os resultados coletados para cada questão do formulário. O formulário conta com 52 respostas, antes da coleta os usuários aceitaram o nosso [termo consentimento](https://docs.google.com/document/d/1mpv84VxXb-ld8qBgqgDsLqtA2fs2hG_L8Ta4iR4A4lI/edit?usp=sharing)
 A fim de conhecer apenas o público que já utiliza o aplicativo foi estabelecida uma pesquisa de filtragem. Assim das 52 respostas coletadas apenas 28 usam o LiChess seja via site ou aplicativo.
 Respostas foram coletadas entre as datas **20/11/2022** e **24/11/2022**.
 
@@ -31,13 +31,13 @@ Respostas foram coletadas entre as datas **20/11/2022** e **24/11/2022**.
 
 ![Image do resultado da questão 1](./imgs/perguntas_questionario/pergunta-1.png)
 
-**Imagem Pergunta 1. Fonte: Mauricio Machado**
+**Figura 1: Pergunta 1. Fonte: Mauricio Machado**
 
 ### Questão 2
 
 ![Image do resultado da questão 2](./imgs/perguntas_questionario/pergunta-2.png)
 
-**Imagem Pergunta 2. Fonte: Mauricio Machado**
+**Figura 2: Pergunta 2. Fonte: Mauricio Machado**
 
 ### Questão 3
 
@@ -71,7 +71,7 @@ Na Tabela Respostas Pergunta 4, estão listadas as resposta diretas do nosso usu
 | :-----------------------------------------------------------------: |
 |                               Xadrez                                |
 |            Gosto de xadrez, war e interpol. Entre outros            |
-|                 Xadrez, Puerto rico, the resistence                 |
+|                 Xadrez, Puerto rico, the resistance                 |
 |                   Xadrez, perfil, war, monopoly,                    |
 | Dungeons&Dragons, Xadrez, Munchkin, Catan/War, e alguns de baralho. |
 |                           xadrez e damas                            |
@@ -89,13 +89,13 @@ Na Tabela Respostas Pergunta 4, estão listadas as resposta diretas do nosso usu
 
 ![Image do resultado da questão 5](./imgs/perguntas_questionario/pergunta-5.png)
 
-**Imagem Pergunta 5. Fonte: Mauricio Machado**
+**Figura 3: Pergunta 5. Fonte: Mauricio Machado**
 
 ### Questão 6
 
 ![Image do resultado da questão 6](./imgs/perguntas_questionario/pergunta-6.png)
 
-**Imagem Pergunta 6. Fonte: Mauricio Machado**
+**Figura 6: Pergunta 6. Fonte: Mauricio Machado**
 
 ### Questão 7
 
@@ -110,13 +110,13 @@ Na Tabela Respostas Pergunta 4, estão listadas as resposta diretas do nosso usu
 |           1 vez a cada 2 meses           |   2   |    7,1%     |
 |                  Outros                  |   4   |    14,3%    |
 
-**Tabela Respsotas Pergunta 7. Fonte: Mauricio Machado**
+**Tabela Respostas Pergunta 7. Fonte: Mauricio Machado**
 
 ### Questão 8
 
 ![Image do resultado da questão 8](./imgs/perguntas_questionario/pergunta-8.png)
 
-**Imagem Pergunta 8. Fonte: Mauricio Machado**
+**Figura 4: Pergunta 8. Fonte: Mauricio Machado**
 
 ### Questão 9
 
@@ -128,25 +128,25 @@ Na Tabela Respostas Pergunta 4, estão listadas as resposta diretas do nosso usu
 |                       Entre 2 e 3 horas                        |   2   |   10,55%    |
 |                        Mais de 3 horas                         |   4   |   21,05%    |
 
-**Tabela Respsotas Pergunta 9. Fonte: Mauricio Machado**
+**Tabela Respostas Pergunta 9. Fonte: Mauricio Machado**
 
 ### Questão 10
 
 ![Image do resultado da questão 10](./imgs/perguntas_questionario/pergunta-10.png)
 
-**Imagem Pergunta 10. Fonte: Mauricio Machado**
+**Figura 5: Pergunta 10. Fonte: Mauricio Machado**
 
 ### Questão 11
 
 ![Image do resultado da questão 11](./imgs/perguntas_questionario/pergunta-11.png)
 
-**Imagem Pergunta 11. Fonte: Mauricio Machado**
+**Figura 6: Pergunta 11. Fonte: Mauricio Machado**
 
 ### Questão 12
 
 ![Image do resultado da questão 12](./imgs/perguntas_questionario/pergunta-12.png)
 
-**Imagem Pergunta 12. Fonte: Mauricio Machado**
+**Figura 7: Pergunta 12. Fonte: Mauricio Machado**
 
 ### Questão 13
 
@@ -170,16 +170,16 @@ Na Tabela Respostas Pergunta 4, estão listadas as resposta diretas do nosso usu
 |                                                                           A única coisa que me frustra um pouco no Lichess é o matchmaking, que às vezes falha e coloca adversários muito fáceis ou muito difíceis.                                                                           |
 |                                                                                                                        Aperfeiçoamento de anticheats para a plataforma                                                                                                                        |
 
-**Tabela Respsotas Pergunta 13. Fonte: Mauricio Machado**
+**Tabela Respostas Pergunta 13. Fonte: Mauricio Machado**
 
 ## Análise dos resultados
 
 Através do questionário é possível identificar os perfis de usuário do LiChess.
-Na pesquisa executada mais da metade de usuários são jovens na faixa inicial dos vinte. Além disso, possuem um alto engajamento em dispositvos eletrônicos e tem um comportamento mais introspectivo.
+Na pesquisa executada mais da metade de usuários são jovens na faixa inicial dos vinte anos. Além disso, possuem um alto engajamento em dispositivos eletrônicos e tem um comportamento mais introspectivo.
 
-Foi possível perceber que os usuários em sua maioria jogam de forma online e tem pouco senso de comunidade, dessa forma elementos como Comunidade e possibilidade de assistir jogos é pouco utilizada.
+Foi possível perceber que os usuários em sua maioria jogam de forma online e tem pouco senso de comunidade, dessa forma elementos como comunidade e possibilidade de assistir jogos é pouco utilizada.
 
-A interface do LiChess possui alta densidade de itens sem reforço ou incetivo para sua utilização. Dessa forma, usuário sente muita informação por acesso o que pode influenciar em menores tempos de sessão.
+A interface do Lichess possui alta densidade de itens sem reforço ou incetivo para sua utilização. Dessa forma, o usuário visualiza muitas informações por acesso o que pode influenciar em menores tempos de sessão.
 
 ## Requisitos Elicitados
 
@@ -205,13 +205,13 @@ A interface do LiChess possui alta densidade de itens sem reforço ou incetivo p
 | Q12 |                                        O aplicativo deve funcionar 24/7                                        | RNF07 |
 | Q13 |                                   Aplicativo deve ensinar xadrez ao usuário                                    | RF08  |
 
-## Referências
+## Bibliografia
 
-> VASQUEZ, Carlos E; SIVOES, Guilherme S. Engenharia de Requisitos - Software orientado ao negócio.
+[1] VASQUEZ, Carlos E; SIVOES, Guilherme S. Engenharia de Requisitos - Software orientado ao negócio.
 
-## Histórico de versões
+## Histórico de Versão
 
-|    Data    | Versão |                  Descrição                  |  Autor   | Revisor |
-| :--------: | :----: | :-----------------------------------------: | :------: | :-----: |
-| 22/11/2022 | `1.0`  | Criação do documento e adição da introdução | Mauricio |   --    |
-| 24/11/2022 | `2.0`  |     Adição do resultado do questionário     | Mauricio |   --    |
+| Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
+| ------ | ------------- | ---------------------------------- | ------------- | ------------- |
+| `1.0`  | 22/11/2022 |  Criação do documento e adição da introdução | Mauricio |   Lucas Macedo    |
+| `1.1`  | 24/11/2022 |     Adição do resultado do questionário     | Mauricio |   Lucas Macedo    |

@@ -28,17 +28,16 @@ Depois da seleção individual, as propostas foram discutidas pela equipe basean
 
 ### Lichess
 
-Dentre os aplicativos analisados de forma individual, o aplicativo escolhido foi o "[__Lichess__](https://play.google.com/store/apps/details?id=org.lichess.mobileapp&hl=pt_BR&gl=US)". Pois, esse foi o que melhor se adequou aos critérios apresentados anteriormente, principalmente com relação à facilidade de contato com os usuários devido aos grupos de xadrez existentes na Universidade de Brasília. Esse é um aplicativo gratuito, disponível para Android, na plataforma da Play Store, o qual teve seu projeto inicial realizado como um hobby que com a ajuda da iniciativa de software livre se tornou uma das maiores referências em xadrez online no mundo, mesmo sem fins lucrativos. Segue, na imagem 1, a página do aplicativo na Play Store.
+Dentre os aplicativos analisados de forma individual, o aplicativo escolhido foi o "[__Lichess__](https://play.google.com/store/apps/details?id=org.lichess.mobileapp&hl=pt_BR&gl=US)". Pois, esse foi o que melhor se adequou aos critérios apresentados anteriormente, principalmente com relação à facilidade de contato com os usuários devido aos grupos de xadrez existentes na Universidade de Brasília. Esse é um aplicativo gratuito, disponível para Android, na plataforma da Play Store, o qual teve seu projeto inicial realizado como um hobby que com a ajuda da iniciativa de software livre se tornou uma das maiores referências em xadrez online no mundo, mesmo sem fins lucrativos. Segue, na Figura 1, a página do aplicativo na Play Store.
 
-![image](images/img-lichess.jpg)
-
+![image](images/lichess-playstore.png)
 <div style="text-align: center">
-<p>Imagem 1 - Imagem do aplicativo na Play Store</p>
+<p>Figura 1 - Imagem do aplicativo na Play Store</p>
 </div>
 
 ## Histórico de Versão
 
 | Versão | Data       | Descrição            | Autor         | Revisor  |
 | ------ | ---------- | -------------------- | ------------- | :--------: |
-| 0.1    | 17/11/2022 | Criação do documento | Lucas Gabriel | Maurício |
-| 0.2    | 18/11/2022 | Ajustes na tabela e nas legendas | Nicolas Souza | - |
+| `1.0`  | 17/11/2022 | Criação do documento | Lucas Gabriel | Maurício |
+| `1.1`  | 18/11/2022 | Ajustes na tabela e nas legendas | Nicolas Souza | - |
