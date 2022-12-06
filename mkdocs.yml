@@ -35,6 +35,8 @@ nav:
       - Storytelling: "elicitacao/storytelling.md"
       - Entrevista: "elicitacao/entrevista.md"
       - Priorização: "elicitacao/priorizacao.md"
+  - Modelagem:
+    - Léxico: "modelagem/lexico.md"
   - Apresentações: apresentacoes.md
 
   # - Nova navegação: "nome do arquivo relativo a docs"
