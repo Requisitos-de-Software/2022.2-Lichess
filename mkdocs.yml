@@ -1,15 +1,5 @@
 site_name: Lichess
 
-theme:
-  name: material
-  logo: img/logo.png
-  favicon: img/logo.png
-  palette:
-    primary: grey
-  features:
-    - tabs
-    - navigation.section
-
 nav:
   - Sobre o Projeto: index.md
   - Atas:
@@ -37,6 +27,7 @@ nav:
       - Priorização: "elicitacao/priorizacao.md"
   - Modelagem:
     - Léxico: "modelagem/lexico.md"
+    - Casos de uso: "modelagem/casos_de_uso.md"
   - Apresentações: apresentacoes.md
 
   # - Nova navegação: "nome do arquivo relativo a docs"
