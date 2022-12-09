@@ -1,6 +1,13 @@
 site_name: Lichess
+
+repo_name: "2022.2-Lichess"
+repo_url: "https://github.com/Requisitos-de-Software/2022.2-Lichess"
+
+copyright: "Copyright &copy; 2022 Lichess"
+
 theme:
   name: material
+  language: "pt"
   logo: img/logo.png
   favicon: img/logo.png
   palette:
@@ -17,9 +24,14 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Tema claro
+  font:
+    text: "Inter"
+    code: "sans-serif"
+
   features:
     - tabs
     - navigation.section
+
 nav:
   - Sobre o Projeto: index.md
   - Atas:
