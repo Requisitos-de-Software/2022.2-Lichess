@@ -58,7 +58,7 @@ Como o verbo já diz, é a ação que comunica o usuário ao caso de uso, e pode
 
 ## Diagrama de Casos de Uso
 
-![Figura 5: Diagrama de casos de uso (Fonte: autores, 2022).](images/usecase-diagram-v1.png)
+![Figura 5: Diagrama de casos de uso (Fonte: autores, 2022).](images/usecase-diagram-v2s.png)
 <div style="text-align: center">
 <p> Figura 5: Diagrama de casos de uso (Fonte: autores, 2022).</p>
 </div>
