@@ -38,6 +38,7 @@ nav:
       - Priorização: "elicitacao/priorizacao.md"
   - Modelagem:
     - Léxico: "modelagem/lexico.md"
+    - NFR: "modelagem/nfr_framework.md"
   - Apresentações: apresentacoes.md
 
   # - Nova navegação: "nome do arquivo relativo a docs"

@@ -149,3 +149,7 @@ Portanto, os léxicos encontrados foram buscados e reconhecidos através do uso 
 > SERRANO, Milene. Requisitos - Aula 10. Local: UnB-FGA, Gama, DF. Apresentação de Power Point. 35, color. Disponível em: [Requisitos - Aula 10](https://aprender3.unb.br/pluginfile.php/2307501/mod_resource/content/1/Aula%2010.pdf). Acesso em: 04 de março de 2022.
 
 ## Histórico de Versão
+
+| Autor            | Versão | Data(dd/mm/aaa) | Descrição                              |
+| ---------------- | ------ | --------------- | -------------------------------------- |
+| Mauricio Machado | 1.0    | 27/11/2022      | Criação da versão inicial do documento |
