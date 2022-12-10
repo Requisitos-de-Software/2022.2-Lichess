@@ -140,4 +140,4 @@ A seguir, a especificação dos casos de uso identificados.
 | Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
 | `1.0`  |        07/12/2022       |        Criação inicial do documento                            |     Lucas Macedo          |  Nicolas Souza       |
-| `1.1` | 09/12/2022 | Inclusão da especificação dos casos de uso. | Nicolas Souza |
+| `1.1` | 09/12/2022 | Inclusão da especificação dos casos de uso. | Nicolas Souza | Lucas Macedo s|
