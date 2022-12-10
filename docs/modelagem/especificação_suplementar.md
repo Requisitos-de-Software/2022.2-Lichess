@@ -10,24 +10,69 @@ Para a definição de requisitos do aplicativo Lichess foi utilizado o modelo FU
 
 ## Especificação Suplementar
 
-### Funcionalidade
+## Funcionalidades 
 
-### Usabilidade
+As funcionalidades foram elicitadas e podem ser encontradas em Elicitação de requisitos e nos Casos de usos levantados.
 
-### Confiabilidade
+## Usabilidade
 
-### Performance
+Esse tópico diz respeito aos requisitos  relacionados a facilidade do usuário de utilizar a aplicação.
 
-### Suportabilidade
+### Capacidade de customização
 
-O usuário será capaz de utilizar o aplicativo através do uso de celulares com suporte a Android ou IOs.
+O sistema apresenta uma boa capacidade de customização com variados temas e modos de jogo.
 
-#### Compatibilidade
+### Visibilidade do sistema
 
-O Lichess suporta recursos Web, como tambem sistemas Android e IOs
-#### Internet
+O sistema apresenta animações simples e com informações limpas para visualização do usuário.
 
-O aplicativo Lichess deve ser capaz de funcionar mesmo que sem a internet, porém com algumas limitações de uso.
+### Fácil aprendizagem
+
+A interface do sistema é padronizada, dessa forma gerando um conforto para o usuário e a apresentação de informações do sistema é nítido e de fácil acesso.
+
+## Confiabilidade
+Esse tópico diz respeito a quanto o aplicativo é confiável
+
+## Disponibilidade
+Os servidores devem estar disponíveis para o usuário em tempo integral.
+
+### Servidores distribuídos
+
+Dentro do sistema os servidores são distribuídos, é possível a criação de partidas online.
+
+### Backup dos usuários e suas conquistas
+
+No sistema é possível realizar o backup das contas e dados dos usuários, bem como também de suas conquistas.
+
+## Suportabilidade
+Multiplataforma(Versão mobile, versão web, versão desktop) e responsividade.
+
+### Web
+
+A aplicação do Lichess pode ser acessada e utilizada via navegador em Desktop, tablets ou smartphone apenas necessitando de conexão a internet.
+
+### Android
+A aplicação mobile destinada a dispositivos Android deve ser utilizada no sistemas Android 5.0 ou versões superiores.
+
+### IOS
+A aplicação mobile destinada a dispositivos Apple deve ser utilizada no sistemas iOS 13.0 ou posterior.
+
+## Performance
+Esse tópico diz respeito a questões relacionadas ao desempenho do software
+
+### Economia de dados
+Economia de dados(modo hibernar, boa experiência offline), tempo de resposta(otimização de requisições), economia de bateria(Escurecer a tela, modo hibernar).
+
+### Tempo de resposta
 
 
+### Economia de bateria
 
+
+## Referências
+
+# Histórico de Versão
+
+| Versão | Data  | Descrição                     | Autor(es)     | Revisor(es) |
+| ------ | ----- | ----------------------------- |-------------- | ------- |
+| `1.0`  | 22/11 |  Criação do documento          | Davi Silva  | Lucas Gabriel |
