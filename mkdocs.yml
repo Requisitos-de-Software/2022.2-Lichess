@@ -61,6 +61,7 @@ nav:
   - Modelagem:
       - Léxico: "modelagem/lexico.md"
       - Casos de uso: "modelagem/casos_de_uso.md"
+      - Cenários: "modelagem/cenarios.md"
   - Apresentações: apresentacoes.md
 
   # - Nova navegação: "nome do arquivo relativo a docs"
