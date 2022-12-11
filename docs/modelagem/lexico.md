@@ -14,9 +14,11 @@ Os léxicos do Lichess foram identificados a partir do uso do aplicativo e dos r
 | :------------: | :------: | :-----: | :-----------------: | :-----------------: |
 | Nome do Léxico | Sinônimo | Símbolo | Descrição do efeito | Verbo/Objeto/Estado |
 
-**Tabela 1: Modelo dos Léxicos**
+<div style="text-align: center">
+<p> Tabela 1: Modelo dos léxicos (Fonte: autor, 2022).</p>
+</div>
 
-## Léxicos
+## Descrição dos Léxicos
 
 ### L01 - Inteligência artificial
 
@@ -114,11 +116,11 @@ Os léxicos do Lichess foram identificados a partir do uso do aplicativo e dos r
 | :-----------: | :---------: | :----------------------------------: | :----------------------------------------------------------: | :-----------: |
 | Aulas em alta | Hot classes | Aulas de xadrez com maior relevância | Facilita o usuário na escolha de aulas de xadrez para estudo |    Estado     |
 
-### L17 - Assitir partidas
+### L17 - Assistir partidas
 
 |      Léxico      |            Sinônimo             |                                                        Noção                                                         |                                                                Impacto                                                                | Classificação |
 | :--------------: | :-----------------------------: | :------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: | :-----------: |
-| Assitir partidas | Visualizar jogos, Assitir jogos | Usuário descobre formas diferentes de jogar e pode acabar querendo seguir os padrões de jogo dos usuários da partida | Usuário descobre novas jogadas de forma inconsciente e pode acabar querendo seguir os padrões de movimento de dos usuários da partida |     Verbo     |
+| Assistir partidas | Visualizar jogos, Assistir jogos | Usuário descobre formas diferentes de jogar e pode acabar querendo seguir os padrões de jogo dos usuários da partida | Usuário descobre novas jogadas de forma inconsciente e pode acabar querendo seguir os padrões de movimento de dos usuários da partida |     Verbo     |
 
 ### L18 - Treinamento
 
@@ -140,16 +142,16 @@ Os léxicos do Lichess foram identificados a partir do uso do aplicativo e dos r
 
 ## Conclusão
 
-Portanto, os léxicos encontrados foram buscados e reconhecidos através do uso do aplicativo, identificando o que poderia ser visto como uma figura de linguagem que passa a descrição de algo ou como um simples ícone. Com isso concluímos que alguns deles tem rastreablidade conexa com a atividade de cenários estipulando uma conexão entre os artefatos e permitindo ainda mais a rastreabilidade entre eles.
+Portanto, os léxicos encontrados foram buscados e reconhecidos através do uso do aplicativo, identificando o que poderia ser visto como uma figura de linguagem que passa a descrição de algo ou como um simples ícone. Com isso concluímos que alguns deles tem rastreabilidade conexa com a atividade de cenários estipulando uma conexão entre os artefatos e permitindo ainda mais a rastreabilidade entre eles.
 
-## Referências
+## Bibliografia
 
-> CONSTRUÇÃO do léxico de aplicações. Proceedings of the International Joint Conference IBERAMIA/SBIA/SBRN 2006 : 4th Workshop in Information and Human Language Technology, Ribeirão Preto, Brazil, 23 out. 2006. CD-ROM.
+[1] CONSTRUÇÃO do léxico de aplicações. Proceedings of the International Joint Conference IBERAMIA/SBIA/SBRN 2006 : 4th Workshop in Information and Human Language Technology, Ribeirão Preto, Brazil, 23 out. 2006. CD-ROM.
 
-> SERRANO, Milene. Requisitos - Aula 10. Local: UnB-FGA, Gama, DF. Apresentação de Power Point. 35, color. Disponível em: [Requisitos - Aula 10](https://aprender3.unb.br/pluginfile.php/2307501/mod_resource/content/1/Aula%2010.pdf). Acesso em: 04 de março de 2022.
+[2] SERRANO, Milene. Requisitos - Aula 10. Local: UnB-FGA, Gama, DF. Apresentação de Power Point. 35, color. Disponível em: [Requisitos - Aula 10](https://aprender3.unb.br/pluginfile.php/2307501/mod_resource/content/1/Aula%2010.pdf). Acesso em: 04 de março de 2022.
 
 ## Histórico de Versão
 
-| Autor            | Versão | Data(dd/mm/aaa) | Descrição                              |
-| ---------------- | ------ | --------------- | -------------------------------------- |
-| Mauricio Machado | 1.0    | 27/11/2022      | Criação da versão inicial do documento |
+| Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
+| ------ | ------------- | ---------------------------------- | ------------- | ------------- |
+| `1.0`  | 27/11/2022    | Criação da versão inicial do documento   | Maurício Machado    | Nicolas Souza  |
