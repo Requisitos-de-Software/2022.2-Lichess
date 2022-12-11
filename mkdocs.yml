@@ -60,6 +60,7 @@ nav:
       - Priorização: "elicitacao/priorizacao.md"
   - Modelagem:
       - Léxico: "modelagem/lexico.md"
+      - NFR: "modelagem/nfr_framework.md"
       - Casos de uso: "modelagem/casos_de_uso.md"
       - Cenários: "modelagem/cenarios.md"
   - Apresentações: apresentacoes.md
