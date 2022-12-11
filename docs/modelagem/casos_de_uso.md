@@ -119,9 +119,41 @@ A seguir, a especificação dos casos de uso identificados.
 <p> Tabela 3: Especificação do caso de uso: Observar partidas. (Fonte: autores, 2022).</p>
 </div>
 
-<!-- ### UC04. Aprender
+ ### UC04. Aprender
 
-### UC05. Ver classificação -->
+ | UC04 | Aprender jogadas |
+| -: | :- |
+| **Atores** | <li> Usuário  |
+| **Frequência de uso** | Baixa |
+| **Requisitos** | Conexão com a internet |
+| **Condição de entrada** | O usuário seleciona a opção "Aprender" no menu principal |
+| **Fluxo principal** | <ol> <li> O sistema seleciona um tópico para aprender <li> O sistema apresenta uma lista de tutoriais, de acordo com o nível de experiência dos jogadores <li> O usuário seleciona um tutorial desejado <li> O sistema abre uma partida para treinar o modo selecionado </ol> |
+| **Fluxos alternativos** | Não há |
+| **Fluxos de exceção** | Não há |
+| **Pós condições** | O usuário estuda sobre novas jogadas  |
+| **Rastreabilidade** | [ST11](../elicitacao/storytelling.md#requisitos-elicitados) |
+
+<div style="text-align: center">
+<p> Tabela 4: Especificação do caso de uso: Aprender jogadas. (Fonte: autores, 2022).</p>
+</div>
+
+### UC05. Ver classificação
+
+ | UC05 | Ver classificação |
+| -: | :- |
+| **Atores** | <li> Usuário  |
+| **Frequência de uso** | Baixa |
+| **Requisitos** | Conexão com a internet |
+| **Condição de entrada** | O usuário seleciona a opção "Tabela de lidenrança" no menu principal |
+| **Fluxo principal** | <ol> <li> O sistema apresenta os jogadores melhores classificados em cada modo de jogo <li> O usuário consegue visualizar outros jogadores em suas classificações de forma ampla <li> O usuário consegue visualizar um gráfico de estatística da classificação semana em cada modo </ol> |
+| **Fluxos alternativos** | Não há |
+| **Fluxos de exceção** | Não há |
+| **Pós condições** | O usuário consegue visualizar sua classificação semanal   |
+| **Rastreabilidade** | [ST10](../elicitacao/storytelling.md#requisitos-elicitados) |
+
+<div style="text-align: center">
+<p> Tabela 5: Especificação do caso de uso: Ver a classificação semanal. (Fonte: autores, 2022).</p>
+</div>
 
 ## Bibliografia
 
