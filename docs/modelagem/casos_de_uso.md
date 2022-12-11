@@ -89,7 +89,7 @@ A seguir, a especificação dos casos de uso identificados.
 | -: | :- |
 | **Atores** | <li> Usuário <li> Inteligência Artificial |
 | **Frequência de uso** | Alta |
-| **Requisitos** | - |
+| **Requisitos** | Não há |
 | **Condição de entrada** | O usuário seleciona a opção "jogar contra o computador" na tela inicial |
 | **Fluxo principal** | <ol> <li> O sistema apresenta a tela de configuração da partida, com as seguintes configurações, em campos de seleção:<ul> <li> Cor <li> Variante <li> Nível <li> Relógio <li> Tempo <li> Incremento </ul> <li> O sistema inicia a partida contra o computador (Inteligência Artificial) </ol>|
 | **Fluxos alternativos** | Não há |
@@ -119,9 +119,25 @@ A seguir, a especificação dos casos de uso identificados.
 <p> Tabela 3: Especificação do caso de uso: Observar partidas. (Fonte: autores, 2022).</p>
 </div>
 
-<!-- ### UC04. Aprender
+### UC04. Aprender
 
-### UC05. Ver classificação -->
+| UC04 | Aprender |
+| -: | :- |
+| **Atores** | <li> Usuário  |
+| **Frequência de uso** | Média |
+| **Requisitos** | Não há |
+| **Condição de entrada** | O usuário seleciona a opção "Aprender" no menu principal |
+| **Fluxo principal** | <ol> <li> O sistema apresenta as opções de aprendizado disponíveis para seleção do usuário: tutoriais e quebra-cabeças. <li> O usuário seleciona o </ol> |
+| **Fluxos alternativos** | Não há |
+| **Fluxos de exceção** | **Fluxo 2. Falha na conexão com a internet** <ul> <li> O sistema busca as partidas disponíveis <li> O sistema apresenta uma tela com a mensagem "Falha na conexão. Tentar novamente?" e botões com as opções "Sim" e "Retornar à tela inicial"  <ul> <li> O usuário seleciona a opção "Sim" e o processo reinicia ou <li> O usuário seleciona a opção "Retornar à tela inicial" e a operação é cancelada</ul> </ul> |
+| **Pós condições** | O usuário assiste a partida entre dois jogadores |
+| **Rastreabilidade** | [INT07, INT12, INT13, INT14](../elicitacao/introspeccao.md#elicitação-de-requisitos) |
+
+<div style="text-align: center">
+<p> Tabela 4: Especificação do caso de uso: Aprender. (Fonte: autores, 2022).</p>
+</div>
+
+### UC05. Ver classificação
 
 ## Bibliografia
 
