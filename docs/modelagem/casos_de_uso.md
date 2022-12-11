@@ -58,9 +58,9 @@ Como o verbo já diz, é a ação que comunica o usuário ao caso de uso, e pode
 
 ## Diagrama de Casos de Uso
 
-![Figura 5: Diagrama de casos de uso (Fonte: autores, 2022).](images/usecase-diagram-v1.png)
+![Figura 5: Diagrama de casos de uso (Fonte: autores, 2022).](images/usecase-diagram-v2.png)
 <div style="text-align: center">
-<p> Figura 5: Diagrama de casos de uso (Fonte: autores, 2022).</p>
+<p> Figura 5: Diagrama de casos de uso 2ª versão. <a href="../images/usecase-diagram-v1.png"> 1ª versão</a>. (Fonte: autores, 2022).</p>
 </div>
 
 A seguir, a especificação dos casos de uso identificados.
@@ -121,23 +121,39 @@ A seguir, a especificação dos casos de uso identificados.
 
 ### UC04. Aprender
 
-| UC04 | Aprender |
+| UC04 | Aprender  |
 | -: | :- |
 | **Atores** | <li> Usuário  |
-| **Frequência de uso** | Média |
-| **Requisitos** | Não há |
+| **Frequência de uso** | Baixa |
+| **Requisitos** | Conexão com a internet |
 | **Condição de entrada** | O usuário seleciona a opção "Aprender" no menu principal |
-| **Fluxo principal** | <ol> <li> O sistema apresenta as opções de aprendizado disponíveis para seleção do usuário: tutoriais e quebra-cabeças. <li> O usuário seleciona o </ol> |
+| **Fluxo principal** | <ol> <li> O sistema seleciona um tópico para aprender <li> O sistema apresenta uma lista de tutoriais, de acordo com o nível de experiência dos jogadores <li> O usuário seleciona um tutorial desejado <li> O sistema abre uma partida para treinar o modo selecionado </ol> |
 | **Fluxos alternativos** | Não há |
-| **Fluxos de exceção** | **Fluxo 2. Falha na conexão com a internet** <ul> <li> O sistema busca as partidas disponíveis <li> O sistema apresenta uma tela com a mensagem "Falha na conexão. Tentar novamente?" e botões com as opções "Sim" e "Retornar à tela inicial"  <ul> <li> O usuário seleciona a opção "Sim" e o processo reinicia ou <li> O usuário seleciona a opção "Retornar à tela inicial" e a operação é cancelada</ul> </ul> |
-| **Pós condições** | O usuário assiste a partida entre dois jogadores |
-| **Rastreabilidade** | [INT07, INT12, INT13, INT14](../elicitacao/introspeccao.md#elicitação-de-requisitos) |
+| **Fluxos de exceção** | **Fluxo 1. Falha na conexão com a internet** <ul> <li> O sistema busca as partidas disponíveis <li> O sistema apresenta uma tela com a mensagem "Falha na conexão. Tentar novamente?" e botões com as opções "Sim" e "Retornar à tela inicial"  <ul> <li> O usuário seleciona a opção "Sim" e o processo reinicia ou <li> O usuário seleciona a opção "Retornar à tela inicial" e a operação é cancelada</ul> </ul> |
+| **Pós condições** | O usuário estuda sobre novas jogadas  |
+| **Rastreabilidade** | [INT07, INT12, INT13, INT14](../elicitacao/introspeccao.md#elicitação-de-requisitos), [ST11](../elicitacao/storytelling.md#requisitos-elicitados) |
 
 <div style="text-align: center">
 <p> Tabela 4: Especificação do caso de uso: Aprender. (Fonte: autores, 2022).</p>
 </div>
 
 ### UC05. Ver classificação
+
+| UC05 | Ver classificação |
+| -: | :- |
+| **Atores** | <li> Usuário  |
+| **Frequência de uso** | Baixa |
+| **Requisitos** | Conexão com a internet |
+| **Condição de entrada** | O usuário seleciona a opção "Tabela de lidenrança" no menu principal |
+| **Fluxo principal** | <ol> <li> O sistema apresenta os jogadores melhores classificados em cada modo de jogo <li> O usuário consegue visualizar outros jogadores em suas classificações de forma ampla <li> O usuário consegue visualizar um gráfico de estatística da classificação semana em cada modo </ol> |
+| **Fluxos de exceção** | **Fluxo 1. Falha na conexão com a internet** <ul> <li> O sistema busca as partidas disponíveis <li> O sistema apresenta uma tela com a mensagem "Falha na conexão. Tentar novamente?" e botões com as opções "Sim" e "Retornar à tela inicial"  <ul> <li> O usuário seleciona a opção "Sim" e o processo reinicia ou <li> O usuário seleciona a opção "Retornar à tela inicial" e a operação é cancelada</ul> </ul> |
+| **Fluxos de exceção** | Não há |
+| **Pós condições** | O usuário consegue visualizar sua classificação semanal   |
+| **Rastreabilidade** | [ST10](../elicitacao/storytelling.md#requisitos-elicitados) |
+
+<div style="text-align: center">
+<p> Tabela 5: Especificação do caso de uso: Ver a classificação semanal. (Fonte: autores, 2022).</p>
+</div>
 
 ## Bibliografia
 
@@ -156,4 +172,5 @@ A seguir, a especificação dos casos de uso identificados.
 | Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
 | `1.0`  |        07/12/2022       |        Criação inicial do documento                            |     Lucas Macedo          |  Nicolas Souza       |
-| `1.1` | 09/12/2022 | Inclusão da especificação dos casos de uso. | Nicolas Souza |
+| `1.1` | 09/12/2022 | Inclusão da especificação dos casos de uso 1, 2 e 3. | Nicolas Souza | Lucas Macedo |
+| `1.2` | 10/12/2022 | Inclusão da especificação dos casos de uso 4 e 5 e alteração do diagrama (2ª versão). | Lucas Macedo | Nicolas Souza |
