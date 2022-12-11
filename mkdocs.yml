@@ -1,11 +1,33 @@
 site_name: Lichess
 
+repo_name: "2022.2-Lichess"
+repo_url: "https://github.com/Requisitos-de-Software/2022.2-Lichess"
+
+copyright: "Copyright &copy; 2022 Lichess"
+
 theme:
   name: material
+  language: "pt"
   logo: img/logo.png
   favicon: img/logo.png
   palette:
-    primary: grey
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: grey
+      toggle:
+        icon: material/brightness-7
+        name: Tema escuro
+
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: grey
+      toggle:
+        icon: material/brightness-4
+        name: Tema claro
+  font:
+    text: "Inter"
+    code: "sans-serif"
+
   features:
     - tabs
     - navigation.section
@@ -37,7 +59,8 @@ nav:
       - Entrevista: "elicitacao/entrevista.md"
       - Priorização: "elicitacao/priorizacao.md"
   - Modelagem:
-    - Léxico: "modelagem/lexico.md"
+      - Léxico: "modelagem/lexico.md"
+      - Casos de uso: "modelagem/casos_de_uso.md"
   - Apresentações: apresentacoes.md
 
   # - Nova navegação: "nome do arquivo relativo a docs"
