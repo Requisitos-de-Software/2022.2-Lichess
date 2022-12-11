@@ -1,16 +1,17 @@
 # Cenários
 
 ## Introdução
+
 Cenários são descrições evolutivas de situações em um ambiente composto por um conjunto ordenado de interações entre seus participantes, realizadas por usuários ou sistemas externos [2]. Diante disso, os cenários são utilizados para descrever as situações de uso do sistema pelos seus usuários e os relacionamentos entre o sistema em desenvolvimento e outros sistemas externos, auxiliando no entendimento e na descoberta de novos requisitos [2]. Portanto, é uma estratégia para elicitar a parte comportamental do software[1].
 
 ## Modelo de Cenário
-Existem cinco formas para se descrever cenários, são elas texto narrativo, texto estruturado, diagramas, imagens e animações ou simulações. A forma selecionada para apresentação dos cenários presentes neste documento será a de texto estruturado, a qual valida-se da utilização de linguagem natural semi-estruturada para melhor entendimento de cada cenário e validação dos requisitos por parte do cliente [2], tal modelo pode ser observado a seguir na Tabela 1:
 
-**Titulo: cenário**
+Existem cinco formas para se descrever cenários, são elas texto narrativo, texto estruturado, diagramas, imagens e animações ou simulações. A forma selecionada para apresentação dos cenários presentes neste documento será a de texto estruturado, a qual valida-se da utilização de linguagem natural semi-estruturada para melhor entendimento de cada cenário e validação dos requisitos por parte do cliente [2], tal modelo pode ser observado a seguir na Tabela 1.
+
 | Elemento   | Descrição                                                                                    |
 | ---------- | -------------------------------------------------------------------------------------------- |
 | Objetivo   | Finalidade do cenário                                                                        |
-| Contexto   | Descrição de précondições, local (físico) e tempo                                            |
+| Contexto   | Descrição de pré-condições, local (físico) e tempo                                            |
 | Recursos   | Objetos passivos com os quais os atores interagem                                            |
 | Ator       | Pessoa ou estrutura organizacional                                                           |
 | Episódios  | Ação realizada por um ou vários atores com participação de outros atores utilizando recursos |
@@ -22,9 +23,11 @@ Existem cinco formas para se descrever cenários, são elas texto narrativo, tex
 </div>
 
 ## Cenários identificados
-Os cenários identificados foram determinados a partir dos requisitos elicitados pelo método MoSCoW documentado na [Priorização](). A seguir, esses podem ser observados nas tabelas abaixo:
+
+Os cenários identificados foram determinados a partir dos requisitos elicitados pelo método MoSCoW documentado na [Priorização](../elicitacao/priorizacao.md). A seguir, esses podem ser observados nas tabelas abaixo:
 
 ### C01: Jogar uma partida de xadrez contra o computador
+
 | Elemento   | Descrição                                                                                                              |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------- |
 | Objetivo   | jogar uma partida de xadrez contra o computador usando o aplicativo Lichess                                            |
@@ -36,6 +39,7 @@ Os cenários identificados foram determinados a partir dos requisitos elicitados
 | Exceção    | - Falta de energia no dispositivo  -Dispositivo  danificado                                                                |
 
 ### C02: Jogar uma partida de xadrez contra outro jogador
+
 | Elemento   | Descrição                                                                                                                                                                    |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Objetivo   | jogar uma partida de xadrez contra outro jogador usando o aplicativo Lichess                                                                                                 |
@@ -47,6 +51,7 @@ Os cenários identificados foram determinados a partir dos requisitos elicitados
 | Exceção    | - Falta de energia no dispositivo  - Dispositivo  danificado - Falta de acesso à internet                                                                                                                                                                                    |
 
 ### C03: Aprender xadrez com o aplicativo
+
 | Elemento   | Descrição                                                                                                                                                                   |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Objetivo   | Aprender mais sobre o jogo xadrez                                                                                                                                           |
@@ -58,6 +63,7 @@ Os cenários identificados foram determinados a partir dos requisitos elicitados
 | Exceção    | - Falta de energia no dispositivo  - Dispositivo  danificado - Falta de acesso a internet                                                                                       |
 
 ### C04: Jogar uma partida de xadrez de forma offline
+
 | Elemento   | Descrição                                                                                                                                                      |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Objetivo   | Jogar com alguém de forma offline                                                                                                                              |
@@ -69,6 +75,7 @@ Os cenários identificados foram determinados a partir dos requisitos elicitados
 | Exceção    | - Falta de energia no dispositivo  - Dispositivo  danificado                                                                                                       |
 
 ### C05: O usuário deve poder recuperar a senha
+
 | Elemento   | Descrição                                                                                                                                                                                 |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Objetivo   | Recuperar a senha esquecida                                                                                                                                                               |
@@ -79,15 +86,14 @@ Os cenários identificados foram determinados a partir dos requisitos elicitados
 | Restrições | - Fluxo de navegação intuitivo                                                                                                                                                            |
 | Exceção    | - Falta de energia no dispositivo  - Dispositivo  danificado - Falta de acesso a internet                                                                                                                                       |
 
-
 ## Bibliografia
 
 [1] Slides Requisitos - aula 10. Milene Serrano e Maurício Serrano. Elicitação, modelagem e análise.
 
-[2] CENÁRIOS: Rastreamento de Cenários. [S. l.]. Disponível em: http://www-di.inf.puc-rio.br/~julio/bnncap3.pdf. Acesso em: 11 dez. 2022.
+[2] CENÁRIOS: Rastreamento de Cenários. [S. l.]. Disponível em: <http://www-di.inf.puc-rio.br/~julio/bnncap3.pdf>. Acesso em: 11 dez. 2022.
 
 ## Histórico de Versão
 
-| Versão | Data  | Descrição            | Autor(es)     | Revisor(es) |
-| ------ | ----- | -------------------- | ------------- | ----------- |
-| `1.0`  | 11/12 | Criação do documento | Lucas Gabriel |      -      |
+| Versão | Data  | Descrição            | Autor(es)     | Revisor(es)   |
+| ------ | ----- | -------------------- | ------------- | ------------- |
+| `1.0`  | 11/12 | Criação do documento | Lucas Gabriel | Nicolas Souza |
