@@ -84,6 +84,9 @@ Otimização das requisições do aplicativo
 
 ## Referências
 
+[1] SERRANO M., SERRANO M. Requisitos - Aula 13. Disponível na plataforma Aprender3. Acessado em 11 de dez. de 2022.
+[2] Rocha Samily, Especificação Suplementar - Aula 13. Material de apoio, disponível na plataforma Aprender 3. Acessado em 11 de dez. de 2022.
+
 ## Histórico de Versão
 
 | Versão | Data  | Descrição                     | Autor(es)     | Revisor(es)   |
