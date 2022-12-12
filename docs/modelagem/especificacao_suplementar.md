@@ -48,6 +48,7 @@ Dentro do sistema os servidores são distribuídos, é possível a criação de 
 No sistema é possível realizar o backup das contas e dados dos usuários, bem como também de suas conquistas.
 
 ## Suportabilidade
+Multiplataforma(Versão mobile, versão web, versão desktop) e responsividade.
 
 ### Web
 
@@ -93,3 +94,4 @@ Otimização das requisições do aplicativo
 | ------ | ----- | ----------------------------- |-------------- | -------       |
 | `1.0`  | 11/12 |  Criação do documento         | Davi Silva    | Nicolas Souza |
 | `1.1`  | 12/12 |  Atualização de dados         | Davi Silva    | - |
+
