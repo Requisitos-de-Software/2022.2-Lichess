@@ -14,8 +14,10 @@ Para a definição de requisitos do aplicativo Lichess foi utilizado o modelo FU
 
 As funcionalidades foram elicitadas e podem ser encontradas em Elicitação de requisitos e nos Casos de usos levantados.
 
-## Usabilidade
+- [Elicitação de Requisitos(priorização)](/elicitacao/priorizacao.md)
+- [Casos de Uso](/modelagem/casos_de_uso.md)
 
+## Usabilidade
 Esse tópico diz respeito aos requisitos  relacionados a facilidade do usuário de utilizar a aplicação.
 
 ### Capacidade de customização
@@ -31,12 +33,11 @@ O sistema apresenta animações simples e com informações limpas para visualiz
 A interface do sistema é padronizada, dessa forma gerando um conforto para o usuário e a apresentação de informações do sistema é nítido e de fácil acesso.
 
 ## Confiabilidade
-
 Esse tópico diz respeito a quanto o aplicativo é confiável
 
-## Disponibilidade
+### Disponibilidade
 
-Os servidores devem estar disponíveis para o usuário em tempo integral.
+Os servidores devem estar disponíveis para o usuário em tempo integral. E caso ocorra algum tipo de manutenção ou problema do sistema, o usuário deverá ser avisado de maneira prévia.
 
 ### Servidores distribuídos
 
@@ -48,22 +49,25 @@ No sistema é possível realizar o backup das contas e dados dos usuários, bem 
 
 ## Suportabilidade
 
-Multiplataforma(Versão mobile, versão web, versão desktop) e responsividade.
-
 ### Web
 
 A aplicação do Lichess pode ser acessada e utilizada via navegador em Desktop, tablets ou smartphone apenas necessitando de conexão a internet.
+
+Caminho: [Lichess Web](https://lichess.org/)
+
+### IOs
+
+A aplicação mobile destinada a dispositivos Apple deve ser utilizada no sistemas iOS 13.0 ou posterior.
+
+Caminho: [Lichess Apple Store](https://apps.apple.com/us/app/lichess-online-chess/id968371784)
 
 ### Android
 
 A aplicação mobile destinada a dispositivos Android deve ser utilizada no sistemas Android 5.0 ou versões superiores.
 
-### IOS
-
-A aplicação mobile destinada a dispositivos Apple deve ser utilizada no sistemas iOS 13.0 ou posterior.
+Caminho: [Lichess Google Play](https://play.google.com/store/apps/details?id=org.lichess.mobileapp&gl=US)
 
 ## Performance
-
 Esse tópico diz respeito a questões relacionadas ao desempenho do software
 
 ### Economia de dados
@@ -72,7 +76,11 @@ Economia de dados(modo hibernar, boa experiência offline), tempo de resposta(ot
 
 ### Tempo de resposta
 
+Otimização das requisições do aplicativo
+
 ### Economia de bateria
+
+É possível escurecer a tela, ativar o modo ibernar.
 
 ## Referências
 
@@ -81,3 +89,4 @@ Economia de dados(modo hibernar, boa experiência offline), tempo de resposta(ot
 | Versão | Data  | Descrição                     | Autor(es)     | Revisor(es)   |
 | ------ | ----- | ----------------------------- |-------------- | -------       |
 | `1.0`  | 11/12 |  Criação do documento         | Davi Silva    | Nicolas Souza |
+| `1.1`  | 12/12 |  Atualização de dados         | Davi Silva    | - |
