@@ -18,6 +18,7 @@ As funcionalidades foram elicitadas e podem ser encontradas em Elicitação de r
 - [Casos de Uso](/modelagem/casos_de_uso.md)
 
 ## Usabilidade
+
 Esse tópico diz respeito aos requisitos  relacionados a facilidade do usuário de utilizar a aplicação.
 
 ### Capacidade de customização
@@ -33,6 +34,7 @@ O sistema apresenta animações simples e com informações limpas para visualiz
 A interface do sistema é padronizada, dessa forma gerando um conforto para o usuário e a apresentação de informações do sistema é nítido e de fácil acesso.
 
 ## Confiabilidade
+
 Esse tópico diz respeito a quanto o aplicativo é confiável
 
 ### Disponibilidade
@@ -48,6 +50,7 @@ Dentro do sistema os servidores são distribuídos, é possível a criação de 
 No sistema é possível realizar o backup das contas e dados dos usuários, bem como também de suas conquistas.
 
 ## Suportabilidade
+
 Multiplataforma(Versão mobile, versão web, versão desktop) e responsividade.
 
 ### Web
@@ -69,11 +72,12 @@ A aplicação mobile destinada a dispositivos Android deve ser utilizada no sist
 Caminho: [Lichess Google Play](https://play.google.com/store/apps/details?id=org.lichess.mobileapp&gl=US)
 
 ## Performance
+
 Esse tópico diz respeito a questões relacionadas ao desempenho do software
 
 ### Economia de dados
 
-Economia de dados(modo hibernar, boa experiência offline), tempo de resposta(otimização de requisições), economia de bateria(Escurecer a tela, modo hibernar).
+Economia de dados (modo hibernar, boa experiência offline), tempo de resposta(otimização de requisições), economia de bateria (Escurecer a tela, modo hibernar).
 
 ### Tempo de resposta
 
@@ -81,7 +85,7 @@ Otimização das requisições do aplicativo
 
 ### Economia de bateria
 
-É possível escurecer a tela, ativar o modo ibernar.
+É possível escurecer a tela, ativar o modo hibernar.
 
 ## Referências
 
@@ -93,5 +97,4 @@ Otimização das requisições do aplicativo
 | Versão | Data  | Descrição                     | Autor(es)     | Revisor(es)   |
 | ------ | ----- | ----------------------------- |-------------- | -------       |
 | `1.0`  | 11/12 |  Criação do documento         | Davi Silva    | Nicolas Souza |
-| `1.1`  | 12/12 |  Atualização de dados         | Davi Silva    | - |
-
+| `1.1`  | 12/12 |  Atualização de dados         | Davi Silva    | Nicolas Souza |
