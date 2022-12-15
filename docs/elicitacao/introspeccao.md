@@ -59,4 +59,4 @@ A partir das observações representadas na Tabela 1, foram elicitados os requis
 | Versão | Data       | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ---------- | ---------------------------------- | ------------- | ------------- |
 | `1.0`  | 27/11/2022 | Criação do documento.              | Nicolas Souza |  Lucas Macedo |
-| `1.1`  | 11/12/2022  | Inclusão dos requisitos INT12 a INT-15 | Nicolas Souza | | 
+| `1.1`  | 11/12/2022  | Inclusão dos requisitos INT12 a INT-15 | Nicolas Souza | Mauricio Machado | 
