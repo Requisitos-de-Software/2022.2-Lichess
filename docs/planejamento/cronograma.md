@@ -26,9 +26,15 @@ Este documento apresenta o cronograma geral das atividades e o cronograma de cad
 |                    Atividade                    | Data Limite de Entrega | Data Limite Revisão |      Autor(es)       |     Revisor(es)      |
 | :---------------------------------------------: | :--------------------: | :-----------------: | :------------------: | :------------------: |
 |               Técnicas planejadas               |       22/11/2022       |     23/11/2022      |       Nicolas        |       Mauricio       |
-| Execução de técnicas (ser quebrada por técnica) |       25/11/2022       |     26/11/2022      | Todos os integrantes | Todos os integrantes |
+| StoryTelling |       25/11/2022       |     26/11/2022      | Lucas Macedo | Nicolas |
+| Personas |       25/11/2022       |     26/11/2022      | Maurício | Lucas Macedo |
+| Questionário |       24/11/2022       |     25/11/2022      | Maurício | Lucas Macedo |
+| Introspecção |       27/11/2022       |     28/11/2022      | Nicolas | Davi |
+| Glossário |       27/11/2022       |     28/11/2022      | Nicolas | Lucas Gabriel |
+| Entrevista	 |       25/11/2022       |     26/11/2022      | Lucas Gabriel | Mauricio |
+| Brainstorming	 |       25/11/2022       |     26/11/2022      | Davi | Lucas Gabriel |
 |                   Priorização                   |       28/11/2022       |     29/11/2022      |    Lucas Gabriel     |     Lucas Macedo     |
-|            Gravação da apresentação             |       29/11/2022       |          -          | Todos os integrantes |          -           |
+|            Gravação da apresentação             |       29/11/2022       |          -          | Nicolas, Davi, Mauricio, Lucas Gabriel, Lucas Macedo e Renan |          -           |
 |             Edição da apresentação              |       29/11/2022       |          -          |       Mauricio       |          -           |
 
 **Tabela 2: Cronograma do Ponto de Controle 2**
