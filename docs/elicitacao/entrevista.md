@@ -71,22 +71,20 @@ Como resultado da técnica de Entrevista, foram levantados os seguintes requisit
 
 ### Legenda
 
-* ENT: Entrevista
-* RF: Requisito funcional
-* RNF: REquisito não funcional
-
+- ENT: Entrevista
+- RF: Requisito funcional
+- RNF: REquisito não funcional
 
 | Identificador | Requisito                                                                                                                                           | Tipo  |
 | :-----------: | --------------------------------------------------------------------------------------------------------------------------------------------------- | :---: |
-|     ENT01     | Ao clicar em "Criar partida" deverá apresentar para o usuário de forma simples e detalhada a duração das partida                                    | RF01  |
-|     ENT02     | Deve ser possível jogar contra um bot que represente um jogador famoso (tenha em sua configuração movimentos similares aos utilizados pelo jogador) | RF02  |
-|     ENT03     | O software deve ter uma interface simples e intuitiva                                                                                               | RNF01 |
-|     ENT04     | O software deve possuir ícones condensando neles as principais funcionalidades                                                                      | RNF02 |
+|     ENT01     | Ao clicar em "Criar partida" deverá apresentar para o usuário de forma simples e detalhada a duração das partida                                    | RF  |
+|     ENT02     | Deve ser possível jogar contra um bot que represente um jogador famoso (tenha em sua configuração movimentos similares aos utilizados pelo jogador) | RF  |
+|     ENT03     | O software deve ter uma interface simples e intuitiva                                                                                               | RNF |
+|     ENT04     | O software deve possuir ícones condensando neles as principais funcionalidades                                                                      | RNF |
 
 <div style="text-align: center">
-<p> Tabela 1: Requisitos elicitados por meio da entrevista (Fonte: autor, 2022)..</p>
+<p> Tabela 1: Requisitos elicitados por meio da entrevista (Fonte: autor, 2022).</p>
 </div>
-
 
 ## Bibliografia
 
@@ -97,3 +95,4 @@ Como resultado da técnica de Entrevista, foram levantados os seguintes requisit
 | Versão | Data       | Descrição            | Autor(es)         | Revisor(es)          |
 | ------ | ---------- | -------------------- | ------------- | ---------------- |
 | `1.0`  | 25/11/2022 | Criação do documento | Lucas Gabriel | Mauricio Machado |
+| `1.1`  | 03/01/2023 | Verificação dos requisitos. | Nicolas Souza |

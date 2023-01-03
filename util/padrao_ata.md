@@ -26,7 +26,7 @@ O presente documento é um registro da reunião ocorrida no dia [DATA], no qual 
 | :---------: | :---------: | :-------------: |
 |             |             |                 |
 <div style="text-align: center">
-<p> Tabela 2: Atribuição das tarefas (Fonte: autor, 2022). </p>
+<p> Tabela 2: Atribuição das tarefas (Fonte: autor, 2023). </p>
 </div>
 
 ## Definições
