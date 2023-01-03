@@ -38,6 +38,10 @@ A partir das observações representadas na Tabela 1, foram elicitados os requis
 | INT09 | Deve ser possível acessar os modelos de partida a partir da tela inicial   | RNF |
 | INT10 | O tempo de resposta das requisições ao aplicativo deve ser menor ou igual a 1 segundo | RNF |
 | INT11 | Deve ser possível ver quando o outro jogador está pensando na jogada dele  | RNF |
+| INT12 | Deve ser possível resolver desafios (quebra-cabeça)                        | RF  |
+| INT13 | Deve ser possível aprender movimentos de xadrez sem conexão com a internet | RNF |
+| INT14 | Deve ser possível resolver desafios sem conexão com a internet             | RNF |
+| INT15 | Deve ser possível criar desafios para outros usuários resolverem           | RF  |
 <div style="text-align: center">
 <p> Tabela 2: Requisitos elicitados (Fonte: autor, 2022).</p>
 </div>
@@ -55,3 +59,4 @@ A partir das observações representadas na Tabela 1, foram elicitados os requis
 | Versão | Data       | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ---------- | ---------------------------------- | ------------- | ------------- |
 | `1.0`  | 27/11/2022 | Criação do documento.              | Nicolas Souza |  Lucas Macedo |
+| `1.1`  | 11/12/2022  | Inclusão dos requisitos INT12 a INT-15 | Nicolas Souza | Mauricio Machado | 
