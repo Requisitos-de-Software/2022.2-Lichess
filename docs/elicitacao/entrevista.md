@@ -95,4 +95,4 @@ Como resultado da técnica de Entrevista, foram levantados os seguintes requisit
 | Versão | Data       | Descrição            | Autor(es)         | Revisor(es)          |
 | ------ | ---------- | -------------------- | ------------- | ---------------- |
 | `1.0`  | 25/11/2022 | Criação do documento | Lucas Gabriel | Mauricio Machado |
-| `1.1`  | 03/01/2023 | Verificação dos requisitos. | Nicolas Souza |
+| `1.1`  | 03/01/2023 | Verificação dos requisitos. | Nicolas Souza | Lucas Macedo |

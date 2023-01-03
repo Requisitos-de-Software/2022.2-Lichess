@@ -272,4 +272,4 @@ Tabela 6: Requisitos elicitados com o questionário (Fonte: autor, 2022).
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
 | `1.0`  | 22/11/2022 | Criação do documento e adição da introdução | Mauricio |   Lucas Macedo    |
 | `1.1`  | 24/11/2022 | Adição do resultado do questionário     | Mauricio |   Lucas Macedo    |
-| `1.2`  | 03/01/2023 | Ajustes nas legendas e padronização com os demais artefatos. Verificação dos requisitos. | Nicolas Souza | |
+| `1.2`  | 03/01/2023 | Ajustes nas legendas e padronização com os demais artefatos. Verificação dos requisitos. | Nicolas Souza | Lucas Macedo |

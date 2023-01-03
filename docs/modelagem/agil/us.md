@@ -358,4 +358,4 @@ A especificação dos itens do [backlog](backlog.md) foram feitas em termos de h
 
 | Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
-| `1.0`  | 03/01/2023    | Criação do documento.              | Nicolas Souza |               |
+| `1.0`  | 03/01/2023    | Criação do documento.              | Nicolas Souza | Lucas Macedo |

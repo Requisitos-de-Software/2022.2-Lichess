@@ -327,4 +327,4 @@ Tabela 2: Backlog do produto (Fonte: autor, 2023).
 
 | Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
-| `1.0`  | 03/01/2023    | Criação do documento               | Nicolas Souza |               |
+| `1.0`  | 03/01/2023    | Criação do documento               | Nicolas Souza |  Lucas Macedo |
