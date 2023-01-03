@@ -303,7 +303,7 @@ Eu, como usuário, desejo participar e assistir a torneios, para me manter atual
         <td><a href=#requisitos-elicitados>RF06</td>
     </tr>
     <tr>
-        <td>Eu, como usuário, desejo ser notificado quando torneios ao vivo iniciarem, para não perder partidas importantes para mim.</td>
+        <td>Eu, como usuário, desejo ser notificado quando partidas de outros jogadores iniciarem, para não perder partidas importantes para mim.</td>
         <td><a href="../us">US24</a></td>
         <td>Would</td>
         <td><a href=#requisitos-elicitados>RF21</td>
