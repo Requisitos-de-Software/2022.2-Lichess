@@ -1,13 +1,13 @@
 site_name: Lichess
 
-repo_name: "2022.2-Lichess"
-repo_url: "https://github.com/Requisitos-de-Software/2022.2-Lichess"
+repo_name: 2022.2-Lichess
+repo_url: https://github.com/Requisitos-de-Software/2022.2-Lichess
 
-copyright: "Copyright &copy; 2022 Lichess"
+copyright: Copyright &copy; 2022 Lichess
 
 theme:
   name: material
-  language: "pt"
+  language: pt
   logo: img/logo.png
   favicon: img/logo.png
   palette:
@@ -42,31 +42,32 @@ nav:
       - 06/12/2022: atas/ata_06_12.md
       - 13/12/2022: atas/ata_13_12.md
   - Planejamento:
-      - Aplicativo Selecionado: "planejamento/aplicativo_selecionado.md"
-      - Ferramentas: "planejamento/ferramentas.md"
-      - Cronograma: "planejamento/cronograma.md"
-      - Cronograma Realizado: "planejamento/cronograma_realizado.md"
-      - Metodologias: "planejamento/metodologias.md"
+      - Aplicativo Selecionado: planejamento/aplicativo_selecionado.md
+      - Ferramentas: planejamento/ferramentas.md
+      - Cronograma: planejamento/cronograma.md
+      - Cronograma Realizado: planejamento/cronograma_realizado.md
+      - Metodologias: planejamento/metodologias.md
   - Pré-Rastreabilidade:
-      - Rich-Picture: "prerastreabilidade/richpicture.md"
+      - Rich-Picture: prerastreabilidade/richpicture.md
   - Elicitacão:
-      - Técnicas Planejadas: "elicitacao/tecnicas_planejadas.md"
-      - Brainstorming: "elicitacao/brainstorming.md"
-      - Glossário: "elicitacao/glossario.md"
-      - Introspecção: "elicitacao/introspeccao.md"
-      - Questionário: "elicitacao/questionario.md"
-      - Personas: "elicitacao/personas.md"
-      - Storytelling: "elicitacao/storytelling.md"
-      - Entrevista: "elicitacao/entrevista.md"
-      - Priorização: "elicitacao/priorizacao.md"
+      - Técnicas Planejadas: elicitacao/tecnicas_planejadas.md
+      - Brainstorming: elicitacao/brainstorming.md
+      - Glossário: elicitacao/glossario.md
+      - Introspecção: elicitacao/introspeccao.md
+      - Questionário: elicitacao/questionario.md
+      - Personas: elicitacao/personas.md
+      - Storytelling: elicitacao/storytelling.md
+      - Entrevista: elicitacao/entrevista.md
+      - Priorização: elicitacao/priorizacao.md
   - Modelagem:
-      - Léxico: "modelagem/lexico.md"
-      - NFR: "modelagem/nfr_framework.md"
-      - Casos de uso: "modelagem/casos_de_uso.md"
-      - Cenários: "modelagem/cenarios.md"
-      - Especificação Suplementar: "modelagem/especificacao_suplementar.md"
+      - Léxico: modelagem/lexico.md
+      - NFR: modelagem/nfr_framework.md
+      - Casos de uso: modelagem/casos_de_uso.md
+      - Cenários: modelagem/cenarios.md
+      - Especificação Suplementar: modelagem/especificacao_suplementar.md
+      - Modelagem Ágil:
+          - Backlog: modelagem/agil/backlog.md
+          - Histórias de Usuário: modelagem/agil/us.md
   - Apresentações: apresentacoes.md
 
-  # - Nova navegação: "nome do arquivo relativo a docs"
-  # - Nova navegação:
-  #   - Navegação com filhos: "nome do arquivo relativo a docs"
+  
