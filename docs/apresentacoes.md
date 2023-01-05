@@ -65,4 +65,4 @@ Vídeo 4: Apresentação da etapa 4 do projeto
 | `1.1`  | 22/11/2022 | Correção link do vídeo   | Mauricio Machado | Lucas Macedo  |
 | `1.2`  | 30/11/2022 | Adição da apresentação 2 | Lucas Macedo     | Nicolas Souza |
 | `1.3`  | 10/12/2022 | Adição da apresentação 3 | Mauricio Machado | Nicolas Souza |
-| `1.4`  | 04/01/2023 | Adição da apresentação 4 | Lucas Gabriel    | -             |
+| `1.4`  | 04/01/2023 | Adição da apresentação 4 | Lucas Gabriel    | Nicolas Souza      |
