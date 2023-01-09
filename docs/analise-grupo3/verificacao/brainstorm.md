@@ -16,7 +16,7 @@ Neste documento, será realizado a verificação do artefato sobre Brainstorm, d
 |   8    |                 O documento deixa claro seus objetivos?                  |    ✔     |
 
 
-<div style="text-align: center">
+<div>
 <p>
 Tabela 1: Checklist acerca do Brainstorm, grupo MEI. (Fonte: Davi, 2022).
 </p>

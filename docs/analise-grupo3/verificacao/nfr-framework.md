@@ -21,7 +21,7 @@ Esse documento tem como objetivo verificar o artefato NFR framework do grupo MEI
 |   12    |              O sentido das setas e sinalizações do softgoal é coerente?           |    ✔     |
 
 
-<div style="text-align: center">
+<div>
 <p>
 Tabela 1: Checklist acerca do NFR framework. (Fonte: Davi, 2022).
 </p>

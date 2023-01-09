@@ -4,7 +4,7 @@ Neste documento, será realizado a verificação do artefato sobre Backlog, dese
 ## Resultados
 ### Checklist
 
-#### Épico 1 - Cadastro e autenticação
+### Épico 1 - Cadastro e autenticação
 
 | Número |                      Questão                      | Resposta |
 | :----: | :-----------------------------------------------: | :------: |
@@ -14,14 +14,15 @@ Neste documento, será realizado a verificação do artefato sobre Backlog, dese
 |   4    |     Possui todas as informações necessárias?      |    ✔     |
 |   5    |               Há apenas informações referentes a esse artefato?              |    ✔     |
 |   6    |     Possui rastreabilidade das informações?      |    ✔     |
+|   7    |     Os autores foram especificados?      |    X     |
 
-<div style="text-align: center">
+<div>
 <p>
 Tabela 1: Checklist acerca do Épico 1 - Cadastro e autenticação, grupo MEI. (Fonte: Davi, 2023).
 </p>
 </div>
 
-#### Épico 2 - Configurações
+### Épico 2 - Configurações
 
 | Número |                      Questão                      | Resposta |
 | :----: | :-----------------------------------------------: | :------: |
@@ -31,14 +32,15 @@ Tabela 1: Checklist acerca do Épico 1 - Cadastro e autenticação, grupo MEI. (
 |   4    |           O épico associado é coerente?           |    ✔     |
 |   5    |     Possui todas as informações necessárias?      |    ✔     |
 |   6    |     Possui rastreabilidade das informações?      |    ✔     |
+|   7    |     Os autores foram especificados?      |   X     |
 
-<div style="text-align: center">
+<div>
 <p>
 Tabela 2: Checklist acerca do Épico 2 - Configurações, grupo MEI. (Fonte: Davi, 2023).
 </p>
 </div>
 
-#### Épico 3 - Suporte
+### Épico 3 - Suporte
 
 | Número |                      Questão                      | Resposta |
 | :----: | :-----------------------------------------------: | :------: |
@@ -48,15 +50,15 @@ Tabela 2: Checklist acerca do Épico 2 - Configurações, grupo MEI. (Fonte: Dav
 |   4    |           O épico associado é coerente?           |    ✔     |
 |   5    |     Possui todas as informações necessárias?      |    ✔     |
 |   6    |     Possui rastreabilidade das informações?      |    ✔     |
+|   7    |     Os autores foram especificados?      |    X     |
 
-
-<div style="text-align: center">
+<div>
 <p>
 Tabela 3: Checklist acerca do Épico 3 - Suporte, grupo MEI. (Fonte: Davi, 2023).
 </p>
 </div>
 
-#### Épico 4 - Financeiro
+### Épico 4 - Financeiro
 
 | Número |                      Questão                      | Resposta |
 | :----: | :-----------------------------------------------: | :------: |
@@ -66,12 +68,13 @@ Tabela 3: Checklist acerca do Épico 3 - Suporte, grupo MEI. (Fonte: Davi, 2023)
 |   4    |           O épico associado é coerente?           |    ✔     |
 |   5    |     Possui todas as informações necessárias?      |    ✔     |
 |   6    |     Possui rastreabilidade das informações?      |    ✔     |
+|   7    |     Os autores foram especificados?      |    X     |
 
-<div style="text-align: center">
+
 <p>
 Tabela 4: Checklist acerca do Épico 4 - Financeiro, grupo MEI. (Fonte: Davi, 2023).
 </p>
-</div>
+
 
 ## Histórico de Versão
 

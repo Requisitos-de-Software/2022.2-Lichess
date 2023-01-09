@@ -5,7 +5,7 @@ Esse documento consiste na análise da verificação dos casos de uso do grupo M
 ## Resultados
 ### Checklists 
 
-#### UC01 - Fazer Login
+### UC01 - Fazer Login
 
 | Número |                      Questão                      | Resposta |
 | :----: | :-----------------------------------------------: | :------: |
@@ -24,13 +24,13 @@ Esse documento consiste na análise da verificação dos casos de uso do grupo M
 |   13   |              Possui rastreabilidade?              |    ✖     |
 |   14   |     Há informações consistentes?                  |    ✔     |
 
-<div style="text-align: center">
+<div>
 <p>
 Tabela 1: Questões acerca do Login do grupo MEI. (Fonte: Davi, 2023).
 </p>
 </div>
 
-#### UC02 - Cadastro
+### UC02 - Cadastro
 
 | Número |                      Questão                      | Resposta |
 | :----: | :-----------------------------------------------: | :------: |
@@ -49,13 +49,13 @@ Tabela 1: Questões acerca do Login do grupo MEI. (Fonte: Davi, 2023).
 |   13   |              Possui rastreabilidade?              |    ✔     |
 |   14   |     Há informações consistentes?                  |    ✔     |
 
-<div style="text-align: center">
+<div>
 <p>
 Tabela 2: Questões acerca do Cadastro do grupo MEI. (Fonte: Davi, 2023).
 </p>
 </div>
 
-#### UC03 - Acesso ao Suporte
+### UC03 - Acesso ao Suporte
 
 | Número |                      Questão                      | Resposta |
 | :----: | :-----------------------------------------------: | :------: |
@@ -74,13 +74,13 @@ Tabela 2: Questões acerca do Cadastro do grupo MEI. (Fonte: Davi, 2023).
 |   13   |              Possui rastreabilidade?              |    ✔     |
 |   14   |     Há informações consistentes?                  |    ✔     |
 
-<div style="text-align: center">
+<div>
 <p>
 Tabela 3: Questões acerca do Acesso ao Suporte do grupo MEI. (Fonte: Davi, 2023).
 </p>
 </div>
 
-#### UC04 - Lembrete
+### UC04 - Lembrete
 
 | Número |                      Questão                      | Resposta |
 | :----: | :-----------------------------------------------: | :------: |
@@ -99,13 +99,13 @@ Tabela 3: Questões acerca do Acesso ao Suporte do grupo MEI. (Fonte: Davi, 2023
 |   13   |              Possui rastreabilidade?              |    ✔     |
 |   14   |     Há informações consistentes?                  |    ✔     |
 
-<div style="text-align: center">
+<div>
 <p>
 Tabela 4: Questões acerca do Lembrete do grupo MEI. (Fonte: Davi, 2023).
 </p>
 </div>
 
-#### UC05 - Plataforma Única
+### UC05 - Plataforma Única
 
 | Número |                      Questão                      | Resposta |
 | :----: | :-----------------------------------------------: | :------: |
@@ -124,7 +124,7 @@ Tabela 4: Questões acerca do Lembrete do grupo MEI. (Fonte: Davi, 2023).
 |   13   |              Possui rastreabilidade?              |    ✔     |
 |   14   |     Há informações consistentes?                  |    ✔     |
 
-<div style="text-align: center">
+<div>
 <p>
 Tabela 5: Questões acerca da Plataforma Única do grupo MEI. (Fonte: Davi, 2023).
 </p>
