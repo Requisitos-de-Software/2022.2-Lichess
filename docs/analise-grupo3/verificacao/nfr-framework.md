@@ -1,6 +1,6 @@
 ## Introdução
 
-Esse documento tem como objetivo verificar o artefato NFR framework do grupo MEI. A verificação consiste na intervenção humana ou via software para garantir o menor número de erro em processos e procedimentos.
+Esse documento tem como objetivo verificar o artefato NFR framework do grupo MEI (https://requisitos-de-software.github.io/2022.2-MEI/). A verificação consiste na intervenção humana ou via software para garantir o menor número de erro em processos e procedimentos.
 
 ### Checklists 
 
@@ -22,7 +22,7 @@ Esse documento tem como objetivo verificar o artefato NFR framework do grupo MEI
 
 <div style="text-align: center">
 <p>
-Tabela 1: Checklist acerca do NFR framework. (Fonte: Davi, 2023).
+Tabela 1: Checklist acerca do NFR framework do grupo MEI. (Fonte: Davi, 2023).
 </p>
 </div>
 
