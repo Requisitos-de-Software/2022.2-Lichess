@@ -69,6 +69,17 @@ nav:
       - Modelagem Ágil:
           - Backlog: modelagem/agil/backlog.md
           - Histórias de Usuário: modelagem/agil/us.md
+  - Análise Grupo 'MEI':
+      - Verificação:
+          - NFR Framework: analise-grupo3/verificacao/nfr-framework.md
+          - Casos de Uso: analise-grupo3/verificacao/casos-de-uso.md
+          - Brainstorm: analise-grupo3/verificacao/brainstorm.md
+          - Backlog:
+          - Léxico:
+          - Histórias de Usuário: analise-grupo3/verificacao/historias-de-usuario.md
+          - Técnicas de elicitação: analise-grupo3/verificacao/tecnicas-de-elicitacao.md
+          - Priorização: analise-grupo3/verificacao/priorizacao.md
+          - Especificação Suplementar: analise-grupo3/verificacao/especificacao_sup.md
   - Apresentações: apresentacoes.md
 
   
