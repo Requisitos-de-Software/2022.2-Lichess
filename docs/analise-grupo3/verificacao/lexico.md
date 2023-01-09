@@ -34,7 +34,7 @@ Tabela 1: Questões levantadas. (Fonte: Davi, 2022).
 |   6    | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
 |   7    | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
 |   8    | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
-<p>
+
 <div>
 <p>
 Tabela 2: Checklist acerca dos lexicos 1 a 7, grupo MEI. (Fonte: Davi, 2022).
@@ -51,7 +51,7 @@ Tabela 2: Checklist acerca dos lexicos 1 a 7, grupo MEI. (Fonte: Davi, 2022).
 |   6    | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | 
 |   7    | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | 
 |   8    | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
-<p>
+
 <div>
 <p>
 Tabela 3: Checklist acerca dos lexicos 8 a 13, grupo MEI. (Fonte: Davi, 2022).
@@ -68,7 +68,7 @@ Tabela 3: Checklist acerca dos lexicos 8 a 13, grupo MEI. (Fonte: Davi, 2022).
 |   6    | ✔ | ✔ | ✔ | ✔ | 
 |   7    | ✔ | ✔ | ✔ | ✔ | 
 |   8    | ✔ | ✔ | ✔ | ✔ |
-<p>
+
 <div>
 <p>
 Tabela 4: Checklist acerca dos lexicos 14 a 17, grupo MEI. (Fonte: Davi, 2022).
@@ -77,9 +77,9 @@ Tabela 4: Checklist acerca dos lexicos 14 a 17, grupo MEI. (Fonte: Davi, 2022).
 
 ## Referências
 
-Lista de Verificação: Análise de Léxicos. Diponível em: https://fga-disciplinas.github.io/2019.1-Guia-Bolso/analise/analise_lexicos. Acesso em 09/01/2023.
+* [1] Lista de Verificação: Análise de Léxicos. Disponível em: https://fga-disciplinas.github.io/2019.1-Guia-Bolso/analise/analise_lexicos. Acesso em 09/01/2023.
 
-Lista de Verificação: Análise de Léxicos. Diponível em: https://requisitos-de-software.github.io/2019.2-Duolingo/analise/verificacao/inspecaoLexico/ Acesso em 09/01/2023.
+* [2] Lista de Verificação: Análise de Léxicos. Disponível em: https://requisitos-de-software.github.io/2019.2-Duolingo/analise/verificacao/inspecaoLexico/ Acesso em 09/01/2023.
 
 ## Histórico de Versão
 
