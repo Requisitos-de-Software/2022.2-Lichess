@@ -69,6 +69,7 @@ nav:
       - Modelagem Ágil:
           - Backlog: modelagem/agil/backlog.md
           - Histórias de Usuário: modelagem/agil/us.md
+
   - Análise Grupo 3 'MEI - Microempreendedor Individual':
       - Verificação:
           - NFR Framework: analise-grupo3/verificacao/nfr-framework.md
@@ -84,6 +85,8 @@ nav:
           - Entrevista: analise-grupo3/verificacao/verificacao_entrevista.md
           - Perfil do Usuário: analise-grupo3/verificacao/verificacao_perfilUsuario.md
           - Personas: analise-grupo3/verificacao/verificacao_persona.md
+      - Validação:
+          - Comunicação Informal: analise-grupo3\validacao\comunicacao.md
   - Apresentações: apresentacoes.md
 
   
