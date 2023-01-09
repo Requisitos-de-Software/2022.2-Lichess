@@ -10,14 +10,22 @@ A estratégia escolhida para o desenvolvimento desse documento foi a da comunica
 
 ### Comprovação Informal
 
+#### Email enviado para os desenvolvedores
 ![imagem 1](../../elicitacao/imgs/validacao-grupo-3.jpg)
 
 <div style="text-align: center">
 <p>Imagem 1: Email para desenvolvedores MEI</p>
 </div>
 
+#### Resposta dos desenvolvedores do aplicativo MEI
+![imagem 1](../../elicitacao/imgs/resposta_MEI.jpg)
+
+<div style="text-align: center">
+<p>Imagem 2: Resposta dos desenvolvedores MEI</p>
+</div>
+
 ## Histórico de Versão
 
 | Versão | Data       | Descrição                                                                              | Autor(es)        | Revisor(es)  |
 | ------ | ---------- | -------------------------------------------------------------------------------------- | ---------------- | ------------ |
-| `1.0`  | 08/01/2023 | Criação do documento e adição da comprovação informal                                             | Davi         | Lucas Macedo |
+| `1.0`  | 08/01/2023 | Criação do documento e adição da comprovação informal                                             | Davi         | Lucas Gabriel |
