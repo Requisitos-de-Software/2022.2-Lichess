@@ -1,6 +1,6 @@
 ## Introdução
 
-Esse documento consiste na análise da verificação dos casos de uso do grupo MEI. Foi utilizado o Checklist para fazer essa verificação o que facilita a identificação de erros. 
+Esse documento consiste na análise da verificação dos casos de uso do grupo MEI (https://requisitos-de-software.github.io/2022.2-MEI/). Foi utilizado o Checklist para fazer essa verificação o que facilita a identificação de erros. 
 
 ### Checklists 
 
@@ -25,7 +25,7 @@ Esse documento consiste na análise da verificação dos casos de uso do grupo M
 
 <div style="text-align: center">
 <p>
-Tabela 1: Questões acerca do Login. (Fonte: Davi, 2023).
+Tabela 1: Questões acerca do Login do grupo MEI. (Fonte: Davi, 2023).
 </p>
 </div>
 
@@ -50,7 +50,7 @@ Tabela 1: Questões acerca do Login. (Fonte: Davi, 2023).
 
 <div style="text-align: center">
 <p>
-Tabela 2: Questões acerca do Cadastro. (Fonte: Davi, 2023).
+Tabela 2: Questões acerca do Cadastro do grupo MEI. (Fonte: Davi, 2023).
 </p>
 </div>
 
@@ -75,7 +75,7 @@ Tabela 2: Questões acerca do Cadastro. (Fonte: Davi, 2023).
 
 <div style="text-align: center">
 <p>
-Tabela 3: Questões acerca do Acesso ao Suporte. (Fonte: Davi, 2023).
+Tabela 3: Questões acerca do Acesso ao Suporte do grupo MEI. (Fonte: Davi, 2023).
 </p>
 </div>
 
@@ -100,7 +100,7 @@ Tabela 3: Questões acerca do Acesso ao Suporte. (Fonte: Davi, 2023).
 
 <div style="text-align: center">
 <p>
-Tabela 4: Questões acerca do Lembrete. (Fonte: Davi, 2023).
+Tabela 4: Questões acerca do Lembrete do grupo MEI. (Fonte: Davi, 2023).
 </p>
 </div>
 
@@ -125,7 +125,7 @@ Tabela 4: Questões acerca do Lembrete. (Fonte: Davi, 2023).
 
 <div style="text-align: center">
 <p>
-Tabela 5: Questões acerca da Plataforma Única. (Fonte: Davi, 2023).
+Tabela 5: Questões acerca da Plataforma Única do grupo MEI. (Fonte: Davi, 2023).
 </p>
 </div>
 

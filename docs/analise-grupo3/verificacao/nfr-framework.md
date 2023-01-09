@@ -21,7 +21,9 @@ Esse documento tem como objetivo verificar o artefato NFR framework do grupo MEI
 
 
 <div style="text-align: center">
-<p>Fonte: Davi Silva </p>
+<p>
+Tabela 1: Checklist acerca do NFR framework. (Fonte: Davi, 2023).
+</p>
 </div>
 
 ## Histórico de Versão
