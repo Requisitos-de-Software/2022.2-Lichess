@@ -4,7 +4,7 @@ Para analisar o grupo MEI por meio da validação, nós do grupo Lichess usamos 
 
 ## Metodologia 
 
-A estratégia escolhida para o desenvolvimento desse documento foi a da comunicação informal. A validação por meio da comunicação informal é basicamente uma tarefa de leitura de descrições em linguagem natural e do uso dos clientes para identificar problemas. 
+A estratégia escolhida para o desenvolvimento desse documento foi a da comunicação informal. A validação por meio da comunicação informal é basicamente uma tarefa de leitura de descrições em linguagem natural e do uso dos clientes para identificar problemas. Podemos visualizar o email na imagem 1, e a resposta dos desenvolvedores na imagem 2
 
 ## Resultados
 
