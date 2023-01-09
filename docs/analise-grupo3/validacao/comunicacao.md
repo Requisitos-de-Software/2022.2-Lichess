@@ -18,7 +18,7 @@ A estratégia escolhida para o desenvolvimento desse documento foi a da comunica
 </div>
 
 #### Resposta dos desenvolvedores do aplicativo MEI
-![imagem 1](../../elicitacao/imgs/resposta_MEI.jpg)
+![imagem 2](../../elicitacao/imgs/resposta_MEI.jpg)
 
 <div style="text-align: center">
 <p>Imagem 2: Resposta dos desenvolvedores MEI</p>
