@@ -2,6 +2,7 @@
 
 Esse documento consiste na análise da verificação dos casos de uso do grupo MEI (https://requisitos-de-software.github.io/2022.2-MEI/). Foi utilizado o Checklist para fazer essa verificação o que facilita a identificação de erros. 
 
+## Resultados
 ### Checklists 
 
 #### UC01 - Fazer Login
