@@ -1,9 +1,12 @@
+# Verificação - Casos de Uso
+
 ## Introdução
 
-Esse documento consiste na análise da verificação dos casos de uso do grupo MEI (https://requisitos-de-software.github.io/2022.2-MEI/). Foi utilizado o Checklist para fazer essa verificação o que facilita a identificação de erros. 
+Esse documento consiste na análise da verificação dos casos de uso do grupo MEI (<https://requisitos-de-software.github.io/2022.2-MEI/>). Foi utilizado o Checklist para fazer essa verificação o que facilita a identificação de erros.
 
 ## Resultados
-### Checklists 
+
+### Checklists
 
 ### UC01 - Fazer Login
 
@@ -129,7 +132,6 @@ Tabela 4: Questões acerca do Lembrete do grupo MEI. (Fonte: Davi, 2023).
 Tabela 5: Questões acerca da Plataforma Única do grupo MEI. (Fonte: Davi, 2023).
 </p>
 </div>
-
 
 ## Histórico de Versão
 

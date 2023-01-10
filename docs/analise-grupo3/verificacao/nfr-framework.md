@@ -1,9 +1,12 @@
+# Verificação - NFR Framework
+
 ## Introdução
 
-Esse documento tem como objetivo verificar o artefato NFR framework do grupo MEI(https://requisitos-de-software.github.io/2022.2-MEI/). A verificação consiste na intervenção humana ou via software para garantir o menor número de erro em processos e procedimentos.
+Esse documento tem como objetivo verificar o artefato NFR framework do grupo MEI(<https://requisitos-de-software.github.io/2022.2-MEI/>). A verificação consiste na intervenção humana ou via software para garantir o menor número de erro em processos e procedimentos.
 
 ## Resultados
-### Checklists 
+
+### Checklists
 
 | Número |                                   Questão                                   | Resposta |
 | :----: | :-------------------------------------------------------------------------: | :------: |
@@ -19,7 +22,6 @@ Esse documento tem como objetivo verificar o artefato NFR framework do grupo MEI
 |   10    |              Os graus de satisfação foram indicados?           |    ✔     |
 |   11    |              Os objetivos foram decompostos em uma hierarquia com AND/OR de softgoals?           |    ✔     |
 |   12    |              O sentido das setas e sinalizações do softgoal é coerente?           |    ✔     |
-
 
 <div>
 <p>

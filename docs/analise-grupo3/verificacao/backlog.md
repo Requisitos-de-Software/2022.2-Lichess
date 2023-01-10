@@ -1,7 +1,11 @@
-## Introdução 
-Neste documento, será realizado a verificação do artefato sobre Backlog, desenvolvido pelo grupo MEI (https://requisitos-de-software.github.io/2022.2-MEI/).
+# Verificação - Backlog
+
+## Introdução
+
+Neste documento, será realizado a verificação do artefato sobre Backlog, desenvolvido pelo grupo MEI (<https://requisitos-de-software.github.io/2022.2-MEI/>).
 
 ## Resultados
+
 ### Checklist
 
 ### Épico 1 - Cadastro e autenticação
@@ -70,11 +74,9 @@ Tabela 3: Checklist acerca do Épico 3 - Suporte, grupo MEI. (Fonte: Davi, 2023)
 |   6    |     Possui rastreabilidade das informações?      |    ✔     |
 |   7    |     Os autores foram especificados?      |    X     |
 
-
 <p>
 Tabela 4: Checklist acerca do Épico 4 - Financeiro, grupo MEI. (Fonte: Davi, 2023).
 </p>
-
 
 ## Histórico de Versão
 

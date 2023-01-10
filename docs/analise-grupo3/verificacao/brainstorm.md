@@ -1,7 +1,11 @@
-## Introdução 
-Neste documento, será realizado a verificação do artefato sobre Brainstorm, desenvolvido pelo grupo MEI (https://requisitos-de-software.github.io/2022.2-MEI/).
+# Verificação - Brainstorm
+
+## Introdução
+
+Neste documento, será realizado a verificação do artefato sobre Brainstorm, desenvolvido pelo grupo MEI (<https://requisitos-de-software.github.io/2022.2-MEI/>).
 
 ## Resultados
+
 ### Checklist
 
 | Número |                                   Questão                                   | Resposta |
@@ -14,7 +18,6 @@ Neste documento, será realizado a verificação do artefato sobre Brainstorm, d
 |   6    | Foi identificado data, horário e participantes? |    X     |
 |   7    |                  O documento está gramaticamente correto?                  |    ✔     |
 |   8    |                 O documento deixa claro seus objetivos?                  |    ✔     |
-
 
 <div>
 <p>

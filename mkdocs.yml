@@ -70,24 +70,23 @@ nav:
           - Backlog: modelagem/agil/backlog.md
           - Histórias de Usuário: modelagem/agil/us.md
 
-  - Análise Grupo 3 'MEI - Microempreendedor Individual':
-      - Verificação:
-          - NFR Framework: analise-grupo3/verificacao/nfr-framework.md
-          - Casos de Uso: analise-grupo3/verificacao/casos-de-uso.md
-          - Brainstorm: analise-grupo3/verificacao/brainstorm.md
-          - Backlog: analise-grupo3/verificacao/backlog.md
-          - Léxico: analise-grupo3/verificacao/lexico.md
-          - Histórias de Usuário: analise-grupo3/verificacao/historias-de-usuario.md
-          - Técnicas de elicitação: analise-grupo3/verificacao/tecnicas-de-elicitacao.md
-          - Priorização: analise-grupo3/verificacao/priorizacao.md
-          - Especificação Suplementar: analise-grupo3/verificacao/especificacao_sup.md
-          - Cenários: analise-grupo3/verificacao/verificacao_cenarios.md
-          - Entrevista: analise-grupo3/verificacao/verificacao_entrevista.md
-          - Perfil do Usuário: analise-grupo3/verificacao/verificacao_perfilUsuario.md
-          - Personas: analise-grupo3/verificacao/verificacao_persona.md
-          - Introspecção: analise-grupo3/verificacao/verificacao_introspeccao.md
-      - Validação:
-          - Comunicação Informal: analise-grupo3/validacao/comunicacao.md
+  - Análise:
+      - Grupo 3 'MEI - Microempreendedor Individual':
+          - Verificação:
+              - NFR Framework: analise-grupo3/verificacao/nfr-framework.md
+              - Casos de Uso: analise-grupo3/verificacao/casos-de-uso.md
+              - Brainstorm: analise-grupo3/verificacao/brainstorm.md
+              - Backlog: analise-grupo3/verificacao/backlog.md
+              - Léxico: analise-grupo3/verificacao/lexico.md
+              - Histórias de Usuário: analise-grupo3/verificacao/historias-de-usuario.md
+              - Técnicas de elicitação: analise-grupo3/verificacao/tecnicas-de-elicitacao.md
+              - Priorização: analise-grupo3/verificacao/priorizacao.md
+              - Especificação Suplementar: analise-grupo3/verificacao/especificacao_sup.md
+              - Cenários: analise-grupo3/verificacao/verificacao_cenarios.md
+              - Entrevista: analise-grupo3/verificacao/verificacao_entrevista.md
+              - Perfil do Usuário: analise-grupo3/verificacao/verificacao_perfilUsuario.md
+              - Personas: analise-grupo3/verificacao/verificacao_persona.md
+              - Introspecção: analise-grupo3/verificacao/verificacao_introspeccao.md
+          - Validação:
+              - Comunicação Informal: analise-grupo3/validacao/comunicacao.md
   - Apresentações: apresentacoes.md
-
-  

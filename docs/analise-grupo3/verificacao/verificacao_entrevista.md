@@ -1,15 +1,19 @@
-# Verificação do artefato Entrevista feito pelo Grupo 2 (MEI - Microempreendedor Individual)
+# Verificação - Entrevista
 
 ## Introdução
+
 Segundo o CMMI, a verificação busca garantir que os produtos de trabalho selecionados cumpram os seus requisitos especificados [1]. Por tanto, nessa etapa será realizada a verificação do artefato Entrevista feito pelo Grupo 2 (MEI - Microempreendedor Individual), com intuito de analisar se esse modelo está de acordo com o que se espera dele [2].
 
 ## Metodologia
+
 A metodologia utilizada foi a inspeção validando-se de uma lista de requisitos para checagem (check list) com o intuito de descobrir defeitos no documento e assim verificar se o modelo está de acordo com a notação do modelo e com o que se espera desse modelo [2].
 
 ## Rastreabilidade
+
 O artefato Entrevista pode ser consultado nesse [link](https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/Entrevista/).
 
 ## Checklist
+
 O checklist utilizado e a inspeção realizada podem ser observados na Tabela 1.
 
 | Identificador | Questão                                                                                          | Resposta (Sim / Não / Incompleto)                                         |
@@ -31,9 +35,9 @@ O checklist utilizado e a inspeção realizada podem ser observados na Tabela 1.
 
 ## Bibliografia
 
-[1] GERÊNCIA e Qualidade de Software - Aula 05 - Verificação e Validação. [S. l.: s. n.], 2018. Disponível em: https://www.youtube.com/watch?v=1Y-1zz6rZxo&ab_channel=UNIVESP. Acesso em: 9 jan. 2023.
+[1] GERÊNCIA e Qualidade de Software - Aula 05 - Verificação e Validação. [S. l.: s. n.], 2018. Disponível em: <https://www.youtube.com/watch?v=1Y-1zz6rZxo&ab_channel=UNIVESP>. Acesso em: 9 jan. 2023.
 
-[2] SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 23. [S. l.]. Disponível em: https://aprender3.unb.br/pluginfile.php/2307566/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf. Acesso em: 9 jan. 2023.
+[2] SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 23. [S. l.]. Disponível em: <https://aprender3.unb.br/pluginfile.php/2307566/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf>. Acesso em: 9 jan. 2023.
 
 ## Histórico de Versão
 
