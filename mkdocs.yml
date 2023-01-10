@@ -71,24 +71,24 @@ nav:
           - Histórias de Usuário: modelagem/agil/us.md
 
   - Análise:
-      - Grupo 2 'MEI - Microempreendedor Individual':
-          - Verificação:
-              - NFR Framework: analise-grupo2/verificacao/nfr-framework.md
-              - Casos de Uso: analise-grupo2/verificacao/casos-de-uso.md
-              - Brainstorm: analise-grupo2/verificacao/brainstorm.md
-              - Backlog: analise-grupo2/verificacao/backlog.md
-              - Léxico: analise-grupo2/verificacao/lexico.md
-              - Histórias de Usuário: analise-grupo2/verificacao/historias-de-usuario.md
-              - Técnicas de elicitação: analise-grupo2/verificacao/tecnicas-de-elicitacao.md
-              - Priorização: analise-grupo2/verificacao/priorizacao.md
-              - Especificação Suplementar: analise-grupo2/verificacao/especificacao_sup.md
-              - Cenários: analise-grupo2/verificacao/cenarios.md
-              - Entrevista: analise-grupo2/verificacao/entrevista.md
-              - Perfil do Usuário: analise-grupo2/verificacao/perfilUsuario.md
-              - Personas: analise-grupo2/verificacao/persona.md
-              - Introspecção: analise-grupo2/verificacao/introspeccao.md
-          - Validação:
-              - Comunicação Informal: analise-grupo2/validacao/comunicacao.md
+      # - Grupo 2 'MEI - Microempreendedor Individual':
+      #     - Verificação:
+      #         - NFR Framework: analise-grupo2/verificacao/nfr-framework.md
+      #         - Casos de Uso: analise-grupo2/verificacao/casos-de-uso.md
+      #         - Brainstorm: analise-grupo2/verificacao/brainstorm.md
+      #         - Backlog: analise-grupo2/verificacao/backlog.md
+      #         - Léxico: analise-grupo2/verificacao/lexico.md
+      #         - Histórias de Usuário: analise-grupo2/verificacao/historias-de-usuario.md
+      #         - Técnicas de elicitação: analise-grupo2/verificacao/tecnicas-de-elicitacao.md
+      #         - Priorização: analise-grupo2/verificacao/priorizacao.md
+      #         - Especificação Suplementar: analise-grupo2/verificacao/especificacao_sup.md
+      #         - Cenários: analise-grupo2/verificacao/cenarios.md
+      #         - Entrevista: analise-grupo2/verificacao/entrevista.md
+      #         - Perfil do Usuário: analise-grupo2/verificacao/perfilUsuario.md
+      #         - Personas: analise-grupo2/verificacao/persona.md
+      #         - Introspecção: analise-grupo2/verificacao/introspeccao.md
+      #     - Validação:
+      #         - Comunicação Informal: analise-grupo2/validacao/comunicacao.md
       - Grupo 3 'MEI - Microempreendedor Individual':
           - Verificação:
               - NFR Framework: analise-grupo3/verificacao/nfr-framework.md
