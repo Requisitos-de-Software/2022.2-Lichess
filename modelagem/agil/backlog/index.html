@@ -1,0 +1,2069 @@
+
+<!doctype html>
+<html lang="pt" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../../especificacao_suplementar/">
+      
+      
+        <link rel="next" href="../us/">
+      
+      <link rel="icon" href="../../../img/logo.png">
+      <meta name="generator" content="mkdocs-1.4.2, mkdocs-material-9.0.3">
+    
+    
+      
+        <title>Backlog - Lichess</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../../assets/stylesheets/main.6b71719e.min.css">
+      
+        
+        <link rel="stylesheet" href="../../../assets/stylesheets/palette.2505c338.min.css">
+      
+      
+
+    
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter:300,300i,400,400i,700,700i%7Csans-serif:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Inter";--md-code-font:"sans-serif"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="grey" data-md-color-accent="">
+  
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&"object"==typeof palette.color)for(var key of Object.keys(palette.color))document.body.setAttribute("data-md-color-"+key,palette.color[key])</script>
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#backlog-do-produto" class="md-skip">
+          Ir para o conteúdo
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Cabeçalho">
+    <a href="../../.." title="Lichess" class="md-header__button md-logo" aria-label="Lichess" data-md-component="logo">
+      
+  <img src="../../../img/logo.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Lichess
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Backlog
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      <form class="md-header__option" data-md-component="palette">
+        
+          
+          <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="grey" data-md-color-accent=""  aria-label="Tema escuro"  type="radio" name="__palette" id="__palette_1">
+          
+            <label class="md-header__button md-icon" title="Tema escuro" for="__palette_2" hidden>
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12 20 8.69Z"/></svg>
+            </label>
+          
+        
+          
+          <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="grey" data-md-color-accent=""  aria-label="Tema claro"  type="radio" name="__palette" id="__palette_2">
+          
+            <label class="md-header__button md-icon" title="Tema claro" for="__palette_1" hidden>
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18c-.89 0-1.74-.2-2.5-.55C11.56 16.5 13 14.42 13 12c0-2.42-1.44-4.5-3.5-5.45C10.26 6.2 11.11 6 12 6a6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12 20 8.69Z"/></svg>
+            </label>
+          
+        
+      </form>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Buscar" placeholder="Buscar" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Pesquisar">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Limpar" aria-label="Limpar" tabindex="-1">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Inicializando a pesquisa
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/Requisitos-de-Software/2022.2-Lichess" title="Ir ao repositório" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.2.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    2022.2-Lichess
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navegação" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../../.." title="Lichess" class="md-nav__button md-logo" aria-label="Lichess" data-md-component="logo">
+      
+  <img src="../../../img/logo.png" alt="logo">
+
+    </a>
+    Lichess
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/Requisitos-de-Software/2022.2-Lichess" title="Ir ao repositório" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.2.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    2022.2-Lichess
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../.." class="md-nav__link">
+        Sobre o Projeto
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " data-md-toggle="__nav_2" type="checkbox" id="__nav_2" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_2" tabindex="0" aria-expanded="false">
+          Atas
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Atas" data-md-level="1">
+        <label class="md-nav__title" for="__nav_2">
+          <span class="md-nav__icon md-icon"></span>
+          Atas
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../atas/ata_01_11/" class="md-nav__link">
+        01/11/2022
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../atas/ata_10_11/" class="md-nav__link">
+        10/11/2022
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../atas/ata_15_11/" class="md-nav__link">
+        15/11/2022
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../atas/ata_22_11/" class="md-nav__link">
+        22/11/2022
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../atas/ata_06_12/" class="md-nav__link">
+        06/12/2022
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../atas/ata_13_12/" class="md-nav__link">
+        13/12/2022
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../atas/ata_03_01_2023/" class="md-nav__link">
+        03/01/2023
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " data-md-toggle="__nav_3" type="checkbox" id="__nav_3" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_3" tabindex="0" aria-expanded="false">
+          Planejamento
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Planejamento" data-md-level="1">
+        <label class="md-nav__title" for="__nav_3">
+          <span class="md-nav__icon md-icon"></span>
+          Planejamento
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../planejamento/aplicativo_selecionado/" class="md-nav__link">
+        Aplicativo Selecionado
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../planejamento/ferramentas/" class="md-nav__link">
+        Ferramentas
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../planejamento/cronograma/" class="md-nav__link">
+        Cronograma
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../planejamento/cronograma_realizado/" class="md-nav__link">
+        Cronograma Realizado
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../planejamento/metodologias/" class="md-nav__link">
+        Metodologias
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " data-md-toggle="__nav_4" type="checkbox" id="__nav_4" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_4" tabindex="0" aria-expanded="false">
+          Pré-Rastreabilidade
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Pré-Rastreabilidade" data-md-level="1">
+        <label class="md-nav__title" for="__nav_4">
+          <span class="md-nav__icon md-icon"></span>
+          Pré-Rastreabilidade
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../prerastreabilidade/richpicture/" class="md-nav__link">
+        Rich-Picture
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " data-md-toggle="__nav_5" type="checkbox" id="__nav_5" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_5" tabindex="0" aria-expanded="false">
+          Elicitacão
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Elicitacão" data-md-level="1">
+        <label class="md-nav__title" for="__nav_5">
+          <span class="md-nav__icon md-icon"></span>
+          Elicitacão
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../elicitacao/tecnicas_planejadas/" class="md-nav__link">
+        Técnicas Planejadas
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../elicitacao/brainstorming/" class="md-nav__link">
+        Brainstorming
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../elicitacao/glossario/" class="md-nav__link">
+        Glossário
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../elicitacao/introspeccao/" class="md-nav__link">
+        Introspecção
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../elicitacao/questionario/" class="md-nav__link">
+        Questionário
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../elicitacao/personas/" class="md-nav__link">
+        Personas
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../elicitacao/storytelling/" class="md-nav__link">
+        Storytelling
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../elicitacao/entrevista/" class="md-nav__link">
+        Entrevista
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../elicitacao/priorizacao/" class="md-nav__link">
+        Priorização
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+    
+  
+  
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " data-md-toggle="__nav_6" type="checkbox" id="__nav_6" checked>
+      
+      
+      
+        <label class="md-nav__link" for="__nav_6" tabindex="0" aria-expanded="true">
+          Modelagem
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Modelagem" data-md-level="1">
+        <label class="md-nav__title" for="__nav_6">
+          <span class="md-nav__icon md-icon"></span>
+          Modelagem
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../lexico/" class="md-nav__link">
+        Léxico
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../nfr_framework/" class="md-nav__link">
+        NFR
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../casos_de_uso/" class="md-nav__link">
+        Casos de uso
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../cenarios/" class="md-nav__link">
+        Cenários
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../especificacao_suplementar/" class="md-nav__link">
+        Especificação Suplementar
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+    
+  
+  
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " data-md-toggle="__nav_6_6" type="checkbox" id="__nav_6_6" checked>
+      
+      
+      
+        <label class="md-nav__link" for="__nav_6_6" tabindex="0" aria-expanded="true">
+          Modelagem Ágil
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Modelagem Ágil" data-md-level="2">
+        <label class="md-nav__title" for="__nav_6_6">
+          <span class="md-nav__icon md-icon"></span>
+          Modelagem Ágil
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          Backlog
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        Backlog
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Índice">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Índice
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#introducao" class="md-nav__link">
+    Introdução
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#metodologia" class="md-nav__link">
+    Metodologia
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#requisitos-elicitados" class="md-nav__link">
+    Requisitos Elicitados
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#backlog" class="md-nav__link">
+    Backlog
+  </a>
+  
+    <nav class="md-nav" aria-label="Backlog">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#temas" class="md-nav__link">
+    Temas
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#epicos" class="md-nav__link">
+    Épicos
+  </a>
+  
+    <nav class="md-nav" aria-label="Épicos">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#e01-configuracao-de-partida" class="md-nav__link">
+    E01 - Configuração de partida
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#e02-partida-contra-o-computador" class="md-nav__link">
+    E02 - Partida contra o computador
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#e03-partida-contra-oponente" class="md-nav__link">
+    E03 - Partida contra oponente
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#e04-partidas-casuais" class="md-nav__link">
+    E04 - Partidas casuais
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#e05-manual-do-usuario" class="md-nav__link">
+    E05 - Manual do usuário
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#e06-estudar-xadrez" class="md-nav__link">
+    E06 - Estudar xadrez
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#e07-ensinar-xadrez" class="md-nav__link">
+    E07 - Ensinar xadrez
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#e08-estatisticas-de-partidas" class="md-nav__link">
+    E08 - Estatísticas de partidas
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#e09-estatisticas-de-quebra-cabecas" class="md-nav__link">
+    E09 - Estatísticas de quebra cabeças
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#e10-comunicacao" class="md-nav__link">
+    E10 - Comunicação
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#e11-torneios" class="md-nav__link">
+    E11 - Torneios
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#bibliografia" class="md-nav__link">
+    Bibliografia
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#historico-de-versao" class="md-nav__link">
+    Histórico de Versão
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../us/" class="md-nav__link">
+        Histórias de Usuário
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " data-md-toggle="__nav_7" type="checkbox" id="__nav_7" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_7" tabindex="0" aria-expanded="false">
+          Análise
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Análise" data-md-level="1">
+        <label class="md-nav__title" for="__nav_7">
+          <span class="md-nav__icon md-icon"></span>
+          Análise
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " data-md-toggle="__nav_7_1" type="checkbox" id="__nav_7_1" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_7_1" tabindex="0" aria-expanded="false">
+          Grupo 3 'MEI - Microempreendedor Individual'
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Grupo 3 'MEI - Microempreendedor Individual'" data-md-level="2">
+        <label class="md-nav__title" for="__nav_7_1">
+          <span class="md-nav__icon md-icon"></span>
+          Grupo 3 'MEI - Microempreendedor Individual'
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " data-md-toggle="__nav_7_1_1" type="checkbox" id="__nav_7_1_1" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_7_1_1" tabindex="0" aria-expanded="false">
+          Verificação
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Verificação" data-md-level="3">
+        <label class="md-nav__title" for="__nav_7_1_1">
+          <span class="md-nav__icon md-icon"></span>
+          Verificação
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../analise-grupo3/verificacao/nfr-framework/" class="md-nav__link">
+        NFR Framework
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../analise-grupo3/verificacao/casos-de-uso/" class="md-nav__link">
+        Casos de Uso
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../analise-grupo3/verificacao/brainstorm/" class="md-nav__link">
+        Brainstorm
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../analise-grupo3/verificacao/backlog/" class="md-nav__link">
+        Backlog
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../analise-grupo3/verificacao/lexico/" class="md-nav__link">
+        Léxico
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../analise-grupo3/verificacao/historias-de-usuario/" class="md-nav__link">
+        Histórias de Usuário
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../analise-grupo3/verificacao/tecnicas-de-elicitacao/" class="md-nav__link">
+        Técnicas de elicitação
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../analise-grupo3/verificacao/priorizacao/" class="md-nav__link">
+        Priorização
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../analise-grupo3/verificacao/especificacao_sup/" class="md-nav__link">
+        Especificação Suplementar
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../analise-grupo3/verificacao/cenarios/" class="md-nav__link">
+        Cenários
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../analise-grupo3/verificacao/entrevista/" class="md-nav__link">
+        Entrevista
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../analise-grupo3/verificacao/perfil-usuario/" class="md-nav__link">
+        Perfil do Usuário
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../analise-grupo3/verificacao/persona/" class="md-nav__link">
+        Personas
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../analise-grupo3/verificacao/introspeccao/" class="md-nav__link">
+        Introspecção
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " data-md-toggle="__nav_7_1_2" type="checkbox" id="__nav_7_1_2" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_7_1_2" tabindex="0" aria-expanded="false">
+          Validação
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Validação" data-md-level="3">
+        <label class="md-nav__title" for="__nav_7_1_2">
+          <span class="md-nav__icon md-icon"></span>
+          Validação
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../analise-grupo3/validacao/comunicacao/" class="md-nav__link">
+        Comunicação Informal
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../apresentacoes/" class="md-nav__link">
+        Apresentações
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Índice">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Índice
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#introducao" class="md-nav__link">
+    Introdução
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#metodologia" class="md-nav__link">
+    Metodologia
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#requisitos-elicitados" class="md-nav__link">
+    Requisitos Elicitados
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#backlog" class="md-nav__link">
+    Backlog
+  </a>
+  
+    <nav class="md-nav" aria-label="Backlog">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#temas" class="md-nav__link">
+    Temas
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#epicos" class="md-nav__link">
+    Épicos
+  </a>
+  
+    <nav class="md-nav" aria-label="Épicos">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#e01-configuracao-de-partida" class="md-nav__link">
+    E01 - Configuração de partida
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#e02-partida-contra-o-computador" class="md-nav__link">
+    E02 - Partida contra o computador
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#e03-partida-contra-oponente" class="md-nav__link">
+    E03 - Partida contra oponente
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#e04-partidas-casuais" class="md-nav__link">
+    E04 - Partidas casuais
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#e05-manual-do-usuario" class="md-nav__link">
+    E05 - Manual do usuário
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#e06-estudar-xadrez" class="md-nav__link">
+    E06 - Estudar xadrez
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#e07-ensinar-xadrez" class="md-nav__link">
+    E07 - Ensinar xadrez
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#e08-estatisticas-de-partidas" class="md-nav__link">
+    E08 - Estatísticas de partidas
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#e09-estatisticas-de-quebra-cabecas" class="md-nav__link">
+    E09 - Estatísticas de quebra cabeças
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#e10-comunicacao" class="md-nav__link">
+    E10 - Comunicação
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#e11-torneios" class="md-nav__link">
+    E11 - Torneios
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#bibliografia" class="md-nav__link">
+    Bibliografia
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#historico-de-versao" class="md-nav__link">
+    Histórico de Versão
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+  
+  
+
+
+
+<h1 id="backlog-do-produto">Backlog do Produto</h1>
+<h2 id="introducao">Introdução</h2>
+<p>O backlog é uma lista com prioridades dos requisitos ou funcionalidades do projeto que fornecem valor comercial ao cliente. Os itens podem ser adicionados ao backlog a qualquer momento do projeto. Os requisitos são descritos em diferentes níveis de abstração, a saber: <a href="../us/">histórias de usuário</a>, épicos e temas, sendo os temas as formas mais abstratas e as histórias de usuário as menos abstratas.</p>
+<h2 id="metodologia">Metodologia</h2>
+<p>A elaboração do backlog do produto partiu da análise e verificação dos requisitos funcionais elicitados, seguida pelo agrupamento destes requisitos em temas e épicos, que foram a base para a criação das <a href="../us/">histórias de usuário</a>.</p>
+<h2 id="requisitos-elicitados">Requisitos Elicitados</h2>
+<p>Na Tabela 1 estão registrados todos os requisitos elicitados durante o processo de <a href="../../../elicitacao/tecnicas_planejadas/">elicitação</a>, juntamente com a origem de cada requisito.</p>
+<table>
+<thead>
+<tr>
+<th align="center">Identificador</th>
+<th align="center">Requisito</th>
+<th align="center">Rastreabilidade</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">RF01</td>
+<td align="center">Deve existir um sistema de recompensas para incentivar os jogadores</td>
+<td align="center"><a href="../../../elicitacao/questionario/">Q04</a></td>
+</tr>
+<tr>
+<td align="center">RF02</td>
+<td align="center">Deve existir uma apresentação inicial do aplicativo para o usuário no primeiro acesso</td>
+<td align="center"><a href="../../../elicitacao/questionario/">Q10</a></td>
+</tr>
+<tr>
+<td align="center">RF03</td>
+<td align="center">Deve haver uma classificação, em termos de nível, dos jogadores.</td>
+<td align="center"><a href="../../../elicitacao/questionario/">Q04</a><br/> <a href="../../../elicitacao/questionario/">Q08</a></td>
+</tr>
+<tr>
+<td align="center">RF04</td>
+<td align="center">Deve ser possível adicionar outros jogadores</td>
+<td align="center"><a href="../../../elicitacao/storytelling/">ST07</a></td>
+</tr>
+<tr>
+<td align="center">RF05</td>
+<td align="center">Deve ser possível aprender movimentos de xadrez por meio de tutoriais</td>
+<td align="center"><a href="../../../elicitacao/introspeccao/">INT07</a><br/> <a href="../../../elicitacao/questionario/">Q13</a><br/> <a href="../../../elicitacao/storytelling/">ST11</a></td>
+</tr>
+<tr>
+<td align="center">RF06</td>
+<td align="center">Deve ser possível assistir partidas de outras pessoas</td>
+<td align="center"><a href="../../../elicitacao/storytelling/">ST06</a></td>
+</tr>
+<tr>
+<td align="center">RF07</td>
+<td align="center">Deve ser possível configurar a dificuldade da partida contra o computador</td>
+<td align="center"><a href="../../../elicitacao/introspeccao/">INT04</a></td>
+</tr>
+<tr>
+<td align="center">RF08</td>
+<td align="center">Deve ser possível configurar a modalidade de jogo ao iniciar uma partida.</td>
+<td align="center"><a href="../../../elicitacao/glossario/">GLO01</a><br/> <a href="../../../elicitacao/introspeccao/">INT03</a><br/> <a href="../../../elicitacao/storytelling/">ST04</a></td>
+</tr>
+<tr>
+<td align="center">RF09</td>
+<td align="center">Deve ser possível configurar o tempo de duração da partida e incremento ao iniciar uma partida.</td>
+<td align="center"><a href="../../../elicitacao/entrevista/">ENT01</a><br/> <a href="../../../elicitacao/glossario/">GLO02</a><br/> <a href="../../../elicitacao/storytelling/">ST04</a></td>
+</tr>
+<tr>
+<td align="center">RF10</td>
+<td align="center">Deve ser possível configurar um estilo de jogo para o robô, baseado em jogadores famosos, nas partidas contra o computador.</td>
+<td align="center"><a href="../../../elicitacao/entrevista/">ENT02</a><br/> <a href="../../../elicitacao/storytelling/">ST04</a></td>
+</tr>
+<tr>
+<td align="center">RF11</td>
+<td align="center">Deve ser possível consultar as estatísticas das partidas anteriores</td>
+<td align="center"><a href="../../../elicitacao/storytelling/">ST09</a><br/> <a href="../../../elicitacao/questionario/">Q02</a></td>
+</tr>
+<tr>
+<td align="center">RF12</td>
+<td align="center">Deve ser possível consultar as regras da modalidade de jogo em andamento.</td>
+<td align="center"><a href="../../../elicitacao/glossario/">GLO03</a></td>
+</tr>
+<tr>
+<td align="center">RF13</td>
+<td align="center">Deve ser possível consultar um tutorial de uso do aplicativo</td>
+<td align="center"><a href="../../../elicitacao/introspeccao/">INT08</a></td>
+</tr>
+<tr>
+<td align="center">RF14</td>
+<td align="center">Deve ser possível elaborar tutoriais para outros jogadores</td>
+<td align="center"><a href="../../../elicitacao/storytelling/">ST13</a></td>
+</tr>
+<tr>
+<td align="center">RF15</td>
+<td align="center">Deve ser possível escolher o nível do oponente ao iniciar uma partida contra outro jogador</td>
+<td align="center"><a href="../../../elicitacao/questionario/">Q08</a><br/> <a href="../../../elicitacao/questionario/">Q04</a></td>
+</tr>
+<tr>
+<td align="center">RF16</td>
+<td align="center">Deve ser possível jogar partidas não ranqueadas</td>
+<td align="center"><a href="../../../elicitacao/storytelling/">ST03</a></td>
+</tr>
+<tr>
+<td align="center">RF17</td>
+<td align="center">Deve ser possível jogar partidas online sem criar uma conta</td>
+<td align="center"><a href="../../../elicitacao/questionario/">Q09</a></td>
+</tr>
+<tr>
+<td align="center">RF18</td>
+<td align="center">Deve ser possível jogar uma partida de xadrez contra o computador</td>
+<td align="center"><a href="../../../elicitacao/introspeccao/">INT01</a></td>
+</tr>
+<tr>
+<td align="center">RF19</td>
+<td align="center">Deve ser possível jogar uma partida de xadrez contra outro jogador aleatório ou escolhido.</td>
+<td align="center"><a href="../../../elicitacao/introspeccao/">INT02</a><br/> <a href="../../../elicitacao/storytelling/">ST02</a><br/> <a href="../../../elicitacao/storytelling/">ST05</a></td>
+</tr>
+<tr>
+<td align="center">RF20</td>
+<td align="center">Deve ser possível pausar uma partida contra o computador</td>
+<td align="center"><a href="../../../elicitacao/introspeccao/">INT05</a></td>
+</tr>
+<tr>
+<td align="center">RF21</td>
+<td align="center">Deve ser possível receber notificações sobre torneios ao vivo</td>
+<td align="center"><a href="../../../elicitacao/questionario/">Q03</a></td>
+</tr>
+<tr>
+<td align="center">RF22</td>
+<td align="center">Deve ser possível resolver quebra cabeças elaborados por outros jogadores.</td>
+<td align="center"><a href="../../../elicitacao/glossario/">GLO04</a><br/> <a href="../../../elicitacao/introspeccao/">INT12</a><br/> <a href="../../../elicitacao/storytelling/">ST12</a></td>
+</tr>
+<tr>
+<td align="center">RF23</td>
+<td align="center">Deve ser possível resolver tutoriais elaborados por outros jogadores</td>
+<td align="center"><a href="../../../elicitacao/storytelling/">ST13</a></td>
+</tr>
+<tr>
+<td align="center">RF24</td>
+<td align="center">Deve ser possível trocar mensagens com outros jogadores</td>
+<td align="center"><a href="../../../elicitacao/storytelling/">ST08</a></td>
+</tr>
+<tr>
+<td align="center">RF25</td>
+<td align="center">Deve ser possível visualizar dados sobre os quebra-cabeças concluídos</td>
+<td align="center"><a href="../../../elicitacao/questionario/">Q02</a></td>
+</tr>
+<tr>
+<td align="center">RF26</td>
+<td align="center">Deve ser possível visualizar e filtrar o ranqueamento de jogadores</td>
+<td align="center"><a href="../../../elicitacao/questionario/">Q06</a><br/> <a href="../../../elicitacao/storytelling/">ST10</a></td>
+</tr>
+<tr>
+<td align="center">RF27</td>
+<td align="center">Não deve ser possível pausar uma partida contra outro jogador</td>
+<td align="center"><a href="../../../elicitacao/introspeccao/">INT06</a></td>
+</tr>
+<tr>
+<td align="center">RF28</td>
+<td align="center">Deve ser possível criar quebra cabeça para outros jogadores resolverem.</td>
+<td align="center"><a href="../../../elicitacao/glossario/">GLO04</a><br/> <a href="../../../elicitacao/introspeccao/">INT15</a></td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: center">
+<p> Tabela 1: Requisitos funcionais elicitados (Fonte: autor, 2023).</p>
+</div>
+
+<h2 id="backlog">Backlog</h2>
+<h3 id="temas">Temas</h3>
+<p>Após a etapa de verificação e análise dos requisitos, foi observado que eles poderiam ser organizados em cinco grande temas, que compõem o maior nível de abstração do backlog.</p>
+<ul>
+<li>Partidas</li>
+<li>Tutoriais</li>
+<li>Ranqueamento</li>
+<li>Socialização</li>
+<li>Torneios</li>
+</ul>
+<p>Após a definição dos temas, os requisitos foram especificados em um maior nível de abstração, por meio dos épicos. Os épicos são histórias de usuário que ainda podem ser mais especificadas, e foram escritos utilizando o mesmo padrão do utilizado nas histórias de usuário.</p>
+<h3 id="epicos">Épicos</h3>
+<p>Para diminuir o nível de abstração expresso nos temas, foram registrados os épicos, que são histórias de usuário que ainda podem ser mais especificadas. Para facilitar a leitura da tabela de backlog (Tabela 2), os épicos estão especificados a seguir.</p>
+<h4 id="e01-configuracao-de-partida">E01 - Configuração de partida</h4>
+<p>Eu, como usuário, desejo configurar uma partida antes de iniciá-la para treinar as habilidades específicas.</p>
+<h4 id="e02-partida-contra-o-computador">E02 - Partida contra o computador</h4>
+<p>Eu, como usuário, desejo configurar uma partida contra o computador, para se adequar ao meu estilo de jogo.</p>
+<h4 id="e03-partida-contra-oponente">E03 - Partida contra oponente</h4>
+<p>Eu, como usuário, desejo configurar uma partida contra outro jogador, para se adequar ao meu estilo de jogo</p>
+<h4 id="e04-partidas-casuais">E04 - Partidas casuais</h4>
+<p>Eu, como usuário, desejo jogar partidas casuais para me divertir.</p>
+<h4 id="e05-manual-do-usuario">E05 - Manual do usuário</h4>
+<p>Eu, como usuário, desejo aprender a utilizar o aplicativo, para navegar com mais facilidade.</p>
+<h4 id="e06-estudar-xadrez">E06 - Estudar xadrez</h4>
+<p>Eu, como usuário, desejo aprimorar minhas habilidades no xadrez, para me preparar para as partidas.</p>
+<h4 id="e07-ensinar-xadrez">E07 - Ensinar xadrez</h4>
+<p>Eu, como usuário, desejo ensinar xadrez para outros jogadores, para transmitir o conhecimento.</p>
+<h4 id="e08-estatisticas-de-partidas">E08 - Estatísticas de partidas</h4>
+<p>Eu, como usuário, desejo ter acesso a um feedback sobre o meu desempenho nas partidas de xadrez, para me manter motivado.</p>
+<h4 id="e09-estatisticas-de-quebra-cabecas">E09 - Estatísticas de quebra cabeças</h4>
+<p>Eu, como usuário, desejo ter acesso a um feedback sobre o meu desempenho nos quebra cabeças, para me manter motivado.</p>
+<h4 id="e10-comunicacao">E10 - Comunicação</h4>
+<p>Eu, como usuário, desejo me comunicar com outros jogadores por meio do aplicativo, para conhecer novas pessoas</p>
+<h4 id="e11-torneios">E11 - Torneios</h4>
+<p>Eu, como usuário, desejo participar e assistir a torneios, para me manter atualizado sobre as técnicas de xadrez</p>
+<table>
+    <tr>
+        <th style="text-align: center" colspan=6> Backlog do produto </th>
+    </tr>
+    <tr>
+        <td style="text-align: center"> <b> Tema  </b></td>
+        <td style="text-align: center"> <b> Épico  </b></td>
+        <td style="text-align: center"> <b> História de Usuário (US)  </b></td>
+        <td style="text-align: center"> <b> ID </b></td>
+        <td style="text-align: center"> <b> Prioridade  </b></td>
+        <td style="text-align: center"> <b> Origem  </b></td>
+    </tr>
+    <tr>
+        <!-- Tema  -->
+        <td rowspan=9 style="vertical-align: middle"> Partidas </td>
+        <!-- Épico -->
+        <td rowspan=3 style="vertical-align: middle; text-align: center"> <a href="#e01-configuracao-de-partida">E01</a></td>
+        <!-- Histórias de Usuário (3) -->
+        <td>Eu, como usuário, desejo configurar o tempo de partida e incremento ao iniciar uma partida para adequar ao meu estilo de jogo.</td>
+        <td><a href="../us">US01</a></td>
+        <td>Could</td>
+        <td><a href=#requisitos-elicitados>RF09</td>
+    </tr>
+    <tr>
+        <td>Eu, como usuário, desejo configurar a modalidade e dificuldade do jogo ao iniciar uma partida para não me frustrar com a partida.</td>
+        <td><a href="../us">US02</a></td>
+        <td>Must</td>
+        <td><a href=#requisitos-elicitados>RF08<br> RF07<br> RF15</td>
+    </tr>
+    <tr>
+        <td>Eu, como usuário, desejo escolher jogar contra o computador ou contra um jogador para refletir as minhas necessidades do momento.</td>
+        <td><a href="../us">US03</a></td>
+        <td>Must</td>
+        <td><a href=#requisitos-elicitados>RF18</td>
+    </tr>
+    <tr>
+        <!-- Épico -->
+        <td rowspan=2 style="vertical-align: middle; text-align: center"> <a href=#e02-partida-contra-o-computador>E02</a></td>
+        <!-- Histórias de Usuário (2) -->
+        <td>Eu, como usuário, desejo poder pausar uma partida contra o computador para poder retomá-la depois.</td>
+        <td><a href="../us">US04</a></td>
+        <td>Could</td>
+        <td><a href=#requisitos-elicitados>RF20</td>
+    </tr>
+    <tr>
+        <td>Eu, como usuário, desejo configurar um estilo de jogo para o robô, baseado em jogadores famosos, para me preparar para os campeonatos de xadrez.</td>
+        <td><a href="../us">US05</a></td>
+        <td>Would</td>
+        <td><a href=#requisitos-elicitados>RF10</td>
+    </tr>
+    <tr>
+        <!-- Épico -->
+        <td rowspan=2 style="vertical-align: middle; text-align: center"> <a href=#e03-partida-contra-oponente>E03</a> </td>
+        <!-- Histórias de Usuário (2) -->
+        <td>Eu, como usuário, desejo escolher o meu oponente podendo filtrar por por nome e nível, para não me frustrar com a partida.</td>
+        <td><a href="../us">US06</a></td>
+        <td>Would</td>
+        <td><a href=#requisitos-elicitados>RF15<br/> RF19</td>
+    </tr>
+    <tr>
+        <td>Eu, como usuário, desejo que meu oponente não possa pausar uma partida, para manter o jogo justo.</td>
+        <td><a href="../us">US07</a></td>
+        <td>Must</td>
+        <td><a href=#requisitos-elicitados>RF27</td>
+    </tr>
+    <tr>
+        <!-- Épico -->
+        <td rowspan=2 style="vertical-align: middle; text-align: center"> <a href=#e04-partidas-casuais>E04</a> </td>
+        <!-- Histórias de Usuário (2) -->
+        <td>Eu, como usuário, desejo jogar partidas casuais sem interferir no meu ranqueamento, para não diminuir minha pontuação.</td>
+        <td><a href="../us">US08</a></td>
+        <td>Could</td>
+        <td><a href=#requisitos-elicitados>RF16</td>
+    </tr>
+    <tr>
+        <td>Eu, como usuário, desejo jogar partidas online sem precisar criar uma conta, para me divertir.</td>
+        <td><a href="../us">US09</a></td>
+        <td>Must</td>
+        <td><a href=#requisitos-elicitados>RF17</td>
+    </tr>
+    <tr>
+        <!-- Tema  -->
+        <td rowspan=7 style="vertical-align: middle"> Tutoriais </td>
+        <!-- Épico -->
+        <td rowspan=2 style="vertical-align: middle; text-align: center"> <a href=#e05-manual-do-usuario>E05</a> </td>
+        <!-- Histórias de Usuário (2) -->
+        <td>Eu, como usuário, desejo que um tutorial do aplicativo seja exibido na primeira vez que eu utilizá-lo, para que eu não fique desorientado.</td>
+        <td><a href="../us">US10</a></td>
+        <td>Could</td>
+        <td><a href=#requisitos-elicitados>RF02</td>
+    </tr>
+    <tr>
+        <td>Eu, como usuário, desejo ter acesso à uma seção de tutorial do aplicativo, para me sentir seguro durante momentos de dúvida.</td>
+        <td><a href="../us">US11</a></td>
+        <td>Must</td>
+        <td><a href=#requisitos-elicitados>RF13</td>
+    </tr>
+    <tr>
+        <!-- Épico -->
+        <td rowspan=3 style="vertical-align: middle; text-align: center"> <a href=#e06-estudar-xadrez>E06</a> </td>
+        <!-- Histórias de Usuário (3) -->
+        <td>Eu, como usuário, desejo aprender movimentos de xadrez por meio de tutoriais, para melhorar meu desempenho.</td>
+        <td><a href="../us">US12</a></td>
+        <td>Must</td>
+        <td><a href=#requisitos-elicitados>RF05<br/> RF23</td>
+    </tr>
+    <tr>
+        <td>Eu, como usuário, desejo aprimorar movimentos de xadrez por meio de quebra cabeças, para me sentir desafiado.</td>
+        <td><a href="../us">US13</a></td>
+        <td>Could</td>
+        <td><a href=#requisitos-elicitados>RF22</td>
+    </tr>
+    <tr>
+        <td>Eu, como usuário, desejo ter acesso às regras utilizadas na modalidade de xadrez durante a partida, para não me sentir desorientado.</td>
+        <td><a href="../us">US14</a></td>
+        <td>Could</td>
+        <td><a href=#requisitos-elicitados>RF12</td>
+    </tr>
+    <tr>
+        <!-- Épico -->
+        <td rowspan=2 style="vertical-align: middle; text-align: center"> <a href=#e07-ensinar-xadrez>E07</a> </td>
+        <!-- Histórias de Usuário (2) -->
+        <td>Eu, como usuário, desejo cadastrar tutoriais para outros usuários, para auxiliar outras pessoas.</td>
+        <td><a href="../us">US15</a></td>
+        <td>Would</td>
+        <td><a href=#requisitos-elicitados>RF14</td>
+    </tr>
+    <tr>
+        <td>Eu, como usuário, desejo criar quebra cabeças para outros usuários resolverem, para desafiar outras pessoas.</td>
+        <td><a href="../us">US16</a></td>
+        <td>Would</td>
+        <td><a href=#requisitos-elicitados>RF28</td>
+    </tr>
+    <tr>
+        <!-- Tema  -->
+        <td rowspan=4 style="vertical-align: middle"> Ranqueamento </td>
+        <!-- Épico -->
+        <td rowspan=3 style="vertical-align: middle; text-align: center"> <a href=#e08-estatisticas-de-partidas>E08</a> </td>
+        <!-- Histórias de Usuário (3) -->
+        <td>Eu, como usuário, desejo participar de um sistema de ranqueamento, para me sentir motivado.</td>
+        <td><a href="../us">US17</a></td>
+        <td>Could</td>
+        <td><a href=#requisitos-elicitados>RF01<br/> RF03</td>
+    </tr>
+    <tr>
+        <td>Eu, como usuário, desejo consultar as estatísticas das minhas partidas, para me preparar melhor.</td>
+        <td><a href="../us">US18</a></td>
+        <td>Could</td>
+        <td><a href=#requisitos-elicitados>RF11</td>
+    </tr>
+    <tr>
+        <td>Eu, como usuário, desejo visualizar e filtrar o ranqueamento dos jogadores, para me manter motivado.</td>
+        <td><a href="../us">US19</a></td>
+        <td>Could</td>
+        <td><a href=#requisitos-elicitados>RF26</td>
+    </tr>
+    <tr>
+        <!-- Épico -->
+        <td style="vertical-align: middle; text-align: center"> <a href=#e09-estatisticas-de-quebra-cabecas>E09</a>  </td>
+        <!-- Histórias de Usuário (1) -->
+        <td>Eu, como usuário, desejo consultar as estatísticas dos quebra cabeças resolvidos, para me preparar melhor.</td>
+        <td><a href="../us">US20</a></td>
+        <td>Would</td>
+        <td><a href=#requisitos-elicitados>RF25</td>
+    </tr>
+    <tr>
+        <!-- Tema  -->
+        <td rowspan=2 style="vertical-align: middle"> Socialização </td>
+        <!-- Épico -->
+        <td rowspan=2 style="vertical-align: middle; text-align: center"> <a href=#e10-comunicacao>E10</a> </td>
+        <!-- Histórias de Usuário (2) -->
+        <td>Eu, como usuário, desejo adicionar outros jogadores como contatos, para fazer novos amigos.</td>
+        <td><a href="../us">US21</a></td>
+        <td>Would</td>
+        <td><a href=#requisitos-elicitados>RF04</td>
+    </tr>
+    <tr>
+        <td>Eu, como usuário, desejo trocar mensagens com outros jogadores, para fortalecer minhas amizades.</td>
+        <td><a href="../us">US22</a></td>
+        <td>Would</td>
+        <td><a href=#requisitos-elicitados>RF24</td>
+    </tr>
+    <tr>
+        <!-- Tema  -->
+        <td rowspan=2 style="vertical-align: middle"> Torneios </td>
+        <!-- Épico -->
+        <td rowspan=3 style="vertical-align: middle; text-align: center"> <a href=#e11-torneios>E11</a> </td>
+        <!-- Histórias de Usuário (2) -->
+        <td>Eu, como usuário, desejo assistir partidas de outros jogadores, para observar as técnicas usadas.</td>
+        <td><a href="../us">US23</a></td>
+        <td>Must</td>
+        <td><a href=#requisitos-elicitados>RF06</td>
+    </tr>
+    <tr>
+        <td>Eu, como usuário, desejo ser notificado quando partidas de outros jogadores iniciarem, para não perder partidas importantes para mim.</td>
+        <td><a href="../us">US24</a></td>
+        <td>Would</td>
+        <td><a href=#requisitos-elicitados>RF21</td>
+    </tr>
+
+</table>
+
+<div style="text-align: center">
+<p>
+Tabela 2: Backlog do produto (Fonte: autor, 2023).
+</p>
+</div>
+
+<h2 id="bibliografia">Bibliografia</h2>
+<p>[1] WIEGERS K., BEATTY J. Software Requirements, 3ª edição.</p>
+<p>[2] VAZQUEZ C., SIMÕES G. Engenharia de Requisitos, 1ª edição.</p>
+<h2 id="historico-de-versao">Histórico de Versão</h2>
+<table>
+<thead>
+<tr>
+<th>Versão</th>
+<th>Data</th>
+<th>Descrição</th>
+<th>Autor(es)</th>
+<th>Revisor(es)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>1.0</code></td>
+<td>03/01/2023</td>
+<td>Criação do documento</td>
+<td>Nicolas Souza</td>
+<td>Lucas Macedo</td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      Copyright &copy; 2022 Lichess
+    </div>
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    <script id="__config" type="application/json">{"base": "../../..", "features": ["tabs", "navigation.section"], "search": "../../../assets/javascripts/workers/search.e5c33ebb.min.js", "translations": {"clipboard.copied": "Copiado para \u00e1rea de transfer\u00eancia", "clipboard.copy": "Copiar para \u00e1rea de transfer\u00eancia", "search.result.more.one": "Mais 1 nesta p\u00e1gina", "search.result.more.other": "Mais # nesta p\u00e1gina", "search.result.none": "Nenhum resultado encontrado", "search.result.one": "1 resultado encontrado", "search.result.other": "# resultados encontrados", "search.result.placeholder": "Digite para iniciar a busca", "search.result.term.missing": "Ausente", "select.version": "Selecione a vers\u00e3o"}}</script>
+    
+    
+      <script src="../../../assets/javascripts/bundle.ba449ae6.min.js"></script>
+      
+    
+  </body>
+</html>

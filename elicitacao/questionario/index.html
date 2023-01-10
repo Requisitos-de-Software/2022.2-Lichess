@@ -1,0 +1,2170 @@
+
+<!doctype html>
+<html lang="pt" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../introspeccao/">
+      
+      
+        <link rel="next" href="../personas/">
+      
+      <link rel="icon" href="../../img/logo.png">
+      <meta name="generator" content="mkdocs-1.4.2, mkdocs-material-9.0.3">
+    
+    
+      
+        <title>Questionário - Lichess</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.6b71719e.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.2505c338.min.css">
+      
+      
+
+    
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter:300,300i,400,400i,700,700i%7Csans-serif:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Inter";--md-code-font:"sans-serif"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="grey" data-md-color-accent="">
+  
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&"object"==typeof palette.color)for(var key of Object.keys(palette.color))document.body.setAttribute("data-md-color-"+key,palette.color[key])</script>
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#questionario" class="md-skip">
+          Ir para o conteúdo
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Cabeçalho">
+    <a href="../.." title="Lichess" class="md-header__button md-logo" aria-label="Lichess" data-md-component="logo">
+      
+  <img src="../../img/logo.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Lichess
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Questionário
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      <form class="md-header__option" data-md-component="palette">
+        
+          
+          <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="grey" data-md-color-accent=""  aria-label="Tema escuro"  type="radio" name="__palette" id="__palette_1">
+          
+            <label class="md-header__button md-icon" title="Tema escuro" for="__palette_2" hidden>
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12 20 8.69Z"/></svg>
+            </label>
+          
+        
+          
+          <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="grey" data-md-color-accent=""  aria-label="Tema claro"  type="radio" name="__palette" id="__palette_2">
+          
+            <label class="md-header__button md-icon" title="Tema claro" for="__palette_1" hidden>
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18c-.89 0-1.74-.2-2.5-.55C11.56 16.5 13 14.42 13 12c0-2.42-1.44-4.5-3.5-5.45C10.26 6.2 11.11 6 12 6a6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12 20 8.69Z"/></svg>
+            </label>
+          
+        
+      </form>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Buscar" placeholder="Buscar" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Pesquisar">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Limpar" aria-label="Limpar" tabindex="-1">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Inicializando a pesquisa
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/Requisitos-de-Software/2022.2-Lichess" title="Ir ao repositório" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.2.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    2022.2-Lichess
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navegação" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Lichess" class="md-nav__button md-logo" aria-label="Lichess" data-md-component="logo">
+      
+  <img src="../../img/logo.png" alt="logo">
+
+    </a>
+    Lichess
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/Requisitos-de-Software/2022.2-Lichess" title="Ir ao repositório" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.2.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    2022.2-Lichess
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        Sobre o Projeto
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " data-md-toggle="__nav_2" type="checkbox" id="__nav_2" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_2" tabindex="0" aria-expanded="false">
+          Atas
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Atas" data-md-level="1">
+        <label class="md-nav__title" for="__nav_2">
+          <span class="md-nav__icon md-icon"></span>
+          Atas
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/ata_01_11/" class="md-nav__link">
+        01/11/2022
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/ata_10_11/" class="md-nav__link">
+        10/11/2022
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/ata_15_11/" class="md-nav__link">
+        15/11/2022
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/ata_22_11/" class="md-nav__link">
+        22/11/2022
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/ata_06_12/" class="md-nav__link">
+        06/12/2022
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/ata_13_12/" class="md-nav__link">
+        13/12/2022
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/ata_03_01_2023/" class="md-nav__link">
+        03/01/2023
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " data-md-toggle="__nav_3" type="checkbox" id="__nav_3" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_3" tabindex="0" aria-expanded="false">
+          Planejamento
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Planejamento" data-md-level="1">
+        <label class="md-nav__title" for="__nav_3">
+          <span class="md-nav__icon md-icon"></span>
+          Planejamento
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/aplicativo_selecionado/" class="md-nav__link">
+        Aplicativo Selecionado
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/ferramentas/" class="md-nav__link">
+        Ferramentas
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/cronograma/" class="md-nav__link">
+        Cronograma
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/cronograma_realizado/" class="md-nav__link">
+        Cronograma Realizado
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/metodologias/" class="md-nav__link">
+        Metodologias
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " data-md-toggle="__nav_4" type="checkbox" id="__nav_4" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_4" tabindex="0" aria-expanded="false">
+          Pré-Rastreabilidade
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Pré-Rastreabilidade" data-md-level="1">
+        <label class="md-nav__title" for="__nav_4">
+          <span class="md-nav__icon md-icon"></span>
+          Pré-Rastreabilidade
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../prerastreabilidade/richpicture/" class="md-nav__link">
+        Rich-Picture
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+    
+  
+  
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " data-md-toggle="__nav_5" type="checkbox" id="__nav_5" checked>
+      
+      
+      
+        <label class="md-nav__link" for="__nav_5" tabindex="0" aria-expanded="true">
+          Elicitacão
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Elicitacão" data-md-level="1">
+        <label class="md-nav__title" for="__nav_5">
+          <span class="md-nav__icon md-icon"></span>
+          Elicitacão
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../tecnicas_planejadas/" class="md-nav__link">
+        Técnicas Planejadas
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../brainstorming/" class="md-nav__link">
+        Brainstorming
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../glossario/" class="md-nav__link">
+        Glossário
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../introspeccao/" class="md-nav__link">
+        Introspecção
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          Questionário
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        Questionário
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Índice">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Índice
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#introducao" class="md-nav__link">
+    Introdução
+  </a>
+  
+    <nav class="md-nav" aria-label="Introdução">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#vantagens" class="md-nav__link">
+    Vantagens
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#desvantagens" class="md-nav__link">
+    Desvantagens
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#resultados-coletados" class="md-nav__link">
+    Resultados coletados
+  </a>
+  
+    <nav class="md-nav" aria-label="Resultados coletados">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#questao-1" class="md-nav__link">
+    Questão 1
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#questao-2" class="md-nav__link">
+    Questão 2
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#questao-3" class="md-nav__link">
+    Questão 3
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#questao-4" class="md-nav__link">
+    Questão 4
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#questao-5" class="md-nav__link">
+    Questão 5
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#questao-6" class="md-nav__link">
+    Questão 6
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#questao-7" class="md-nav__link">
+    Questão 7
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#questao-8" class="md-nav__link">
+    Questão 8
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#questao-9" class="md-nav__link">
+    Questão 9
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#questao-10" class="md-nav__link">
+    Questão 10
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#questao-11" class="md-nav__link">
+    Questão 11
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#questao-12" class="md-nav__link">
+    Questão 12
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#questao-13" class="md-nav__link">
+    Questão 13
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#analise-dos-resultados" class="md-nav__link">
+    Análise dos resultados
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#requisitos-elicitados" class="md-nav__link">
+    Requisitos Elicitados
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#bibliografia" class="md-nav__link">
+    Bibliografia
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#historico-de-versao" class="md-nav__link">
+    Histórico de Versão
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../personas/" class="md-nav__link">
+        Personas
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../storytelling/" class="md-nav__link">
+        Storytelling
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../entrevista/" class="md-nav__link">
+        Entrevista
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../priorizacao/" class="md-nav__link">
+        Priorização
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " data-md-toggle="__nav_6" type="checkbox" id="__nav_6" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_6" tabindex="0" aria-expanded="false">
+          Modelagem
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Modelagem" data-md-level="1">
+        <label class="md-nav__title" for="__nav_6">
+          <span class="md-nav__icon md-icon"></span>
+          Modelagem
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modelagem/lexico/" class="md-nav__link">
+        Léxico
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modelagem/nfr_framework/" class="md-nav__link">
+        NFR
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modelagem/casos_de_uso/" class="md-nav__link">
+        Casos de uso
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modelagem/cenarios/" class="md-nav__link">
+        Cenários
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modelagem/especificacao_suplementar/" class="md-nav__link">
+        Especificação Suplementar
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " data-md-toggle="__nav_6_6" type="checkbox" id="__nav_6_6" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_6_6" tabindex="0" aria-expanded="false">
+          Modelagem Ágil
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Modelagem Ágil" data-md-level="2">
+        <label class="md-nav__title" for="__nav_6_6">
+          <span class="md-nav__icon md-icon"></span>
+          Modelagem Ágil
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modelagem/agil/backlog/" class="md-nav__link">
+        Backlog
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modelagem/agil/us/" class="md-nav__link">
+        Histórias de Usuário
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " data-md-toggle="__nav_7" type="checkbox" id="__nav_7" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_7" tabindex="0" aria-expanded="false">
+          Análise
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Análise" data-md-level="1">
+        <label class="md-nav__title" for="__nav_7">
+          <span class="md-nav__icon md-icon"></span>
+          Análise
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " data-md-toggle="__nav_7_1" type="checkbox" id="__nav_7_1" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_7_1" tabindex="0" aria-expanded="false">
+          Grupo 3 'MEI - Microempreendedor Individual'
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Grupo 3 'MEI - Microempreendedor Individual'" data-md-level="2">
+        <label class="md-nav__title" for="__nav_7_1">
+          <span class="md-nav__icon md-icon"></span>
+          Grupo 3 'MEI - Microempreendedor Individual'
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " data-md-toggle="__nav_7_1_1" type="checkbox" id="__nav_7_1_1" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_7_1_1" tabindex="0" aria-expanded="false">
+          Verificação
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Verificação" data-md-level="3">
+        <label class="md-nav__title" for="__nav_7_1_1">
+          <span class="md-nav__icon md-icon"></span>
+          Verificação
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise-grupo3/verificacao/nfr-framework/" class="md-nav__link">
+        NFR Framework
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise-grupo3/verificacao/casos-de-uso/" class="md-nav__link">
+        Casos de Uso
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise-grupo3/verificacao/brainstorm/" class="md-nav__link">
+        Brainstorm
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise-grupo3/verificacao/backlog/" class="md-nav__link">
+        Backlog
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise-grupo3/verificacao/lexico/" class="md-nav__link">
+        Léxico
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise-grupo3/verificacao/historias-de-usuario/" class="md-nav__link">
+        Histórias de Usuário
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise-grupo3/verificacao/tecnicas-de-elicitacao/" class="md-nav__link">
+        Técnicas de elicitação
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise-grupo3/verificacao/priorizacao/" class="md-nav__link">
+        Priorização
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise-grupo3/verificacao/especificacao_sup/" class="md-nav__link">
+        Especificação Suplementar
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise-grupo3/verificacao/cenarios/" class="md-nav__link">
+        Cenários
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise-grupo3/verificacao/entrevista/" class="md-nav__link">
+        Entrevista
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise-grupo3/verificacao/perfil-usuario/" class="md-nav__link">
+        Perfil do Usuário
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise-grupo3/verificacao/persona/" class="md-nav__link">
+        Personas
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise-grupo3/verificacao/introspeccao/" class="md-nav__link">
+        Introspecção
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " data-md-toggle="__nav_7_1_2" type="checkbox" id="__nav_7_1_2" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_7_1_2" tabindex="0" aria-expanded="false">
+          Validação
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Validação" data-md-level="3">
+        <label class="md-nav__title" for="__nav_7_1_2">
+          <span class="md-nav__icon md-icon"></span>
+          Validação
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise-grupo3/validacao/comunicacao/" class="md-nav__link">
+        Comunicação Informal
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresentacoes/" class="md-nav__link">
+        Apresentações
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Índice">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Índice
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#introducao" class="md-nav__link">
+    Introdução
+  </a>
+  
+    <nav class="md-nav" aria-label="Introdução">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#vantagens" class="md-nav__link">
+    Vantagens
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#desvantagens" class="md-nav__link">
+    Desvantagens
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#resultados-coletados" class="md-nav__link">
+    Resultados coletados
+  </a>
+  
+    <nav class="md-nav" aria-label="Resultados coletados">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#questao-1" class="md-nav__link">
+    Questão 1
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#questao-2" class="md-nav__link">
+    Questão 2
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#questao-3" class="md-nav__link">
+    Questão 3
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#questao-4" class="md-nav__link">
+    Questão 4
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#questao-5" class="md-nav__link">
+    Questão 5
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#questao-6" class="md-nav__link">
+    Questão 6
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#questao-7" class="md-nav__link">
+    Questão 7
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#questao-8" class="md-nav__link">
+    Questão 8
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#questao-9" class="md-nav__link">
+    Questão 9
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#questao-10" class="md-nav__link">
+    Questão 10
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#questao-11" class="md-nav__link">
+    Questão 11
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#questao-12" class="md-nav__link">
+    Questão 12
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#questao-13" class="md-nav__link">
+    Questão 13
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#analise-dos-resultados" class="md-nav__link">
+    Análise dos resultados
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#requisitos-elicitados" class="md-nav__link">
+    Requisitos Elicitados
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#bibliografia" class="md-nav__link">
+    Bibliografia
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#historico-de-versao" class="md-nav__link">
+    Histórico de Versão
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+  
+  
+
+
+
+<h1 id="questionario">Questionário</h1>
+<h2 id="introducao">Introdução</h2>
+<p>Formulário com o objetivo de colher informações sobre o usuário e sua experiência em determinado contexto do seu cliente. Sua distinção de uma entrevista, é a redução de custo e possibilidade de realização para diversas regiões simultaneamente.</p>
+<p>Durante a construção do formulário deve-se ter a noção do público-alvo, caso não esteja bem definido generalize. Evite restrições de público-alvo sem um bom porquê.</p>
+<h3 id="vantagens">Vantagens</h3>
+<ul>
+<li>Técnica relativamente rápida e barata de ser aplicada.</li>
+<li>Obtém de maneira mais fácil informações de um público numeroso.</li>
+<li>Em geral não demanda tanto tempo dos respondentes como em uma entrevista.</li>
+<li>Muito útil quando o público-alvo está disperso geograficamente.</li>
+<li>Quando aplicado a uma amostra representativa das partes interessadas, permite representar as opiniões de toda a população.</li>
+<li>As questões com respostas limitadas são muito efetivas para a geração de dados quantitativos para análise estatística.</li>
+</ul>
+<h3 id="desvantagens">Desvantagens</h3>
+<ul>
+<li>Se a taxa de resposta for baixa, o resultado pode não ser estatisticamente significativo.</li>
+<li>Uma falha na elaboração do questionário pode levar a respostas em branco ou incorretas, ou também gerar interpretações distintas da mesma pergunta, o que pode levar a erros nos requisitos.</li>
+<li>O uso de questões com respostas ilimitadas demanda mais esforço de análise das respostas, se o público for numeroso.</li>
+</ul>
+<h2 id="resultados-coletados">Resultados coletados</h2>
+<p>A seguir iremos mostrar os resultados coletados para cada questão do formulário. O formulário conta com 52 respostas, antes da coleta os usuários aceitaram o nosso <a href="https://docs.google.com/document/d/1mpv84VxXb-ld8qBgqgDsLqtA2fs2hG_L8Ta4iR4A4lI/edit?usp=sharing">termo consentimento</a>
+A fim de conhecer apenas o público que já utiliza o aplicativo foi estabelecida uma pesquisa de filtragem. Assim das 52 respostas coletadas apenas 28 usam o LiChess seja via site ou aplicativo.
+Respostas foram coletadas entre as datas <strong>20/11/2022</strong> e <strong>24/11/2022</strong>.</p>
+<h3 id="questao-1">Questão 1</h3>
+<p><img alt="Image do resultado da questão 1" src="../imgs/perguntas_questionario/pergunta-1.png" /></p>
+<div style="text-align: center">
+<p>
+Figura 1: Pergunta 1 (Fonte: autor, 2022).
+</p>
+</div>
+
+<h3 id="questao-2">Questão 2</h3>
+<p><img alt="Image do resultado da questão 2" src="../imgs/perguntas_questionario/pergunta-2.png" /></p>
+<div style="text-align: center">
+<p>
+Figura 2: Pergunta 2 (Fonte: autor, 2022).
+</p>
+</div>
+
+<h3 id="questao-3">Questão 3</h3>
+<p>Na Tabela Respostas Pergunta 3, estão listadas as resposta diretas do nosso usuário, sem edição e/ou correção ortográfica.</p>
+<table>
+<thead>
+<tr>
+<th align="center"><strong>Descreva um dia agradável para você</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">Um dia que já fiz todas minhas responsabilidades, sai com meus amigos d tarde e d noite consigo jogar alguma coisa (muitas vezes xadrez).</td>
+</tr>
+<tr>
+<td align="center">Em que tudo da certo e eu consigo fazer as coisas no horário certo e da forma mais maneira</td>
+</tr>
+<tr>
+<td align="center">Um dia em que eu possa realizar minhas responsabilidades e ter tempo satisfatório pra lazer e descanso. Mas também pode ser um dia com muitas e diferentes responsabilidades contanto que eu consiga fazer todas e consiga ter um bom desempenho nelas.</td>
+</tr>
+<tr>
+<td align="center">Acordar sem sono kkk tomar um café, não atrasar pra pegar o ônibus, ir lendo ou ouvindo música pelo celular até chegar na faculdade, ter aulas de manhã e de tarde de assuntos que gosto, voltar pra casa, terminar exercícios e ficar jogando no computador até ir dormir.</td>
+</tr>
+<tr>
+<td align="center">Com tempo para hobbies e ócio</td>
+</tr>
+<tr>
+<td align="center">Um dia com: sono satisfatório, interação social, exercício físico e realização das tarefas.</td>
+</tr>
+<tr>
+<td align="center">Um dia sem trabalho e cobrança da faculdade.</td>
+</tr>
+<tr>
+<td align="center">Um dia sem preocupações</td>
+</tr>
+<tr>
+<td align="center">Um dia agradável consiste em eu conseguir realizar minha rotina de estudos com um bom desempenho</td>
+</tr>
+<tr>
+<td align="center">Dias onde eu possa fazer as coisas que eu tenha vontade.</td>
+</tr>
+<tr>
+<td align="center">Eu acordo, estudo, como, dou aula, estudo mais um pouco e vou dormir.</td>
+</tr>
+<tr>
+<td align="center">Depois das 17h quando chego do trabalho</td>
+</tr>
+<tr>
+<td align="center">Um dia em que eu consiga cumprir com minhas obrigações com tranquilidade e aproveitar meus hobbies ao fim do dia.</td>
+</tr>
+<tr>
+<td align="center">Sair com os amigos para beber</td>
+</tr>
+<tr>
+<td align="center">Acordar às 10h, amassar meu doguinho num abraço e jogar algo no computador.</td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: center">
+<p>
+Tabela 1: Respostas da pergunta 3. (Fonte: autor, 2022).
+</p>
+</div>
+
+<h3 id="questao-4">Questão 4</h3>
+<p>Na Tabela Respostas Pergunta 4, estão listadas as resposta diretas do nosso usuário, sem edição e/ou correção ortográfica.</p>
+<table>
+<thead>
+<tr>
+<th align="center">Quais jogos de tabuleiro você mais gosta?</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">Xadrez</td>
+</tr>
+<tr>
+<td align="center">Gosto de xadrez, war e interpol. Entre outros</td>
+</tr>
+<tr>
+<td align="center">Xadrez, Puerto rico, the resistance</td>
+</tr>
+<tr>
+<td align="center">Xadrez, perfil, war, monopoly,</td>
+</tr>
+<tr>
+<td align="center">Dungeons&amp;Dragons, Xadrez, Munchkin, Catan/War, e alguns de baralho.</td>
+</tr>
+<tr>
+<td align="center">xadrez e damas</td>
+</tr>
+<tr>
+<td align="center">Xadrez, Splendor, Puerto Rico, Go e Fanorona</td>
+</tr>
+<tr>
+<td align="center">Xadrez, war, ticket to ride, coupe, dixit</td>
+</tr>
+<tr>
+<td align="center">Catan, Quest</td>
+</tr>
+<tr>
+<td align="center">Xadrez, war, zombicide</td>
+</tr>
+<tr>
+<td align="center">Ticket to ride</td>
+</tr>
+<tr>
+<td align="center">Xadrez e war</td>
+</tr>
+<tr>
+<td align="center">Xadrez, damas</td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: center">
+<p>
+Tabela 2: Respostas da pergunta 4. (Fonte: autor, 2022).
+</p>
+</div>
+
+<h3 id="questao-5">Questão 5</h3>
+<p><img alt="Image do resultado da questão 5" src="../imgs/perguntas_questionario/pergunta-5.png" /></p>
+<div style="text-align: center">
+<p>
+Figura 3: Pergunta 5 (Fonte: autor, 2022).
+</p>
+</div>
+
+<h3 id="questao-6">Questão 6</h3>
+<p><img alt="Image do resultado da questão 6" src="../imgs/perguntas_questionario/pergunta-6.png" /></p>
+<div style="text-align: center">
+<p>
+Figura 6: Pergunta 6 (Fonte: autor, 2022).
+</p>
+</div>
+
+<h3 id="questao-7">Questão 7</h3>
+<table>
+<thead>
+<tr>
+<th align="center">Qual a frequência que você joga LiChess?</th>
+<th align="center">Votos</th>
+<th align="center">Porcentagem</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">Mais de uma vez por dia</td>
+<td align="center">1</td>
+<td align="center">3,6%</td>
+</tr>
+<tr>
+<td align="center">1 vez por dia</td>
+<td align="center">9</td>
+<td align="center">32%</td>
+</tr>
+<tr>
+<td align="center">1 vez por semana</td>
+<td align="center">5</td>
+<td align="center">18%</td>
+</tr>
+<tr>
+<td align="center">2 vez por semana</td>
+<td align="center">3</td>
+<td align="center">10,7%</td>
+</tr>
+<tr>
+<td align="center">3 vez por semana</td>
+<td align="center">2</td>
+<td align="center">7,1%</td>
+</tr>
+<tr>
+<td align="center">1 vez por mês</td>
+<td align="center">2</td>
+<td align="center">7,1%</td>
+</tr>
+<tr>
+<td align="center">1 vez a cada 2 meses</td>
+<td align="center">2</td>
+<td align="center">7,1%</td>
+</tr>
+<tr>
+<td align="center">Outros</td>
+<td align="center">4</td>
+<td align="center">14,3%</td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: center">
+<p>
+Tabela 3: Respostas da pergunta 7. (Fonte: autor, 2022).
+</p>
+</div>
+
+<h3 id="questao-8">Questão 8</h3>
+<p><img alt="Image do resultado da questão 8" src="../imgs/perguntas_questionario/pergunta-8.png" /></p>
+<div style="text-align: center">
+<p>
+Figura 4: Pergunta 8 (Fonte: autor, 2022).
+</p>
+</div>
+
+<h3 id="questao-9">Questão 9</h3>
+<table>
+<thead>
+<tr>
+<th align="center">Qual seu tempo médio de uso do LiChess antes de ficar cansado?</th>
+<th align="center">Votos</th>
+<th align="center">Porcentagem</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">Até 30 minutos</td>
+<td align="center">5</td>
+<td align="center">26,3%</td>
+</tr>
+<tr>
+<td align="center">Entre 30 e 60 minutos</td>
+<td align="center">4</td>
+<td align="center">21,05%</td>
+</tr>
+<tr>
+<td align="center">Entre 1 e 2 horas</td>
+<td align="center">4</td>
+<td align="center">21,05%</td>
+</tr>
+<tr>
+<td align="center">Entre 2 e 3 horas</td>
+<td align="center">2</td>
+<td align="center">10,55%</td>
+</tr>
+<tr>
+<td align="center">Mais de 3 horas</td>
+<td align="center">4</td>
+<td align="center">21,05%</td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: center">
+<p>
+Tabela 4: Respostas da pergunta 9. (Fonte: autor, 2022).
+</p>
+</div>
+
+<h3 id="questao-10">Questão 10</h3>
+<p><img alt="Image do resultado da questão 10" src="../imgs/perguntas_questionario/pergunta-10.png" /></p>
+<div style="text-align: center">
+<p>
+Figura 5: Pergunta 10 (Fonte: autor, 2022).
+</p>
+</div>
+
+<h3 id="questao-11">Questão 11</h3>
+<p><img alt="Image do resultado da questão 11" src="../imgs/perguntas_questionario/pergunta-11.png" /></p>
+<div style="text-align: center">
+<p>
+Figura 6: Pergunta 11 (Fonte: autor, 2022).
+</p>
+</div>
+
+<h3 id="questao-12">Questão 12</h3>
+<p><img alt="Image do resultado da questão 12" src="../imgs/perguntas_questionario/pergunta-12.png" /></p>
+<div style="text-align: center">
+<p>
+Figura 7: Pergunta 12 (Fonte: autor, 2022).
+</p>
+</div>
+
+<h3 id="questao-13">Questão 13</h3>
+<table>
+<thead>
+<tr>
+<th align="center">Você tem algum feedback sobre como site Lichess pode dar uma experiência melhor para o usuário?</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">Não</td>
+</tr>
+<tr>
+<td align="center">Acho que a interface poderia ser mas clean</td>
+</tr>
+<tr>
+<td align="center">Acho que torneios online seria bem legal</td>
+</tr>
+<tr>
+<td align="center">O app mobile não possui puzzle streak.</td>
+</tr>
+<tr>
+<td align="center">melhorias visuais</td>
+</tr>
+<tr>
+<td align="center">Maior facilidade para encontrar partidas ao vivo de torneios</td>
+</tr>
+<tr>
+<td align="center">Acho q o principal é rating q é meio off, mas ai precisa ter uma comunidade mais ativa o que n da pra resolver facilmente. Fora isso a interface é um pouco confusa mas dps vc pega o jeito</td>
+</tr>
+<tr>
+<td align="center">Eu gosto bastante já</td>
+</tr>
+<tr>
+<td align="center">Acho a criação de torneios uma ferramenta bem interessante, mas ainda não acho tão intuitiva.</td>
+</tr>
+<tr>
+<td align="center">Deixar as opções um pouco mais visíveis, as configurações e coisas parecidas são em botões bem pequenos. Mas depois de achar, eh super tranquilo de usar.</td>
+</tr>
+<tr>
+<td align="center">não tenho</td>
+</tr>
+<tr>
+<td align="center">Não sei</td>
+</tr>
+<tr>
+<td align="center">Eu acho o app muito bon</td>
+</tr>
+<tr>
+<td align="center">O site deveria reavaliar quantos pontos um jogador ganha ao vencer um oponente nas primeiras partidas provisórias da conta. Muitas vezes possuem um rating mais alto do que mostra. Também poderiam tornar a página de "treinadores de xadrez" em algo acessível para jogadores não titulados</td>
+</tr>
+<tr>
+<td align="center">Gosto de fazer analise dos jogos pelo Lichess</td>
+</tr>
+<tr>
+<td align="center">A única coisa que me frustra um pouco no Lichess é o matchmaking, que às vezes falha e coloca adversários muito fáceis ou muito difíceis.</td>
+</tr>
+<tr>
+<td align="center">Aperfeiçoamento de anticheats para a plataforma</td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: center">
+<p>
+Tabela 5: Respostas Pergunta 3. (Fonte: autor, 2022).
+</p>
+</div>
+
+<h2 id="analise-dos-resultados">Análise dos resultados</h2>
+<p>Através do questionário é possível identificar os perfis de usuário do LiChess.
+Na pesquisa executada mais da metade de usuários são jovens na faixa inicial dos vinte anos. Além disso, possuem um alto engajamento em dispositivos eletrônicos e tem um comportamento mais introspectivo.</p>
+<p>Foi possível perceber que os usuários em sua maioria jogam de forma online e tem pouco senso de comunidade, dessa forma elementos como comunidade e possibilidade de assistir jogos é pouco utilizada.</p>
+<p>A interface do Lichess possui alta densidade de itens sem reforço ou incetivo para sua utilização. Dessa forma, o usuário visualiza muitas informações por acesso o que pode influenciar em menores tempos de sessão.</p>
+<h2 id="requisitos-elicitados">Requisitos Elicitados</h2>
+<table>
+<thead>
+<tr>
+<th align="center">Identificador</th>
+<th align="center">Requisito</th>
+<th align="center">Tipo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">Q01</td>
+<td align="center">Aspecto visual do aplicativo deve ser mais minimalista</td>
+<td align="center">RNF</td>
+</tr>
+<tr>
+<td align="center">Q02</td>
+<td align="center">Aplicativo deve dar feedbacks sobre sequências de puzzle resolvidos</td>
+<td align="center">RF</td>
+</tr>
+<tr>
+<td align="center">Q03</td>
+<td align="center">Aplicativo deve enviar notificações push sobre torneios ao vivo para usuários que aceitaram essa opção</td>
+<td align="center">RF</td>
+</tr>
+<tr>
+<td align="center">Q04</td>
+<td align="center">Usuários novos devem ter um número determinado de partidas com recompensa e dificuldade menores</td>
+<td align="center">RF</td>
+</tr>
+<tr>
+<td align="center">Q05</td>
+<td align="center">Aplicativo deve ter contra medidas a fim de evitar trapaças e sistemas que forneçam suporte externo ao usuário</td>
+<td align="center">RNF</td>
+</tr>
+<tr>
+<td align="center">Q06</td>
+<td align="center">Tabela de líderes em comunidade deve possuir filtros</td>
+<td align="center">RF</td>
+</tr>
+<tr>
+<td align="center">Q07</td>
+<td align="center">Aplicativo deve possuir avaliação nas lojas de aplicativo maior que 4</td>
+<td align="center">RNF</td>
+</tr>
+<tr>
+<td align="center">Q08</td>
+<td align="center">Usuários devem ser pareados em partidas online com usuários de mesma ou similar habilidade</td>
+<td align="center">RF</td>
+</tr>
+<tr>
+<td align="center">Q09</td>
+<td align="center">Usuários não precisam de conta para jogar partidas online</td>
+<td align="center">RF</td>
+</tr>
+<tr>
+<td align="center">Q10</td>
+<td align="center">Usuário deve ter acesso a onboarding quando usa o aplicativo pela primeira vez</td>
+<td align="center">RF</td>
+</tr>
+<tr>
+<td align="center">Q11</td>
+<td align="center">Aplicativo deve estimular a competitividade</td>
+<td align="center">RNF</td>
+</tr>
+<tr>
+<td align="center">Q12</td>
+<td align="center">O aplicativo deve funcionar 24/7</td>
+<td align="center">RNF</td>
+</tr>
+<tr>
+<td align="center">Q13</td>
+<td align="center">Aplicativo deve ensinar xadrez ao usuário</td>
+<td align="center">RF</td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: center">
+<p>
+Tabela 6: Requisitos elicitados com o questionário (Fonte: autor, 2022).
+</p>
+</div>
+
+<p><strong>Legenda</strong></p>
+<ul>
+<li>Q: Questionário</li>
+<li>RF: Requisito Funcional</li>
+<li>RNF: Requisito Não Funcional</li>
+</ul>
+<h2 id="bibliografia">Bibliografia</h2>
+<p>[1] VASQUEZ, Carlos E; SIVOES, Guilherme S. Engenharia de Requisitos - Software orientado ao negócio.</p>
+<h2 id="historico-de-versao">Histórico de Versão</h2>
+<table>
+<thead>
+<tr>
+<th>Versão</th>
+<th>Data</th>
+<th>Descrição</th>
+<th>Autor(es)</th>
+<th>Revisor(es)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>1.0</code></td>
+<td>22/11/2022</td>
+<td>Criação do documento e adição da introdução</td>
+<td>Mauricio</td>
+<td>Lucas Macedo</td>
+</tr>
+<tr>
+<td><code>1.1</code></td>
+<td>24/11/2022</td>
+<td>Adição do resultado do questionário</td>
+<td>Mauricio</td>
+<td>Lucas Macedo</td>
+</tr>
+<tr>
+<td><code>1.2</code></td>
+<td>03/01/2023</td>
+<td>Ajustes nas legendas e padronização com os demais artefatos. Verificação dos requisitos.</td>
+<td>Nicolas Souza</td>
+<td>Lucas Macedo</td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      Copyright &copy; 2022 Lichess
+    </div>
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    <script id="__config" type="application/json">{"base": "../..", "features": ["tabs", "navigation.section"], "search": "../../assets/javascripts/workers/search.e5c33ebb.min.js", "translations": {"clipboard.copied": "Copiado para \u00e1rea de transfer\u00eancia", "clipboard.copy": "Copiar para \u00e1rea de transfer\u00eancia", "search.result.more.one": "Mais 1 nesta p\u00e1gina", "search.result.more.other": "Mais # nesta p\u00e1gina", "search.result.none": "Nenhum resultado encontrado", "search.result.one": "1 resultado encontrado", "search.result.other": "# resultados encontrados", "search.result.placeholder": "Digite para iniciar a busca", "search.result.term.missing": "Ausente", "select.version": "Selecione a vers\u00e3o"}}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.ba449ae6.min.js"></script>
+      
+    
+  </body>
+</html>
