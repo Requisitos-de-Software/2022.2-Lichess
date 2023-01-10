@@ -16,6 +16,6 @@ Neste documento, será realizado a verificação do artefato sobre Priorização
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição                                                                              | Autor(es)        | Revisor(es)  |
-| ------ | ---------- | -------------------------------------------------------------------------------------- | ---------------- | ------------ |
-| 1.0  | 08/01/2023 | Criação do documento                                              | Lucas Macedo         | Davi |
+| Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
+| ------ | ------------- | ---------------------------------- | ------------- | ------------- |
+| `1.0`  | 08/01/2023    | Criação do documento               | Lucas Macedo  |   Davi |
