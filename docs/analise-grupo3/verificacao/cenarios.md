@@ -45,4 +45,4 @@ O checklist utilizado e a inspeção realizada podem ser observados na Tabela 1.
 
 | Versão | Data       | Descrição            | Autor(es)     | Revisor(es) |
 | ------ | ---------- | -------------------- | ------------- | ----------- |
-| `1.0`  | 09/01/2023 | Criação do documento | Lucas Gabriel |             |
+| `1.0`  | 09/01/2023 | Criação do documento | Lucas Gabriel | Nicolas Souza  |
